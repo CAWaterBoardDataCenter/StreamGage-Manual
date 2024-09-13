@@ -1,0 +1,67 @@
+[
+  {
+    "objectID": "admin/procurement.html",
+    "href": "admin/procurement.html",
+    "title": "Procurement",
+    "section": "",
+    "text": "Please work with DWRs’s procurement lead to coordinate your supplies purchases. The process changes frequently. It can take several months (up to 12 months or more) from time of placing order to receiving goods, so plan in advance if possible.\n\n\nThe following consumables may be needed\n\nADCP Consumables",
+    "crumbs": [
+      "Admin Stuff",
+      "Procurement"
+    ]
+  },
+  {
+    "objectID": "admin/procurement.html#consumables",
+    "href": "admin/procurement.html#consumables",
+    "title": "Procurement",
+    "section": "",
+    "text": "The following consumables may be needed\n\nADCP Consumables",
+    "crumbs": [
+      "Admin Stuff",
+      "Procurement"
+    ]
+  },
+  {
+    "objectID": "adcp/equipment_checklist.html",
+    "href": "adcp/equipment_checklist.html",
+    "title": "Equipment CheckList",
+    "section": "",
+    "text": "The ADCP equipment falls into four major buckets: the sensor, the GPS system, the platform, and the motor for the platform. There are many small pieces in the system and you are encouraged to put everything together and check operation before heading out into the field.\n\n\nHere is a list of items that were purchased in 2024 when the equipment was brand new. Th\n\n\n\nThe following items are consumables associated with the ADCP. You may also need to order replacements for lost or broken parts, such as screws.\n\nAA batteries (32)\nKrytox GPL205 grease for the screws (if dried out)\n20 Amp glasses fuse 6.3 mm x 32 mm (250V)",
+    "crumbs": [
+      "ADCP Operations",
+      "Equipment CheckList"
+    ]
+  },
+  {
+    "objectID": "adcp/equipment_checklist.html#inventory-and-gear-checkout",
+    "href": "adcp/equipment_checklist.html#inventory-and-gear-checkout",
+    "title": "Equipment CheckList",
+    "section": "",
+    "text": "Here is a list of items that were purchased in 2024 when the equipment was brand new. Th",
+    "crumbs": [
+      "ADCP Operations",
+      "Equipment CheckList"
+    ]
+  },
+  {
+    "objectID": "adcp/equipment_checklist.html#consumables",
+    "href": "adcp/equipment_checklist.html#consumables",
+    "title": "Equipment CheckList",
+    "section": "",
+    "text": "The following items are consumables associated with the ADCP. You may also need to order replacements for lost or broken parts, such as screws.\n\nAA batteries (32)\nKrytox GPL205 grease for the screws (if dried out)\n20 Amp glasses fuse 6.3 mm x 32 mm (250V)",
+    "crumbs": [
+      "ADCP Operations",
+      "Equipment CheckList"
+    ]
+  },
+  {
+    "objectID": "admin/index.html",
+    "href": "admin/index.html",
+    "title": "Administrative goodies",
+    "section": "",
+    "text": "Administrative goodies\nThis section contains resources to make administrative tasks a bit more straightforward.",
+    "crumbs": [
+      "Admin Stuff"
+    ]
+  }
+]

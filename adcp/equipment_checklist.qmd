@@ -1,1 +1,15 @@
 # Equipment CheckList
+
+The ADCP equipment falls into four major buckets: the sensor, the GPS system, the platform, and the motor for the platform. There are many small pieces in the system and you are encouraged to put everything together and check operation before heading out into the field.
+
+## Inventory and Gear Checkout
+
+Here is a [list of items that were purchased](https://cawaterboards.sharepoint.com/:x:/r/sites/WB-DWR-UASProgram/_layouts/15/Doc.aspx?sourcedoc=%7B76A62C99-94CF-42B1-A99C-8D655CD2AA5C%7D&file=RiverSurveyor_Parts_List.xlsx&action=default&mobileredirect=true) in 2024 when the equipment was brand new. Th
+
+## Consumables associated with the ADCP {#consumables}
+
+The following items are consumables associated with the ADCP. You may also need to order replacements for lost or broken parts, such as screws.
+
+-   AA batteries (32)
+-   Krytox GPL205 grease for the screws (if dried out)
+-   20 Amp glasses fuse 6.3 mm x 32 mm (250V)
