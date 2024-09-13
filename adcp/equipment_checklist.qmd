@@ -2,11 +2,50 @@
 
 The ADCP equipment falls into four major buckets: the sensor, the GPS system, the platform, and the motor for the platform. There are many small pieces in the system and you are encouraged to put everything together and check operation before heading out into the field.
 
+The complete setup with components is shown in the figure below.
+
+![](../images/rqpod-components.jpg){width="600"}
+
 ## Inventory and Gear Checkout
 
-Here is a [list of items that were purchased](https://cawaterboards.sharepoint.com/:x:/r/sites/WB-DWR-UASProgram/_layouts/15/Doc.aspx?sourcedoc=%7B76A62C99-94CF-42B1-A99C-8D655CD2AA5C%7D&file=RiverSurveyor_Parts_List.xlsx&action=default&mobileredirect=true) in 2024 when the equipment was brand new. Th
+Here is a [list of items that were purchased](https://cawaterboards.sharepoint.com/:x:/r/sites/WB-DWR-UASProgram/_layouts/15/Doc.aspx?sourcedoc=%7B76A62C99-94CF-42B1-A99C-8D655CD2AA5C%7D&file=RiverSurveyor_Parts_List.xlsx&action=default&mobileredirect=true) in 2024 when the equipment was brand new. The equipment must be reserved and checked out on the [DWR Reserve Equipment page](https://cawaterboards.sharepoint.com/sites/WB-DWR-UASProgram/SitePages/ProjectHome.aspx).
 
-## Consumables associated with the ADCP {#consumables}
+## Pre-Trip Checklist
+
+-   gather all equipment and assemble to ensure nothing is missing
+-   charge rQPOD batteries and rQPOD radio controller
+-   get 32 AA batteries and spares for M9
+-   turn on equipment and check that is it functioning
+-   review the manuals and equipment list
+
+## Gear List
+
+The following equipment should be gathered and brought to the field when doing ADCP surveys:
+
+-   trucks and all truck safety equipment
+-   SPOT beacon (input important numbers before leaving)
+-   Personal safety equipment, including life jackets, orange safety vests, and good footwear.
+
+### Streamflow {#streamflowadcplist}
+
+-   
+
+### Bathymetry
+
+Everything on the [streamflow adcp list](#streamflowadcplist) plus the rQPOD (and all pieces) and [HYPACK MAX software with software license](bathymetry_gettingstarted.qmd).
+
+![](../images/rqpodthrusters.png){width="300"}
+
+The rQPOD is shown above, and consists of a motor with two thrusters and radio controller. Information about assembling and using rQPOD can be found on the [rQPOD sharepoint](https://cawaterboards.sharepoint.com/sites/WB-DWR-UASProgram/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FWB%2DDWR%2DUASProgram%2FShared%20Documents%2F01%2DEquipment%2F03%2DManuals%20%26%20Instructions%2FSontek%5FRiver%5FSurveyor%5F%28ADCP%29%2Frqpod%20%28motor%29&viewid=a32c631e%2Db6fc%2D4a60%2D93ef%2D6869b722d57d) and the [manufacturers's website](https://www.xylem.com/en-us/products--services/analytical-instruments-and-equipment/data-collection-mapping-profiling-survey-systems/survey-systems/rqpod-remote-boat-surveying-package/). Batteries must be charged for the radio controller and motor! The rQPOD is kept in a large black case, which should contain:
+
+-   rQPOD remote controlled motor (in white box)
+-   two thrusters with cables and (red/green) skid guards
+-   magnetic pen (to turn motor on)
+-   TORX drive and box of screw for motors, skid guard, and housing (assemble!) and fin key
+-   2 drone (Lipo) batteries and battery charger, in orange case
+-   Radiomaster controller
+
+### Consumables associated with the ADCP {#consumables}
 
 The following items are consumables associated with the ADCP. You may also need to order replacements for lost or broken parts, such as screws.
 

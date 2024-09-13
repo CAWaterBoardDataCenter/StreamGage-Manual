@@ -6,4 +6,4 @@ Please work with DWRs's procurement lead to coordinate your supplies purchases. 
 
 The following consumables may be needed
 
--   [ADCP Consumables](../adcp/equipment_checklist.html#consumables)
+-   [ADCP Consumables](../adcp/equipment_checklist.qmd)
