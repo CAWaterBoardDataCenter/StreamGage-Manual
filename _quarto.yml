@@ -33,10 +33,16 @@ website:
         text: Welcome!
       - section: about/index.qmd
         text: Stream Gaging Basics
+        contents:
+          - about/howitworks.qmd
       - section: gage/index.qmd
         text: Gage Installation and Maintenance
+        contents:
+          - gage/siteselection.qmd 
       - section: flowmmt/index.qmd
         text: Flow Measurement
+        contents:
+          - flowmmt/siteselectionflow.qmd 
       - section: adcp/index.qmd
         text: ADCP Operations
         contents:
@@ -49,8 +55,12 @@ website:
           - adcp/data_processing_bathymetry.qmd
       - section: ratings/index.qmd
         text: Rating Curves
+        contents:
+          - ratings/plottingandregression.qmd 
       - section: datamgmt/index.qmd
         text: Data Handling and Documentation
+        contents:
+         - datamgmt/datatostore.qmd
       - section: admin/index.qmd
         text: Admin Stuff
         contents:
@@ -78,4 +88,4 @@ filters:
   - quarto
 
 execute:
-  freeze: autoAD`
+  freeze: auto
