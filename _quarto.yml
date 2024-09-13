@@ -4,7 +4,7 @@ project:
 website:
   page-navigation: true
   title: "Stream Gage Manual"
-  site-url: "https://cawaterboarddatacenter.github.io/swamp-manual/" 
+  site-url: "https://cawaterboarddatacenter.github.io/stream_gaging/" 
   repo-url: https://github.com/CAWaterBoardDataCenter/StreamGage-Manual
   repo-actions: [edit, source, issue]
   favicon: images/logo-transparent.png  
@@ -22,7 +22,7 @@ website:
         href: https://www.waterboards.ca.gov/water_issues/programs/swamp/
         text: "Stream Gaging"
       - icon: github
-        href: https://cawaterboarddatacenter.github.io/swamp-manual/
+        href: https://github.com/CAWaterBoardDataCenter/StreamGage-Manual
         text: "Stream Gage Manual"
               
     style: "docked"
@@ -32,20 +32,31 @@ website:
       - href: index.qmd
         text: Welcome!
       - section: about/index.qmd
-        text: About SWAMP
+        text: Stream Gaging Basics
+      - section: gage/index.qmd
+        text: Gage Installation and Maintenance
+      - section: flowmmt/index.qmd
+        text: Flow Measurement
+      - section: adcp/index.qmd
+        text: ADCP Operations
         contents:
-          - about/lifecycle.qmd
-          - about/contacts.qmd
-      - section: culture/index.qmd
+          - adcp/streamflow_gettingstarted.qmd
+          - adcp/bathymetry_gettingstarted.qmd
+          - adcp/equipment_checklist.qmd
+          - adcp/measuring_streamflow.qmd
+          - adcp/measuring_bathymetry.qmd
+          - adcp/data_processing_streamflow.qmd
+          - adcp/data_processing_bathymetry.qmd
+      - section: ratings/index.qmd
+        text: Rating Curves
+      - section: datamgmt/index.qmd
+        text: Data Handling and Documentation
       - section: admin/index.qmd
-        text: Administrative Goodies
+        text: Admin Stuff
         contents:
-          - admin/onboarding.qmd
-          - admin/tech.qmd
-          - admin/training.qmd
+          - admin/contacts.qmd
           - admin/travel.qmd
           - admin/procurement.qmd
-          - admin/offboarding.qmd
       - href: contribute.qmd
         text: Contibuting
       - href: inspiration.qmd
@@ -67,4 +78,4 @@ filters:
   - quarto
 
 execute:
-  freeze: auto
+  freeze: autoAD`

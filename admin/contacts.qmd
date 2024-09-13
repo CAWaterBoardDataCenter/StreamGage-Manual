@@ -1,0 +1,13 @@
+# Stream Gaging Team
+
+Stream gaging and bathymetry measurements are currently being done by a variety of units for different projects, mostly within the Division of Water Rights. Division equipment is internally on Sharepoint.
+
+| Name       | Project(s)       | Expertise                                                              |
+|------------|------------------|------------------------------------------------------------------------|
+| Val Zimmer | Clear Lake Hitch | Flow measurement, Rating curve development, equipment, data management |
+|            |                  |                                                                        |
+|            |                  |                                                                        |
+|            |                  |                                                                        |
+|            |                  |                                                                        |
+
+## 
