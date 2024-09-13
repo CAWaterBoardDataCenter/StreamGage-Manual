@@ -3,28 +3,27 @@ project:
 
 website:
   page-navigation: true
-  title: "SWAMP Manual"
+  title: "Stream Gage Manual"
   site-url: "https://cawaterboarddatacenter.github.io/swamp-manual/" 
-  repo-url: https://github.com/CAWaterBoardDataCenter/swamp-manual
+  repo-url: https://github.com/CAWaterBoardDataCenter/StreamGage-Manual
   repo-actions: [edit, source, issue]
-  favicon: images/swamp-iq-logos.png  
+  favicon: images/logo-transparent.png  
   
   page-footer:
     right: "This manual is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By CA Water Board, 2023"
+    left: "&copy; CC-By CA Water Board, 2024"
 
   sidebar:
-    logo: "images/swamp-iq-logos.png"
-    favicon: images/swamp-iq-logos.png
-    pinned: true
+    logo: "images/logo-transparent.png"
+    favicon: images/logo-transparent.png
     align: center
     tools: 
       - icon: globe
         href: https://www.waterboards.ca.gov/water_issues/programs/swamp/
-        text: "SWAMP"
+        text: "Stream Gaging"
       - icon: github
         href: https://cawaterboarddatacenter.github.io/swamp-manual/
-        text: "SWAMP Manual"
+        text: "Stream Gage Manual"
               
     style: "docked"
     search: true
@@ -38,12 +37,6 @@ website:
           - about/lifecycle.qmd
           - about/contacts.qmd
       - section: culture/index.qmd
-        text: Culture
-        contents:
-          - culture/values.qmd
-          - culture/codeofconduct.qmd
-          - culture/expectations.qmd
-          - culture/development.qmd
       - section: admin/index.qmd
         text: Administrative Goodies
         contents:
