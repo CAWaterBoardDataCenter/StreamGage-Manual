@@ -12,10 +12,9 @@ Here is a [list of items that were purchased](https://cawaterboards.sharepoint.c
 
 ## Pre-Trip Checklist
 
--   gather all equipment and assemble to ensure nothing is missing
 -   charge rQPOD batteries and rQPOD radio controller
 -   get 32 AA batteries and spares for M9
--   turn on equipment and check that is it functioning
+-   gather equipment and turn it on to check that is it functioning
 -   review the manuals and equipment list
 
 ## Gear List
@@ -28,9 +27,28 @@ The following equipment should be gathered and brought to the field when doing A
 
 ### Streamflow {#streamflowadcplist}
 
--   
+Streamflow measurements with the ADCP require equipment as listed below and the [RiverSurveyor Live! software](streamflow_gettingstarted.qmd) installed on a field computer. The system consists of a platform, a GPS system, and the instrument itself, a Sontek M9. The ADCP can either be controlled with an rQPOD remote-controlled motor, or tethered off a bridge or with ropes from either side.
 
-### Bathymetry
+![](../images/M9streamflow.png){width="300"}
+
+The River Surveyor (Sontek M9) manuals can be found on the [riversurveyor sharepoint](https://cawaterboards.sharepoint.com/sites/WB-DWR-UASProgram/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FWB%2DDWR%2DUASProgram%2FShared%20Documents%2F01%2DEquipment%2F03%2DManuals%20%26%20Instructions%2FSontek%5FRiver%5FSurveyor%5F%28ADCP%29%2Friversurveyor%5Fand%5Fgps%5Frtk&viewid=a32c631e%2Db6fc%2D4a60%2D93ef%2D6869b722d57d) and at the [Sontek website](https://www.xylem.com/en-us/products--services/analytical-instruments-and-equipment/flowmeters-velocimeters/sontek-m9/documentation/).
+
+-   Torrent board, with
+    -   fins and fin keys
+    -   tow-strap plus 100 ft rope (for tethering)
+-   *OPTIONAL* [rQPOD remote-controlled motor system](#bathymetry) (for untethered)
+-   River Survey M9 with xx-pin cable (to plug into RTK GPS)
+-   RTK GPS Base Station
+    -   base station with 16 AA batteries and tripod mount
+    -   tripod
+    -   GPS antenna, cables, rod, and tripod mount, with screws
+    -   telemetry antenna with cable(s)
+-   RTK GPS Rover
+    -   rover station with 16 AA batteries
+    -   GPS antenna, cables, rod, and board mount, with screws
+    -   telemetry antenna with cable(s)
+
+### Bathymetry {#bathymetry}
 
 Everything on the [streamflow adcp list](#streamflowadcplist) plus the rQPOD (and all pieces) and [HYPACK MAX software with software license](bathymetry_gettingstarted.qmd).
 
