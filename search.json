@@ -66,7 +66,7 @@
     "href": "adcp/equipment_checklist.html",
     "title": "Equipment CheckList",
     "section": "",
-    "text": "The ADCP equipment falls into four major buckets: the sensor, the GPS system, the platform, and the motor for the platform. There are many small pieces in the system and you are encouraged to put everything together and check operation before heading out into the field.\nThe complete setup with components is shown in the figure below.\n\n\n\nHere is a list of items that were purchased in 2024 when the equipment was brand new. The equipment must be reserved and checked out on the DWR Reserve Equipment page.\n\n\n\n\ngather all equipment and assemble to ensure nothing is missing\ncharge rQPOD batteries and rQPOD radio controller\nget 32 AA batteries and spares for M9\nturn on equipment and check that is it functioning\nreview the manuals and equipment list\n\n\n\n\nThe following equipment should be gathered and brought to the field when doing ADCP surveys:\n\ntrucks and all truck safety equipment\nSPOT beacon (input important numbers before leaving)\nPersonal safety equipment, including life jackets, orange safety vests, and good footwear.\n\n\n\n\n\n\n\n\n\nEverything on the streamflow adcp list plus the rQPOD (and all pieces) and HYPACK MAX software with software license.\n\nThe rQPOD is shown above, and consists of a motor with two thrusters and radio controller. Information about assembling and using rQPOD can be found on the rQPOD sharepoint and the manufacturers’s website. Batteries must be charged for the radio controller and motor! The rQPOD is kept in a large black case, which should contain:\n\nrQPOD remote controlled motor (in white box)\ntwo thrusters with cables and (red/green) skid guards\nmagnetic pen (to turn motor on)\nTORX drive and box of screw for motors, skid guard, and housing (assemble!) and fin key\n2 drone (Lipo) batteries and battery charger, in orange case\nRadiomaster controller\n\n\n\n\nThe following items are consumables associated with the ADCP. You may also need to order replacements for lost or broken parts, such as screws.\n\nAA batteries (32)\nKrytox GPL205 grease for the screws (if dried out)\n20 Amp glasses fuse 6.3 mm x 32 mm (250V)",
+    "text": "The ADCP equipment falls into four major buckets: the sensor, the GPS system, the platform, and the motor for the platform. There are many small pieces in the system and you are encouraged to put everything together and check operation before heading out into the field.\nThe complete setup with components is shown in the figure below.\n\n\n\nHere is a list of items that were purchased in 2024 when the equipment was brand new. The equipment must be reserved and checked out on the DWR Reserve Equipment page.\n\n\n\n\ncharge rQPOD batteries and rQPOD radio controller\nget 32 AA batteries and spares for M9\ngather equipment and turn it on to check that is it functioning\nreview the manuals and equipment list\n\n\n\n\nThe following equipment should be gathered and brought to the field when doing ADCP surveys:\n\ntrucks and all truck safety equipment\nSPOT beacon (input important numbers before leaving)\nPersonal safety equipment, including life jackets, orange safety vests, and good footwear.\n\n\n\nStreamflow measurements with the ADCP require equipment as listed below and the RiverSurveyor Live! software installed on a field computer. The system consists of a platform, a GPS system, and the instrument itself, a Sontek M9. The ADCP can either be controlled with an rQPOD remote-controlled motor, or tethered off a bridge or with ropes from either side.\n\nThe River Surveyor (Sontek M9) manuals can be found on the riversurveyor sharepoint and at the Sontek website.\n\nTorrent board, with\n\nfins and fin keys\ntow-strap plus 100 ft rope (for tethering)\n\nOPTIONAL rQPOD remote-controlled motor system (for untethered)\nRiver Survey M9 with xx-pin cable (to plug into RTK GPS)\nRTK GPS Base Station\n\nbase station with 16 AA batteries and tripod mount\ntripod\nGPS antenna, cables, rod, and tripod mount, with screws\ntelemetry antenna with cable(s)\n\nRTK GPS Rover\n\nrover station with 16 AA batteries\nGPS antenna, cables, rod, and board mount, with screws\ntelemetry antenna with cable(s)\n\n\n\n\n\nEverything on the streamflow adcp list plus the rQPOD (and all pieces) and HYPACK MAX software with software license.\n\nThe rQPOD is shown above, and consists of a motor with two thrusters and radio controller. Information about assembling and using rQPOD can be found on the rQPOD sharepoint and the manufacturers’s website. Batteries must be charged for the radio controller and motor! The rQPOD is kept in a large black case, which should contain:\n\nrQPOD remote controlled motor (in white box)\ntwo thrusters with cables and (red/green) skid guards\nmagnetic pen (to turn motor on)\nTORX drive and box of screw for motors, skid guard, and housing (assemble!) and fin key\n2 drone (Lipo) batteries and battery charger, in orange case\nRadiomaster controller\n\n\n\n\nThe following items are consumables associated with the ADCP. You may also need to order replacements for lost or broken parts, such as screws.\n\nAA batteries (32)\nKrytox GPL205 grease for the screws (if dried out)\n20 Amp glasses fuse 6.3 mm x 32 mm (250V)",
     "crumbs": [
       "ADCP Operations",
       "Equipment CheckList"
@@ -88,7 +88,7 @@
     "href": "adcp/equipment_checklist.html#pre-trip-checklist",
     "title": "Equipment CheckList",
     "section": "",
-    "text": "gather all equipment and assemble to ensure nothing is missing\ncharge rQPOD batteries and rQPOD radio controller\nget 32 AA batteries and spares for M9\nturn on equipment and check that is it functioning\nreview the manuals and equipment list",
+    "text": "charge rQPOD batteries and rQPOD radio controller\nget 32 AA batteries and spares for M9\ngather equipment and turn it on to check that is it functioning\nreview the manuals and equipment list",
     "crumbs": [
       "ADCP Operations",
       "Equipment CheckList"
@@ -99,10 +99,32 @@
     "href": "adcp/equipment_checklist.html#gear-list",
     "title": "Equipment CheckList",
     "section": "",
-    "text": "The following equipment should be gathered and brought to the field when doing ADCP surveys:\n\ntrucks and all truck safety equipment\nSPOT beacon (input important numbers before leaving)\nPersonal safety equipment, including life jackets, orange safety vests, and good footwear.\n\n\n\n\n\n\n\n\n\nEverything on the streamflow adcp list plus the rQPOD (and all pieces) and HYPACK MAX software with software license.\n\nThe rQPOD is shown above, and consists of a motor with two thrusters and radio controller. Information about assembling and using rQPOD can be found on the rQPOD sharepoint and the manufacturers’s website. Batteries must be charged for the radio controller and motor! The rQPOD is kept in a large black case, which should contain:\n\nrQPOD remote controlled motor (in white box)\ntwo thrusters with cables and (red/green) skid guards\nmagnetic pen (to turn motor on)\nTORX drive and box of screw for motors, skid guard, and housing (assemble!) and fin key\n2 drone (Lipo) batteries and battery charger, in orange case\nRadiomaster controller\n\n\n\n\nThe following items are consumables associated with the ADCP. You may also need to order replacements for lost or broken parts, such as screws.\n\nAA batteries (32)\nKrytox GPL205 grease for the screws (if dried out)\n20 Amp glasses fuse 6.3 mm x 32 mm (250V)",
+    "text": "The following equipment should be gathered and brought to the field when doing ADCP surveys:\n\ntrucks and all truck safety equipment\nSPOT beacon (input important numbers before leaving)\nPersonal safety equipment, including life jackets, orange safety vests, and good footwear.\n\n\n\nStreamflow measurements with the ADCP require equipment as listed below and the RiverSurveyor Live! software installed on a field computer. The system consists of a platform, a GPS system, and the instrument itself, a Sontek M9. The ADCP can either be controlled with an rQPOD remote-controlled motor, or tethered off a bridge or with ropes from either side.\n\nThe River Surveyor (Sontek M9) manuals can be found on the riversurveyor sharepoint and at the Sontek website.\n\nTorrent board, with\n\nfins and fin keys\ntow-strap plus 100 ft rope (for tethering)\n\nOPTIONAL rQPOD remote-controlled motor system (for untethered)\nRiver Survey M9 with xx-pin cable (to plug into RTK GPS)\nRTK GPS Base Station\n\nbase station with 16 AA batteries and tripod mount\ntripod\nGPS antenna, cables, rod, and tripod mount, with screws\ntelemetry antenna with cable(s)\n\nRTK GPS Rover\n\nrover station with 16 AA batteries\nGPS antenna, cables, rod, and board mount, with screws\ntelemetry antenna with cable(s)\n\n\n\n\n\nEverything on the streamflow adcp list plus the rQPOD (and all pieces) and HYPACK MAX software with software license.\n\nThe rQPOD is shown above, and consists of a motor with two thrusters and radio controller. Information about assembling and using rQPOD can be found on the rQPOD sharepoint and the manufacturers’s website. Batteries must be charged for the radio controller and motor! The rQPOD is kept in a large black case, which should contain:\n\nrQPOD remote controlled motor (in white box)\ntwo thrusters with cables and (red/green) skid guards\nmagnetic pen (to turn motor on)\nTORX drive and box of screw for motors, skid guard, and housing (assemble!) and fin key\n2 drone (Lipo) batteries and battery charger, in orange case\nRadiomaster controller\n\n\n\n\nThe following items are consumables associated with the ADCP. You may also need to order replacements for lost or broken parts, such as screws.\n\nAA batteries (32)\nKrytox GPL205 grease for the screws (if dried out)\n20 Amp glasses fuse 6.3 mm x 32 mm (250V)",
     "crumbs": [
       "ADCP Operations",
       "Equipment CheckList"
+    ]
+  },
+  {
+    "objectID": "adcp/bathymetry_gettingstarted.html",
+    "href": "adcp/bathymetry_gettingstarted.html",
+    "title": "Bathymetry - Getting Started",
+    "section": "",
+    "text": "Documentation for HYPACK MAX is found on the HYPACK_MAX sharepoint page on the HYPACK software website.",
+    "crumbs": [
+      "ADCP Operations",
+      "Bathymetry - Getting Started"
+    ]
+  },
+  {
+    "objectID": "adcp/bathymetry_gettingstarted.html#hypack-max",
+    "href": "adcp/bathymetry_gettingstarted.html#hypack-max",
+    "title": "Bathymetry - Getting Started",
+    "section": "",
+    "text": "Documentation for HYPACK MAX is found on the HYPACK_MAX sharepoint page on the HYPACK software website.",
+    "crumbs": [
+      "ADCP Operations",
+      "Bathymetry - Getting Started"
     ]
   },
   {
@@ -110,7 +132,7 @@
     "href": "adcp/data_processing_bathymetry.html",
     "title": "Data Processing Bathymetry",
     "section": "",
-    "text": "Data Processing Bathymetry\nBathymetry data need to be processed with HYPACK MAX software.",
+    "text": "Bathymetry data need to be processed with HYPACK MAX software.",
     "crumbs": [
       "ADCP Operations",
       "Data Processing Bathymetry"
@@ -121,7 +143,29 @@
     "href": "adcp/streamflow_gettingstarted.html",
     "title": "ADCP for StreamFlow - Getting Started",
     "section": "",
-    "text": "ADCP for StreamFlow - Getting Started",
+    "text": "Documentation for RiverSurveyor Live! is found on the RiverSurveyor Live sharepoint page on the official software website. No license is needed for this software.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSite selection is an important componet of flow measurements, especially for an ADCP. Xylem guide",
+    "crumbs": [
+      "ADCP Operations",
+      "ADCP for StreamFlow - Getting Started"
+    ]
+  },
+  {
+    "objectID": "adcp/streamflow_gettingstarted.html#riversurveyor-live-software",
+    "href": "adcp/streamflow_gettingstarted.html#riversurveyor-live-software",
+    "title": "ADCP for StreamFlow - Getting Started",
+    "section": "",
+    "text": "Documentation for RiverSurveyor Live! is found on the RiverSurveyor Live sharepoint page on the official software website. No license is needed for this software.",
+    "crumbs": [
+      "ADCP Operations",
+      "ADCP for StreamFlow - Getting Started"
+    ]
+  },
+  {
+    "objectID": "adcp/streamflow_gettingstarted.html#site-selection",
+    "href": "adcp/streamflow_gettingstarted.html#site-selection",
+    "title": "ADCP for StreamFlow - Getting Started",
+    "section": "",
+    "text": "Site selection is an important componet of flow measurements, especially for an ADCP. Xylem guide",
     "crumbs": [
       "ADCP Operations",
       "ADCP for StreamFlow - Getting Started"
