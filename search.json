@@ -66,7 +66,7 @@
     "href": "adcp/bathymetry_field_measurement.html",
     "title": "Bathymetry: Field Measurement",
     "section": "",
-    "text": "This section describes how to collect bathymetry data in a stationary body of water. add section on collecting bathymetry data in moving water?\n\n\n\ninstall software\ncheck equipment\n\n\n\n\n\n\n\n\n\n\n\nsoftware operation\nnote-taking",
+    "text": "This section describes how to use the ADCP for bathymetry measurements in the field. The section describes data collection in a stationary body of water, not for streamflow measurements. add section on collecting bathymetry data in moving water?\n\n\n\ninstall software\ncheck equipment\n\n\n\n\n\n\n\n\n\n\n\nsoftware operation\nnote-taking",
     "crumbs": [
       "ADCP Operations",
       "Bathymetry: Field Measurement"
@@ -107,89 +107,89 @@
   {
     "objectID": "adcp/bathymetry_gettingstarted.html",
     "href": "adcp/bathymetry_gettingstarted.html",
-    "title": "Getting Started: Bathymetry",
+    "title": "Bathymetry: Getting Started",
     "section": "",
-    "text": "Bathymetry measurements with the ADCP require the HYPACK MAX software to collect data in the field and to process the data back in the lab. HYPACK MAX\nDocumentation for HYPACK MAX is found on the HYPACK_MAX sharepoint page on the HYPACK software website.\nWe have a single software license that must be shared. This license will work indefinitely, but software updates and technical support are subscription-based, and currently active to ~mid 2025.\n\n\nPut in a help desk ticket to DIT have have the software activated in your Software Center (type software center into the search bar, shown below). You may wish to check for updates since Sept 2024 before doing so on the HYPACK software website. Install all files onto your computer.\n\n\n\n\nWe have a single “soft license” for sharing, and it is important that staff are diligent in deactivating the license when not in use. The license deactivates automatically after 90 days. The process for obtaining access to the license (aka the Activation Key) is TBD (working with DIT 2024-09-16).\nTo activate the license, open up HYPACK License Manager, select Activate/Deactivate Soft License, allow the HYPACK Soft License Wizard to open, and click Activate your license. Select Activate Online (doing so offline may cause issues). Put in the Activation Key and click Activate.\n\nTo deactivate the license, open up HYPACK License Manager and select Activate/Deactivate Soft License.\n\n\n\n\nconnect computer to the M9 river surveyor instrument to check function\n\n\n\npractice driving the rQPOD and collecting good data before going into the field at a project site.",
+    "text": "This section describes how to get started using the ADCP for bathymetry measurements.\n\n\nBathymetry measurements with the ADCP require the HYPACK MAX software to collect data in the field and to process the data back in the lab. HYPACK MAX\nDocumentation for HYPACK MAX is found on the HYPACK_MAX sharepoint page on the HYPACK software website.\nWe have a single software license that must be shared. This license will work indefinitely, but software updates and technical support are subscription-based, and currently active to ~mid 2025.\n\n\nPut in a help desk ticket to DIT have have the software activated in your Software Center (type software center into the search bar, shown below). You may wish to check for updates since Sept 2024 before doing so on the HYPACK software website. Install all files onto your computer.\n\n\n\n\nWe have a single “soft license” for sharing, and it is important that staff are diligent in deactivating the license when not in use. The license deactivates automatically after 90 days. The process for obtaining access to the license (aka the Activation Key) is TBD (working with DIT 2024-09-16).\nTo activate the license, open up HYPACK License Manager, select Activate/Deactivate Soft License, allow the HYPACK Soft License Wizard to open, and click Activate your license. Select Activate Online (doing so offline may cause issues). Put in the Activation Key and click Activate.\n\nTo deactivate the license, open up HYPACK License Manager and select Activate/Deactivate Soft License.\n\n\n\n\nconnect computer to the M9 river surveyor instrument to check function\n\n\n\npractice driving the rQPOD and collecting good data before going into the field at a project site.",
     "crumbs": [
       "ADCP Operations",
-      "Getting Started: Bathymetry"
+      "Bathymetry: Getting Started"
     ]
   },
   {
     "objectID": "adcp/bathymetry_gettingstarted.html#hypack-max",
     "href": "adcp/bathymetry_gettingstarted.html#hypack-max",
-    "title": "Getting Started: Bathymetry",
+    "title": "Bathymetry: Getting Started",
     "section": "",
     "text": "Bathymetry measurements with the ADCP require the HYPACK MAX software to collect data in the field and to process the data back in the lab. HYPACK MAX\nDocumentation for HYPACK MAX is found on the HYPACK_MAX sharepoint page on the HYPACK software website.\nWe have a single software license that must be shared. This license will work indefinitely, but software updates and technical support are subscription-based, and currently active to ~mid 2025.\n\n\nPut in a help desk ticket to DIT have have the software activated in your Software Center (type software center into the search bar, shown below). You may wish to check for updates since Sept 2024 before doing so on the HYPACK software website. Install all files onto your computer.\n\n\n\n\nWe have a single “soft license” for sharing, and it is important that staff are diligent in deactivating the license when not in use. The license deactivates automatically after 90 days. The process for obtaining access to the license (aka the Activation Key) is TBD (working with DIT 2024-09-16).\nTo activate the license, open up HYPACK License Manager, select Activate/Deactivate Soft License, allow the HYPACK Soft License Wizard to open, and click Activate your license. Select Activate Online (doing so offline may cause issues). Put in the Activation Key and click Activate.\n\nTo deactivate the license, open up HYPACK License Manager and select Activate/Deactivate Soft License.",
     "crumbs": [
       "ADCP Operations",
-      "Getting Started: Bathymetry"
+      "Bathymetry: Getting Started"
     ]
   },
   {
     "objectID": "adcp/bathymetry_gettingstarted.html#connecting-to-the-m9-instrument",
     "href": "adcp/bathymetry_gettingstarted.html#connecting-to-the-m9-instrument",
-    "title": "Getting Started: Bathymetry",
+    "title": "Bathymetry: Getting Started",
     "section": "",
     "text": "connect computer to the M9 river surveyor instrument to check function",
     "crumbs": [
       "ADCP Operations",
-      "Getting Started: Bathymetry"
+      "Bathymetry: Getting Started"
     ]
   },
   {
     "objectID": "adcp/bathymetry_gettingstarted.html#practice-driving-the-rqpod",
     "href": "adcp/bathymetry_gettingstarted.html#practice-driving-the-rqpod",
-    "title": "Getting Started: Bathymetry",
+    "title": "Bathymetry: Getting Started",
     "section": "",
     "text": "practice driving the rQPOD and collecting good data before going into the field at a project site.",
     "crumbs": [
       "ADCP Operations",
-      "Getting Started: Bathymetry"
+      "Bathymetry: Getting Started"
     ]
   },
   {
     "objectID": "adcp/streamflow_gettingstarted.html",
     "href": "adcp/streamflow_gettingstarted.html",
-    "title": "ADCP for StreamFlow - Getting Started",
+    "title": "Streamflow: Getting Started",
     "section": "",
-    "text": "Documentation for RiverSurveyor Live! is found on the RiverSurveyor Live sharepoint page on the official software website. No license is needed for this software.\n\n\nPut in a help desk ticket to DIT have have the software activated in your Software Center (type software center into the search bar, shown below). You may wish to check for updates since Sept 2024 before doing so on the River Surveyor software websitee. Install all files onto your computer.\n\n\n\n\n\nconnect computer to the M9 river surveyor instrument to check function\n\n\n\npractice driving the rQPOD and collecting good data before going into the field at a project site.",
+    "text": "This section describes how to get started using the ADCP, which is used in deep or large rivers, or in smaller rivers with high flows. The ADCP requires water depths of at least 1 ft (2 or more feet is better). For streamflow measurements wadeable streams, please see add section here.\n\n\nDocumentation for RiverSurveyor Live! is found on the RiverSurveyor Live sharepoint page on the official software website. No license is needed for this software.\n\n\nPut in a help desk ticket to DIT have have the software activated in your Software Center (type software center into the search bar, shown below). You may wish to check for updates since Sept 2024 before doing so on the River Surveyor software websitee. Install all files onto your computer.\n\n\n\n\n\nconnect computer to the M9 river surveyor instrument to check function\n\n\n\npractice driving the rQPOD and collecting good data before going into the field at a project site.",
     "crumbs": [
       "ADCP Operations",
-      "ADCP for StreamFlow - Getting Started"
+      "Streamflow: Getting Started"
     ]
   },
   {
     "objectID": "adcp/streamflow_gettingstarted.html#riversurveyor-live-software",
     "href": "adcp/streamflow_gettingstarted.html#riversurveyor-live-software",
-    "title": "ADCP for StreamFlow - Getting Started",
+    "title": "Streamflow: Getting Started",
     "section": "",
     "text": "Documentation for RiverSurveyor Live! is found on the RiverSurveyor Live sharepoint page on the official software website. No license is needed for this software.\n\n\nPut in a help desk ticket to DIT have have the software activated in your Software Center (type software center into the search bar, shown below). You may wish to check for updates since Sept 2024 before doing so on the River Surveyor software websitee. Install all files onto your computer.",
     "crumbs": [
       "ADCP Operations",
-      "ADCP for StreamFlow - Getting Started"
+      "Streamflow: Getting Started"
     ]
   },
   {
     "objectID": "adcp/streamflow_gettingstarted.html#connecting-to-the-m9-instrument",
     "href": "adcp/streamflow_gettingstarted.html#connecting-to-the-m9-instrument",
-    "title": "ADCP for StreamFlow - Getting Started",
+    "title": "Streamflow: Getting Started",
     "section": "",
     "text": "connect computer to the M9 river surveyor instrument to check function",
     "crumbs": [
       "ADCP Operations",
-      "ADCP for StreamFlow - Getting Started"
+      "Streamflow: Getting Started"
     ]
   },
   {
     "objectID": "adcp/streamflow_gettingstarted.html#practice-driving-the-rqpod",
     "href": "adcp/streamflow_gettingstarted.html#practice-driving-the-rqpod",
-    "title": "ADCP for StreamFlow - Getting Started",
+    "title": "Streamflow: Getting Started",
     "section": "",
     "text": "practice driving the rQPOD and collecting good data before going into the field at a project site.",
     "crumbs": [
       "ADCP Operations",
-      "ADCP for StreamFlow - Getting Started"
+      "Streamflow: Getting Started"
     ]
   },
   {
@@ -393,7 +393,7 @@
     "href": "adcp/streamflow_field_measurement.html",
     "title": "Streamflow: Field Measurement",
     "section": "",
-    "text": "This section describes field measurements and procedures for the ADCP, which is a high-flow and/or large volume river tool that requires water depths of at least 1 ft (2 or more feet is better).\nFor field measurements in wadeable streams (e.g. shallow and not swift), please see add section here.\nStandard operating procedures, including (general) site selection, note-taking, safety, and data management, follows the same general principles for both ADCP measurements and measurements made by wading in the stream using a flowtracker or other similar instrument. Please refer to add section here.\nThis page deals with the specifics of collecting good streamflow measurements using the Sontek M9 using either a bridge or shore tether or driving the rQPOD motor.\n\n\n\ninstall software\ncheck equipment",
+    "text": "This section describes field measurements and procedures for the ADCP, which is used in deep or large rivers, or in smaller rivers with high flows. The ADCP requires water depths of at least 1 ft (2 or more feet is better). For streamflow measurements wadeable streams, please see add section here..\nStandard operating procedures, including (general) site selection, note-taking, safety, and data management, follows the same general principles for both ADCP measurements and measurements made by wading in the stream using a flowtracker or other similar instrument. Please refer to add section here.\nThis page deals with the specifics of collecting good streamflow measurements using the Sontek M9 using either a bridge or shore tether or driving the rQPOD motor.\n\n\n\ninstall software\ncheck equipment",
     "crumbs": [
       "ADCP Operations",
       "Streamflow: Field Measurement"
