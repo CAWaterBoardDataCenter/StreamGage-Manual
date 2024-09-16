@@ -1,0 +1,3 @@
+# Streamflow: Data Processing
+
+This section describes how to acquire and process streamflow data collected with the Sontek M9. Data management and rating curve generation is the same as that done for streamflow measurements collected by other methods. Please refer to *add section here*.

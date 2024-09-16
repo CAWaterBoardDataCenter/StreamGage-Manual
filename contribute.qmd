@@ -2,7 +2,7 @@
 
 ## Who can contribute
 
-We are seeking contributors to this manual. Please contact @vlzimmer for
+We are seeking contributors to this manual. Please contact [Val Zimmer](https://github.com/vlzimmer) for more information.
 
 ## How we contribute
 

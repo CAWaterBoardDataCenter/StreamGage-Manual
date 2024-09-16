@@ -1,0 +1,19 @@
+# Bathymetry: Field Measurement
+
+This section describes how to collect bathymetry data in a stationary body of water. *add section on collecting bathymetry data in moving water?*
+
+## Pre-Trip Planning
+
+-   install software
+-   check equipment
+
+## Site Selection: Limitations and Issues
+
+## rQPOD Operation
+
+## Data Collection
+
+-   software operation
+-   note-taking
+
+## Data Management

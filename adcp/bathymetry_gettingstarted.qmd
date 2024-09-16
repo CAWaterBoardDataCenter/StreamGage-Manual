@@ -1,13 +1,33 @@
-# Bathymetry - Getting Started
+# Getting Started: Bathymetry
 
 ## HyPACK Max
 
+Bathymetry measurements with the ADCP require the HYPACK MAX software to collect data in the field and to process the data back in the lab. HYPACK MAX
+
 Documentation for HYPACK MAX is found on the [HYPACK_MAX sharepoint page](https://cawaterboards.sharepoint.com/:f:/r/sites/WB-DWR-UASProgram/Shared%20Documents/01-Equipment/03-Manuals%20%26%20Instructions/Sontek_River_Surveyor_(ADCP)/Software/HYPACK_MAX%20(bathymetric)?csf=1&web=1&e=dSpyUG) on the [HYPACK software website](https://www.xylem.com/en-us/brands/hypack/products/hypack-max/).
 
-### software license
+We have a single [software license](#hypacklicense) that must be shared. This license will work indefinitely, but software updates and technical support are subscription-based, and currently active to \~mid 2025.
 
-### installing software
+### Installing software {#installhypack}
 
-### softwar 
+Put in a help desk ticket to DIT have have the software activated in your Software Center (type software center into the search bar, shown below). You may wish to check for updates since Sept 2024 before doing so on the [HYPACK software website](https://www.xylem.com/en-us/brands/hypack/products/hypack-max/). Install all files onto your computer.
 
-## Practice
+![](../images/softwarecenter.png){width="300"}
+
+### Activating software with license {#hypacklicense}
+
+We have a single "soft license" for sharing, and [it is important that staff are diligent in deactivating the license when not in use]{style="color:red;"}. The license deactivates automatically after 90 days. The process for obtaining access to the license (aka the Activation Key) is TBD (working with DIT 2024-09-16).
+
+To activate the license, open up HYPACK License Manager, select *Activate/Deactivate Soft License*, allow the HYPACK Soft License Wizard to open, and click *Activate your license*. Select *Activate Online* (doing so offline may cause issues). Put in the Activation Key and click *Activate*.
+
+![](../images/Activate_Hypack.png){width="300"}
+
+To deactivate the license, open up HYPACK License Manager and select *Activate/Deactivate Soft License*.
+
+## Connecting to the M9 instrument
+
+connect computer to the M9 river surveyor instrument to check function
+
+## Practice driving the rQPOD 
+
+practice driving the rQPOD and collecting good data before going into the field at a project site.

@@ -1,0 +1,24 @@
+# Streamflow: Field Measurement
+
+This section describes field measurements and procedures for the ADCP, which is a high-flow and/or large volume river tool that requires water depths of at least 1 ft (2 or more feet is better).
+
+For field measurements in wadeable streams (e.g. shallow and not swift), please see *add section here*.
+
+Standard operating procedures, including (general) site selection, note-taking, safety, and data management, follows the same general principles for both ADCP measurements and measurements made by wading in the stream using a flowtracker or other similar instrument. Please refer to *add section here*.
+
+This page deals with the specifics of collecting good streamflow measurements using the Sontek M9 using either a bridge or shore tether or driving the rQPOD motor.
+
+## Pre-Trip Planning
+
+-   install software
+-   check equipment
+
+## Site Selection
+
+## Tether or use the rQPOD motor?
+
+### Tethering - how-to
+
+### Motoring - how-to
+
+## Data Collection
