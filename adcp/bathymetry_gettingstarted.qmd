@@ -1,4 +1,6 @@
-# Getting Started: Bathymetry
+# Bathymetry: Getting Started
+
+This section describes how to get started using the ADCP for bathymetry measurements.
 
 ## HyPACK Max
 
@@ -28,6 +30,6 @@ To deactivate the license, open up HYPACK License Manager and select *Activate/D
 
 connect computer to the M9 river surveyor instrument to check function
 
-## Practice driving the rQPOD 
+## Practice driving the rQPOD
 
 practice driving the rQPOD and collecting good data before going into the field at a project site.

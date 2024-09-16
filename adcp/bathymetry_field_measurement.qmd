@@ -1,6 +1,6 @@
 # Bathymetry: Field Measurement
 
-This section describes how to collect bathymetry data in a stationary body of water. *add section on collecting bathymetry data in moving water?*
+This section describes how to use the ADCP for bathymetry measurements in the field. The section describes data collection in a stationary body of water, not for streamflow measurements. *add section on collecting bathymetry data in moving water?*
 
 ## Pre-Trip Planning
 

@@ -1,4 +1,6 @@
-# ADCP for StreamFlow - Getting Started
+# Streamflow: Getting Started
+
+This section describes how to get started using the ADCP, which is used in deep or large rivers, or in smaller rivers with high flows. The ADCP requires water depths of at least 1 ft (2 or more feet is better). For streamflow measurements wadeable streams, please see *add section here.*
 
 ## RiverSurveyor Live! Software
 
@@ -14,6 +16,6 @@ Put in a help desk ticket to DIT have have the software activated in your Softwa
 
 connect computer to the M9 river surveyor instrument to check function
 
-## Practice driving the rQPOD 
+## Practice driving the rQPOD
 
 practice driving the rQPOD and collecting good data before going into the field at a project site.

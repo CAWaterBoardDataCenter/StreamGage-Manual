@@ -1,8 +1,6 @@
 # Streamflow: Field Measurement
 
-This section describes field measurements and procedures for the ADCP, which is a high-flow and/or large volume river tool that requires water depths of at least 1 ft (2 or more feet is better).
-
-For field measurements in wadeable streams (e.g. shallow and not swift), please see *add section here*.
+This section describes field measurements and procedures for the ADCP, which is used in deep or large rivers, or in smaller rivers with high flows. The ADCP requires water depths of at least 1 ft (2 or more feet is better). For streamflow measurements wadeable streams, please see *add section here.*.
 
 Standard operating procedures, including (general) site selection, note-taking, safety, and data management, follows the same general principles for both ADCP measurements and measurements made by wading in the stream using a flowtracker or other similar instrument. Please refer to *add section here*.
 
