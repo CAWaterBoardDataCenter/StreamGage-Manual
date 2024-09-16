@@ -1,1 +1,1 @@
-Sitemap: https://cawaterboarddatacenter.github.io/stream_gaging/sitemap.xml
+Sitemap: https://cawaterboarddatacenter.github.io/StreamGage-Manual/sitemap.xml
