@@ -308,7 +308,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#acoustic-doppler-current-profiler-adcp-operations" id="toc-acoustic-doppler-current-profiler-adcp-operations" class="nav-link active" data-scroll-target="#acoustic-doppler-current-profiler-adcp-operations">Acoustic Doppler Current Profiler (ADCP) Operations</a></li>
+  <li><a href="#adcp-operations" id="toc-adcp-operations" class="nav-link active" data-scroll-target="#adcp-operations">ADCP Operations</a>
+  <ul class="collapse">
+  <li><a href="#operating-specifications" id="toc-operating-specifications" class="nav-link" data-scroll-target="#operating-specifications">Operating specifications</a></li>
+  <li><a href="#how-it-works" id="toc-how-it-works" class="nav-link" data-scroll-target="#how-it-works">How it works</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/CAWaterBoardDataCenter/StreamGage-Manual/edit/main/adcp/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/StreamGage-Manual/blob/main/adcp/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/StreamGage-Manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -318,10 +322,23 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="acoustic-doppler-current-profiler-adcp-operations" class="level1">
-<h1>Acoustic Doppler Current Profiler (ADCP) Operations</h1>
+<section id="adcp-operations" class="level1">
+<h1>ADCP Operations</h1>
+<p>An Acoustic Doppler Current Profiler, or ADCP, uses sound waves to measure depth and the direction and speed of moving water. Frequency determines the depth and precision of the measured data, with higher frequencies having higher precision and lower frequencies with greater depth range. The ADCP is mounted on a platform on the surface of the water and coupled with a compass so that the instrument knows which direction the water is moving. Our ADCP is paired with a <a href="https://www.xylem.com/siteassets/brand/sontek/resources/technical-brochure/gnss-differential-or-rtk-mw.pdf">GPS-RTK</a> (global positioning system - real time kinematic) with an accuracy of about 2 cm.</p>
+<p>The ADCP is used in rivers that are deep or large rivers that cannot be waded safely - it may also be used in rivers during the winter, when flows are higher or there are hazards downstream. The ADCP requires water depths of at least 1 ft (2 or more feet is better). The ADCP can also be used to measure the depth to the bottom of a lake (or possibly a river) and map bathymetry.</p>
+<p><img src="../images/M9streamflow.png" class="img-fluid" width="300"></p>
+<p>This section is aimed at training staff on how to use the ADCP and process the data. For streamflow measurements in wadeable streams, please see the <a href="../flowmmt/index.html">flow measurement section</a>.</p>
+<section id="operating-specifications" class="level2">
+<h2 class="anchored" data-anchor-id="operating-specifications">Operating specifications</h2>
+<p>The <a href="https://www.ysi.com/sontek-m9">Sontek M9</a> works to a depth of ~40 m (130 ft), with velocities up to about 20 m/s (66 ft/s). However, actual depths in the field may be limited by vegetation, suspended sediments, uneven topography, or other impediments. The motor, tethering system, moving particles, or the presence of standing waves (rapids) may limit operation in fast-moving water.</p>
+</section>
+<section id="how-it-works" class="level2">
+<h2 class="anchored" data-anchor-id="how-it-works">How it works</h2>
+<p>There is a set of 4 3.0 MHz and 4 1.0 MHz transducers for velocity profiling, and one 0.5 MHz vertical beam for maximum depth.</p>
+<p><img src="../images/sontek-hydrosurveyor-m9-with-annotations.jpg" class="img-fluid" width="600"></p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

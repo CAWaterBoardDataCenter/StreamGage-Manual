@@ -308,7 +308,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#streamflow-data-processing" id="toc-streamflow-data-processing" class="nav-link active" data-scroll-target="#streamflow-data-processing">Streamflow: Data Processing</a></li>
+  <li><a href="#streamflow-data-processing" id="toc-streamflow-data-processing" class="nav-link active" data-scroll-target="#streamflow-data-processing">Streamflow: Data Processing</a>
+  <ul class="collapse">
+  <li><a href="#usgs-free-software" id="toc-usgs-free-software" class="nav-link" data-scroll-target="#usgs-free-software">USGS free software</a></li>
+  <li><a href="#usgs-technical-tips" id="toc-usgs-technical-tips" class="nav-link" data-scroll-target="#usgs-technical-tips">USGS Technical Tips</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/CAWaterBoardDataCenter/StreamGage-Manual/edit/main/adcp/streamflow_data_processing.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/StreamGage-Manual/blob/main/adcp/streamflow_data_processing.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/StreamGage-Manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -321,8 +325,17 @@ ul.task-list li input[type="checkbox"] {
 <section id="streamflow-data-processing" class="level1">
 <h1>Streamflow: Data Processing</h1>
 <p>This section describes how to acquire and process streamflow data collected with the Sontek M9. Data management and rating curve generation is the same as that done for streamflow measurements collected by other methods. Please refer to <em>add section here</em>.</p>
+<section id="usgs-free-software" class="level2">
+<h2 class="anchored" data-anchor-id="usgs-free-software">USGS free software</h2>
+<p><em>we may need to work with DIT for these software(s) to work.</em></p>
+<p>The <a href="https://hydroacoustics.usgs.gov/movingboat/mbd_software.shtml">USGS publishes free software</a> to help with ADCP data processing. Two recommended softwares are <a href="https://hydroacoustics.usgs.gov/movingboat/QRev.shtml">QRev</a>, which is used to compute discharge, and <a href="https://www.usgs.gov/publications/extrap-software-assist-selection-extrapolation-methods-moving-boat-adcp-streamflow">extrap</a> that is used to extrapolate measurements. USGS software requires data to be in Matlab format, which can be exported from the Sontek M9.</p>
+</section>
+<section id="usgs-technical-tips" class="level2">
+<h2 class="anchored" data-anchor-id="usgs-technical-tips">USGS Technical Tips</h2>
+<p><a href="https://www.usgs.gov/hydroacoustics/moving-boat-measurements" class="uri">https://www.usgs.gov/hydroacoustics/moving-boat-measurements</a></p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
