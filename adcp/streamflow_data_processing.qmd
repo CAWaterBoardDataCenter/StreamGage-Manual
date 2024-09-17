@@ -1,3 +1,13 @@
 # Streamflow: Data Processing
 
 This section describes how to acquire and process streamflow data collected with the Sontek M9. Data management and rating curve generation is the same as that done for streamflow measurements collected by other methods. Please refer to *add section here*.
+
+## USGS free software
+
+*we may need to work with DIT for these software(s) to work.*
+
+The [USGS publishes free software](https://hydroacoustics.usgs.gov/movingboat/mbd_software.shtml) to help with ADCP data processing. Two recommended softwares are [QRev](https://hydroacoustics.usgs.gov/movingboat/QRev.shtml), which is used to compute discharge, and [extrap](https://www.usgs.gov/publications/extrap-software-assist-selection-extrapolation-methods-moving-boat-adcp-streamflow) that is used to extrapolate measurements. USGS software requires data to be in Matlab format, which can be exported from the Sontek M9.
+
+## USGS Technical Tips
+
+<https://www.usgs.gov/hydroacoustics/moving-boat-measurements>

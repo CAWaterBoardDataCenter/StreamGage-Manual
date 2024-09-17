@@ -6,12 +6,22 @@ Standard operating procedures, including (general) site selection, note-taking, 
 
 This page deals with the specifics of collecting good streamflow measurements using the Sontek M9 using either a bridge or shore tether or driving the rQPOD motor.
 
+Sontek has a [video training series](https://www.youtube.com/playlist?list=PLCbJJUmLdIBEZZWxyCGqeDhpF4T-Tyltn) on collecting data with the Sontek ADCP.
+
 ## Pre-Trip Planning
 
 -   install software
 -   check equipment
 
 ## Site Selection
+
+test1
+
+{{< https://www.youtube.com/embed/lWcFOu3bmqU?si=AVcKuMYqDTc6pzuW>}}
+
+test2
+
+{{< video https://youtu.be/lWcFOu3bmqU width = "400" height = "300" >}}
 
 ## Tether or use the rQPOD motor?
 

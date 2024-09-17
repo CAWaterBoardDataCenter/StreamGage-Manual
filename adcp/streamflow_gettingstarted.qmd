@@ -1,6 +1,6 @@
 # Streamflow: Getting Started
 
-This section describes how to get started using the ADCP, which is used in deep or large rivers, or in smaller rivers with high flows. The ADCP requires water depths of at least 1 ft (2 or more feet is better). For streamflow measurements wadeable streams, please see *add section here.*
+This section describes how to get started using the ADCP, which is used in deep or large rivers, or in smaller rivers with high flows. The ADCP requires water depths of at least 1 ft (2 or more feet is better). For streamflow measurements in wadeable streams, please see the [flow measurement section](../flowmmt/index.qmd)*.*
 
 ## RiverSurveyor Live! Software
 

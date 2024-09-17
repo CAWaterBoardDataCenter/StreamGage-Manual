@@ -78,6 +78,8 @@ format:
     code-overflow: wrap
     toc: true
     fontsize: 1em
+    grid:
+      sidebar-width: 350px
 
 
 filters:

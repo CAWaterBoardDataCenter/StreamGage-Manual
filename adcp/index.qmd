@@ -1,1 +1,19 @@
-# Acoustic Doppler Current Profiler (ADCP) Operations
+# ADCP Operations
+
+An Acoustic Doppler Current Profiler, or ADCP, uses sound waves to measure depth and the direction and speed of moving water. Frequency determines the depth and precision of the measured data, with higher frequencies having higher precision and lower frequencies with greater depth range. The ADCP is mounted on a platform on the surface of the water and coupled with a compass so that the instrument knows which direction the water is moving. Our ADCP is paired with a [GPS-RTK](https://www.xylem.com/siteassets/brand/sontek/resources/technical-brochure/gnss-differential-or-rtk-mw.pdf) (global positioning system - real time kinematic) with an accuracy of about 2 cm.
+
+The ADCP is used in rivers that are deep or large rivers that cannot be waded safely - it may also be used in rivers during the winter, when flows are higher or there are hazards downstream. The ADCP requires water depths of at least 1 ft (2 or more feet is better). The ADCP can also be used to measure the depth to the bottom of a lake (or possibly a river) and map bathymetry.
+
+![](../images/M9streamflow.png){width="300"}
+
+This section is aimed at training staff on how to use the ADCP and process the data. For streamflow measurements in wadeable streams, please see the [flow measurement section](../flowmmt/index.qmd).
+
+## Operating specifications
+
+The [Sontek M9](https://www.ysi.com/sontek-m9) works to a depth of \~40 m (130 ft), with velocities up to about 20 m/s (66 ft/s). However, actual depths in the field may be limited by vegetation, suspended sediments, uneven topography, or other impediments. The motor, tethering system, moving particles, or the presence of standing waves (rapids) may limit operation in fast-moving water.
+
+## How it works
+
+There is a set of 4 3.0 MHz and 4 1.0 MHz transducers for velocity profiling, and one 0.5 MHz vertical beam for maximum depth.
+
+![](../images/sontek-hydrosurveyor-m9-with-annotations.jpg){width="600"}
