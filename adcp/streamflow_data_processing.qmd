@@ -2,6 +2,14 @@
 
 This section describes how to acquire and process streamflow data collected with the Sontek M9. Data management and rating curve generation is the same as that done for streamflow measurements collected by other methods. Please refer to *add section here*.
 
+Sontek has a [video training series](https://www.youtube.com/playlist?list=PLCbJJUmLdIBEZZWxyCGqeDhpF4T-Tyltn) on collecting streamflow data with the ADCP. Waterboards held a training day on 9/11/2024 and [recorded the pre-field training](https://cawaterboards.sharepoint.com/:v:/r/sites/WB-DWR-UASProgram/Shared%20Documents/06-Training/ADCP_and_Bathymetry/videos_from_training/Lab%20C_%20Streamflow%20Measurement%20with%20ADCP-20240911_090701-Meeting%20Recording.mp4?csf=1&web=1&e=pOBYyc). We also [collected data](https://cawaterboards.sharepoint.com/:f:/r/sites/WB-DWR-UASProgram/Shared%20Documents/06-Training/ADCP_and_Bathymetry/DATA_from_Training/2024_09_11_RiverSurveyor_Data?csf=1&web=1&e=41CDPX) on the training day that can be used for learning.
+
+## Checking Data in the Office
+
+[In office data review](https://www.youtube.com/watch?v=jRoFbFTokW0&list=PLCbJJUmLdIBEZZWxyCGqeDhpF4T-Tyltn&index=8)
+
+[Webinar with questions answered](https://www.youtube.com/watch?v=ukb-B9e5OTY&list=PLCbJJUmLdIBEZZWxyCGqeDhpF4T-Tyltn&index=10)
+
 ## USGS free software
 
 *we may need to work with DIT for these software(s) to work.*
@@ -11,3 +19,5 @@ The [USGS publishes free software](https://hydroacoustics.usgs.gov/movingboat/mb
 ## USGS Technical Tips
 
 <https://www.usgs.gov/hydroacoustics/moving-boat-measurements>
+
+Of

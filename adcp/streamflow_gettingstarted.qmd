@@ -8,7 +8,7 @@ Documentation for RiverSurveyor Live! is found on the [RiverSurveyor Live sharep
 
 ### Installing software
 
-Put in a help desk ticket to DIT have have the software activated in your Software Center (type software center into the search bar, shown below). You may wish to check for updates since Sept 2024 before doing so on the [River Surveyor software website](https://www.xylem.com/en-us/products--services/software/riversurveyor-live-rsl/)e. Install all files onto your computer.
+Put in a help desk ticket to DIT have have the software activated in your Software Center (type software center into the search bar, shown below). You may wish to check for updates since Sept 2024 before doing so on the [River Surveyor software website](https://www.xylem.com/en-us/products--services/software/riversurveyor-live-rsl/)e. Install all files onto your computer. Note that the software may not appear in your apps and you will have to locate it in [C:\\Program Files (x86)\\Sontek\\RiverSurveyor Live]{.underline}. Right click and select "Pin to Start" so that it is easy to find in the future.
 
 ![](../images/softwarecenter.png){width="300"}
 
