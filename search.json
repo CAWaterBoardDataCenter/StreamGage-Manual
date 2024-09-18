@@ -303,25 +303,13 @@
     ]
   },
   {
-    "objectID": "admin/procurement.html",
-    "href": "admin/procurement.html",
-    "title": "Procurement",
+    "objectID": "inspiration.html",
+    "href": "inspiration.html",
+    "title": "Inspiration",
     "section": "",
-    "text": "Please work with DWRs’s procurement lead to coordinate your supplies purchases. The process changes frequently. It can take several months (up to 12 months or more) from time of placing order to receiving goods, so plan in advance if possible.\n\n\nThe following consumables may be needed\n\nADCP Consumables",
+    "text": "Inspiration\nThe impetus for developing this manual began in 2024 when some of us participated in the Water Boards Openscapes Champions Cohort.\nThis Manual was started with help from the folks behind the, SWAMP Manual, who generously shared their time and code to get us started!\nWe are also inspired by the following sources:\n\nOpenscapes and their Approach Guide\nAdrift Field Methods – ADRIFT Field Methods\nNOAA Fisheries (NMFS) Open Science Resource Book\nThe Fay Lab Manual",
     "crumbs": [
-      "Admin Stuff",
-      "Procurement"
-    ]
-  },
-  {
-    "objectID": "admin/procurement.html#consumables",
-    "href": "admin/procurement.html#consumables",
-    "title": "Procurement",
-    "section": "",
-    "text": "The following consumables may be needed\n\nADCP Consumables",
-    "crumbs": [
-      "Admin Stuff",
-      "Procurement"
+      "Inspiration"
     ]
   },
   {
@@ -367,13 +355,23 @@
     ]
   },
   {
-    "objectID": "inspiration.html",
-    "href": "inspiration.html",
-    "title": "Inspiration",
+    "objectID": "equipment.html",
+    "href": "equipment.html",
+    "title": "Equipment",
     "section": "",
-    "text": "Inspiration\nThe impetus for developing this manual began in 2024 when some of us participated in the Water Boards Openscapes Champions Cohort.\nThis Manual was started with help from the folks behind the, SWAMP Manual, who generously shared their time and code to get us started!\nWe are also inspired by the following sources:\n\nOpenscapes and their Approach Guide\nNOAA Fisheries (NMFS) Open Science Resource Book\nThe Fay Lab Manual",
+    "text": "Equipment that is used for stream gageing\n\n\n\n\n\n\n\n\n\n\n\nPlease work with DWRs’s procurement lead to coordinate your supplies purchases. The process changes frequently. It can take several months (up to 12 months or more) from time of placing order to receiving goods, so plan in advance if possible.\n\n\nThe following consumables may be needed\n\nADCP Consumables",
     "crumbs": [
-      "Inspiration"
+      "Equipment"
+    ]
+  },
+  {
+    "objectID": "equipment.html#procurement",
+    "href": "equipment.html#procurement",
+    "title": "Equipment",
+    "section": "",
+    "text": "Please work with DWRs’s procurement lead to coordinate your supplies purchases. The process changes frequently. It can take several months (up to 12 months or more) from time of placing order to receiving goods, so plan in advance if possible.\n\n\nThe following consumables may be needed\n\nADCP Consumables",
+    "crumbs": [
+      "Equipment"
     ]
   },
   {
