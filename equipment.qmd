@@ -1,8 +1,18 @@
-# Procurement
+# Equipment
+
+Equipment that is used for stream gageing
+
+## Inventory
+
+## Manuals, Instruction, and Training
+
+## Region 5 Shed
+
+## Procurement
 
 Please work with DWRs's procurement lead to coordinate your supplies purchases. The process changes frequently. It can take several months (up to 12 months or more) from time of placing order to receiving goods, so plan in advance if possible.
 
-## Consumables
+### Consumables
 
 The following consumables may be needed
 

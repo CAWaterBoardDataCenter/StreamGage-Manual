@@ -58,12 +58,13 @@ website:
         text: Data Handling and Documentation
         contents:
          - datamgmt/datatostore.qmd
+      - href: equipment.qmd
+        text: Equipment
       - section: admin/index.qmd
         text: Admin Stuff
         contents:
           - admin/contacts.qmd
           - admin/travel.qmd
-          - admin/procurement.qmd
       - href: contribute.qmd
         text: Contributing
       - href: inspiration.qmd

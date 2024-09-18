@@ -14,11 +14,11 @@ We have a single [software license](#hypacklicense) that must be shared. This li
 
 Put in a help desk ticket to DIT have have the software activated in your Software Center (type software center into the search bar, shown below). You may wish to check for updates since Sept 2024 before doing so on the [HYPACK software website](https://www.xylem.com/en-us/brands/hypack/products/hypack-max/). Install all files onto your computer.
 
-![](../images/softwarecenter.png){width="300"}
+![](../images/softwarecenter.png){width="500"}
 
 ### Activating software with license {#hypacklicense}
 
-We have a single "soft license" for sharing, and [it is important that staff are diligent in deactivating the license when not in use]{style="color:red;"}. The license deactivates automatically after 90 days. Access to the license (aka the Activation Key) is provided in software center when the HYPACK Max program is selected, and may also be obtained via internal documents on [Sharepoint](https://cawaterboards.sharepoint.com/:w:/r/sites/WB-DWR-UASProgram/_layouts/15/Doc.aspx?sourcedoc=%7B0583DF01-4093-4D36-B843-C438AE448AF0%7D&file=COPY_HyPack_Max_Software.docx&action=default&mobileredirect=true) or in a [Teams Chat](https://cawaterboards-my.sharepoint.com/:w:/r/personal/valerie_zimmer_waterboards_ca_gov/_layouts/15/Doc.aspx?sourcedoc=%7BEDD33555-65C9-442B-90C4-1A300AC11B32%7D&file=HyPack_Max_Software.docx&action=default&mobileredirect=true).
+We have a single "soft license" for sharing, and [it is important that staff are diligent in deactivating the license when not in use]{style="color:red;"}. The license deactivates automatically after 90 days. [Access to the license (aka the Activation Key) is provided in software center]{.underline} when the HYPACK Max program is selected, and may also be obtained via internal documents on [Sharepoint](https://cawaterboards.sharepoint.com/:w:/r/sites/WB-DWR-UASProgram/_layouts/15/Doc.aspx?sourcedoc=%7B0583DF01-4093-4D36-B843-C438AE448AF0%7D&file=COPY_HyPack_Max_Software.docx&action=default&mobileredirect=true) or in a [Teams Chat](https://cawaterboards-my.sharepoint.com/:w:/r/personal/valerie_zimmer_waterboards_ca_gov/_layouts/15/Doc.aspx?sourcedoc=%7BEDD33555-65C9-442B-90C4-1A300AC11B32%7D&file=HyPack_Max_Software.docx&action=default&mobileredirect=true).
 
 If the license is in use, please first contact all known users to coordinate times for activation/deactivation. If you need help identifying known users, please contact the DIT help desk and request a list of staff with access to the software. [Please do not share the license outside of Waterboards, or it may be hard to track down an activated license!]{style="color:red;"}
 
