@@ -60,15 +60,10 @@ website:
          - datamgmt/datatostore.qmd
       - href: equipment.qmd
         text: Equipment
-      - section: admin/index.qmd
-        text: Admin Stuff
-        contents:
-          - admin/contacts.qmd
-          - admin/travel.qmd
+      - href: travel.qmd
+        text: Travel
       - href: contribute.qmd
         text: Contributing
-      - href: inspiration.qmd
-        text: Inspiration
     
 format:
   html:

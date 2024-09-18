@@ -3,10 +3,10 @@
 The impetus for developing this manual began in 2024 when some of us participated in the [Water Boards Openscapes Champions Cohort](https://cawaterboarddatacenter.github.io/swrcb-openscapes/cohorts/swrcb_2024F.html).
 
 This Manual was started with help from the folks behind the, [SWAMP Manual](https://cawaterboarddatacenter.github.io/swamp-manual/), who generously shared their time and code to get us started!
-  
-  We are also inspired by the following sources:
-  
-  -   [Openscapes](https://www.openscapes.org/) and their [Approach Guide](https://openscapes.github.io/approach-guide/)
+
+We are also inspired by the following sources:
+
+-   [Openscapes](https://www.openscapes.org/) and their [Approach Guide](https://openscapes.github.io/approach-guide/)
 -   [Adrift Field Methods – ADRIFT Field Methods](https://sael-swfsc.github.io/adrift-field-methods/)
 -   [NOAA Fisheries (NMFS) Open Science Resource Book](https://nmfs-opensci.github.io/ResourceBook/)
 -   [The Fay Lab Manual](https://thefaylab.github.io/lab-manual/)
