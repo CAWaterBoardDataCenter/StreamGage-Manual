@@ -15,7 +15,7 @@ This [Quarto book](https://quarto.org/docs/books) is an open, living, and contin
 Stream gaging and bathymetry measurements are currently being done by a variety of units for different projects.
 
 | Name                                        | Project(s)       | Expertise                                                              |
-|--------------|--------------|---------------------------------------------|
+|---------------------------------------------|------------------|------------------------------------------------------------------------|
 | [Val Zimmer]((https://github.com/vlzimmer)) | Clear Lake Hitch | Flow measurement, Rating curve development, equipment, data management |
 |                                             |                  |                                                                        |
 
