@@ -8,7 +8,11 @@ We are seeking contributors to this manual. Please contact [Val Zimmer](https://
 
 We develop the content using RStudio, build the book using [Quarto](https://quarto.org/) (via RStudio), and collaborate and publish using GitHub (also via RStudio).
 
-### Setup
+*The advantage to using R and RStudio is the ability to toggle between Source and Visual representation of the page*
+
+*The advantage of VsCode is...*
+
+### Setup via R and RStudio
 
 To contribute, you must do the following, and it should only take about 20 minutes to complete:
 
@@ -33,3 +37,9 @@ To contribute, you must do the following, and it should only take about 20 minut
 4.  **Download and Install Git**
 
     Follow your operating system's normal [Git installation process](https://git-scm.com/downloads). Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.
+
+5.  **Install Github Desktop (optional)**
+
+    [Github desktop](https://desktop.github.com/download/) is a GUI that makes using Git easier for beginners. Other methods of using Git also work.
+
+## Setup via VsCode
