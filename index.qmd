@@ -31,3 +31,5 @@ We are also inspired by the following sources:
 -   [Adrift Field Methods – ADRIFT Field Methods](https://sael-swfsc.github.io/adrift-field-methods/)
 -   [NOAA Fisheries (NMFS) Open Science Resource Book](https://nmfs-opensci.github.io/ResourceBook/)
 -   [The Fay Lab Manual](https://thefaylab.github.io/lab-manual/)
+
+Here's more text that I am changing
