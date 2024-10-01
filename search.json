@@ -4,7 +4,37 @@
     "href": "equipment.html",
     "title": "Equipment",
     "section": "",
-    "text": "Equipment that is used for stream gageing\n\n\n\n\n\n\n\n\n\n\n\nPlease work with DWRs’s procurement lead to coordinate your supplies purchases. The process changes frequently. It can take several months (up to 12 months or more) from time of placing order to receiving goods, so plan in advance if possible.\n\n\nThe following consumables may be needed\n\nADCP Consumables",
+    "text": "Please review the Field Equipment Protocol for details about using the field equipment. You and your supervisor need to sign the last page and submit to Admin staff, who will then provide access.\nAny protocols and instructions published on the Division Sharepoint page (including the Field Equipment folder) are controlling: information and links on this page is provided for convenience but may be out-of-date or the links broken (please let us know if so).\n\n\nDivision equipment is listed and is available for reservation and checking out on the DWR Reserve Equipment page (with instructions). Most of equipment is stored in the CalEPA HQ building on the 14th floor in a storage room. Consumables or large inventory (such as PVC pipes or fence posts) may be located in a shed at the Region 5 parking lot in Rancho Cordova. Please see Admin staff for keys to the shed and access to the locked parking lot. Some equipment may be located elsewhere, especially if there are ongoing preparations for field deployments or space is limited in the gear storage room.\n\n\n\nThis is a placeholder for the development of a “gear stewardship” program. The basic concept is that certain equipment or gear would be assigned a steward, who will be responsible for taking care of and maintaining the equipment. Stewards should be staff that are familiar with and regularly using the equipment. Some examples of stewardship tasks may include:\n\ncalibrating equipment.\nensuring that water quality probe sensors do not “dry out” and are wetted with distilled water.\nensuring that stream gages are turned off when they return to the office to not drain the (non-replaceable) batteries and not waste telemetry credits.\nensuring that batteries are not left in equipment to avoid acid leakage and damage.\nensuring that waders and boots are marked for repair, repaired, or replaced when needed.\n\nPrevious consequences of not having a stewardship program include surprise leaky waders, dead equipment needing replacing, and damage to equipment due to lack of maintenance or leaking batteries.\n\n\n\nThere are folders on the DWR Fieldwork sharepoint for Manuals and Training. Manuals can also be found on manufacturers’ websites.\nReference documents for details on stream gaging protocols will be found in the other pages in the appropriate section and/or on the references page.\n\n\n\nPlease work with DWRs’s procurement lead to coordinate your supplies purchases. The process changes frequently. It can take several months (up to 12 months or more) from time of placing order to receiving goods, so plan in advance if possible.\n\n\nThe following consumables may be needed\n\nADCP Consumables\ndistilled water for water quality probes\nbatteries (Admin staff)\n\n\n\n\nThe following items need subscriptions renewed:\n\nSPOT emergency beacons\nHyPack Max software (for software updates and continued support)\nTotal Station (for software updates and continued support)",
+    "crumbs": [
+      "Equipment"
+    ]
+  },
+  {
+    "objectID": "equipment.html#inventory-and-checkout",
+    "href": "equipment.html#inventory-and-checkout",
+    "title": "Equipment",
+    "section": "",
+    "text": "Division equipment is listed and is available for reservation and checking out on the DWR Reserve Equipment page (with instructions). Most of equipment is stored in the CalEPA HQ building on the 14th floor in a storage room. Consumables or large inventory (such as PVC pipes or fence posts) may be located in a shed at the Region 5 parking lot in Rancho Cordova. Please see Admin staff for keys to the shed and access to the locked parking lot. Some equipment may be located elsewhere, especially if there are ongoing preparations for field deployments or space is limited in the gear storage room.",
+    "crumbs": [
+      "Equipment"
+    ]
+  },
+  {
+    "objectID": "equipment.html#stewardship",
+    "href": "equipment.html#stewardship",
+    "title": "Equipment",
+    "section": "",
+    "text": "This is a placeholder for the development of a “gear stewardship” program. The basic concept is that certain equipment or gear would be assigned a steward, who will be responsible for taking care of and maintaining the equipment. Stewards should be staff that are familiar with and regularly using the equipment. Some examples of stewardship tasks may include:\n\ncalibrating equipment.\nensuring that water quality probe sensors do not “dry out” and are wetted with distilled water.\nensuring that stream gages are turned off when they return to the office to not drain the (non-replaceable) batteries and not waste telemetry credits.\nensuring that batteries are not left in equipment to avoid acid leakage and damage.\nensuring that waders and boots are marked for repair, repaired, or replaced when needed.\n\nPrevious consequences of not having a stewardship program include surprise leaky waders, dead equipment needing replacing, and damage to equipment due to lack of maintenance or leaking batteries.",
+    "crumbs": [
+      "Equipment"
+    ]
+  },
+  {
+    "objectID": "equipment.html#manuals-and-training",
+    "href": "equipment.html#manuals-and-training",
+    "title": "Equipment",
+    "section": "",
+    "text": "There are folders on the DWR Fieldwork sharepoint for Manuals and Training. Manuals can also be found on manufacturers’ websites.\nReference documents for details on stream gaging protocols will be found in the other pages in the appropriate section and/or on the references page.",
     "crumbs": [
       "Equipment"
     ]
@@ -14,7 +44,7 @@
     "href": "equipment.html#procurement",
     "title": "Equipment",
     "section": "",
-    "text": "Please work with DWRs’s procurement lead to coordinate your supplies purchases. The process changes frequently. It can take several months (up to 12 months or more) from time of placing order to receiving goods, so plan in advance if possible.\n\n\nThe following consumables may be needed\n\nADCP Consumables",
+    "text": "Please work with DWRs’s procurement lead to coordinate your supplies purchases. The process changes frequently. It can take several months (up to 12 months or more) from time of placing order to receiving goods, so plan in advance if possible.\n\n\nThe following consumables may be needed\n\nADCP Consumables\ndistilled water for water quality probes\nbatteries (Admin staff)\n\n\n\n\nThe following items need subscriptions renewed:\n\nSPOT emergency beacons\nHyPack Max software (for software updates and continued support)\nTotal Station (for software updates and continued support)",
     "crumbs": [
       "Equipment"
     ]
@@ -186,7 +216,7 @@
     "href": "contribute.html",
     "title": "Contributing",
     "section": "",
-    "text": "We are seeking contributors to this manual. Please contact Val Zimmer for more information.\n\n\n\nWe develop the content using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\nThe advantage to using R and RStudio is the ability to toggle between Source and Visual representation of the page\nThe advantage of VsCode is…\n\n\nTo contribute, you must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nCreate your free personal account GitHub account\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.\nInstall Github Desktop (optional)\nGithub desktop is a GUI that makes using Git easier for beginners. Other methods of using Git also work.",
+    "text": "We are seeking contributors to this manual. Please contact Val Zimmer for more information.\n\n\n\nWe develop the content using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\nNote that there are other potential ways to contribute and if you are already familiar with Github, Quarto, and Markdown, you are welcome to use those methods. Some notes on other methods are listed below:\n\nThe advantage to using R and RStudio is the ability to toggle between Source and Visual representation of the page, which means that editing the webpage is no more difficult than editing a word document.\nThe advantage of VsCode is seamless integration with Github.\n\n\n\nTo contribute, you must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nYou will need to first create your free personal account GitHub account using your waterboards email. You need to enable MFA and request access to the Waterboard Github organization. A site administrator will invite you to join (please accept the invitation) and then we will invite you to join the team working on this website (please accept that one too).\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.\nInstall Github Desktop (optional)\nGithub desktop is a GUI that makes using Git easier for beginners. While it is not required, this is easier to learn than other methods. You will need to send a request to the DIT HelpDesk so they can install this free software.\n\n\n\n\nTBD",
     "crumbs": [
       "Contributing"
     ]
@@ -206,27 +236,128 @@
     "href": "contribute.html#how-we-contribute",
     "title": "Contributing",
     "section": "",
-    "text": "We develop the content using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\nThe advantage to using R and RStudio is the ability to toggle between Source and Visual representation of the page\nThe advantage of VsCode is…\n\n\nTo contribute, you must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nCreate your free personal account GitHub account\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.\nInstall Github Desktop (optional)\nGithub desktop is a GUI that makes using Git easier for beginners. Other methods of using Git also work.",
+    "text": "We develop the content using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\nNote that there are other potential ways to contribute and if you are already familiar with Github, Quarto, and Markdown, you are welcome to use those methods. Some notes on other methods are listed below:\n\nThe advantage to using R and RStudio is the ability to toggle between Source and Visual representation of the page, which means that editing the webpage is no more difficult than editing a word document.\nThe advantage of VsCode is seamless integration with Github.\n\n\n\nTo contribute, you must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nYou will need to first create your free personal account GitHub account using your waterboards email. You need to enable MFA and request access to the Waterboard Github organization. A site administrator will invite you to join (please accept the invitation) and then we will invite you to join the team working on this website (please accept that one too).\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.\nInstall Github Desktop (optional)\nGithub desktop is a GUI that makes using Git easier for beginners. While it is not required, this is easier to learn than other methods. You will need to send a request to the DIT HelpDesk so they can install this free software.\n\n\n\n\nTBD",
     "crumbs": [
       "Contributing"
     ]
   },
   {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
+    "objectID": "about/howitworks.html",
+    "href": "about/howitworks.html",
     "title": "Stream Gaging Basics",
     "section": "",
     "text": "Stream Gaging Basics",
     "crumbs": [
+      "Stream Gaging Basics",
       "Stream Gaging Basics"
     ]
   },
   {
-    "objectID": "archive/admin/index.html",
-    "href": "archive/admin/index.html",
-    "title": "Administrative goodies",
+    "objectID": "archive/contacts.html",
+    "href": "archive/contacts.html",
+    "title": "Stream Gaging Team",
     "section": "",
-    "text": "Administrative goodies\nThis section contains resources to make administrative tasks a bit more straightforward."
+    "text": "Stream gaging and bathymetry measurements are currently being done by a variety of units for different projects, mostly within the Division of Water Rights. Division equipment is internally on Sharepoint.\n\n\n\n\n\n\n\n\nName\nProject(s)\nExpertise\n\n\n\n\nVal Zimmer\nClear Lake Hitch\nFlow measurement, Rating curve development, equipment, data management"
+  },
+  {
+    "objectID": "archive/inspiration.html",
+    "href": "archive/inspiration.html",
+    "title": "Inspiration",
+    "section": "",
+    "text": "Inspiration\nThe impetus for developing this manual began in 2024 when some of us participated in the Water Boards Openscapes Champions Cohort.\nThis Manual was started with help from the folks behind the, SWAMP Manual, who generously shared their time and code to get us started!\nWe are also inspired by the following sources:\n\nOpenscapes and their Approach Guide\nAdrift Field Methods – ADRIFT Field Methods\nNOAA Fisheries (NMFS) Open Science Resource Book\nThe Fay Lab Manual"
+  },
+  {
+    "objectID": "flowmmt/siteselectionflow.html",
+    "href": "flowmmt/siteselectionflow.html",
+    "title": "selecting a good flow measurement site",
+    "section": "",
+    "text": "selecting a good flow measurement site",
+    "crumbs": [
+      "Flow Measurement",
+      "selecting a good flow measurement site"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "This manual is under construction.\nThis is an online reference and resource written by and for the Division of Water Rights at the California State Water Resources Control Board (State Water Board).\nThis manual is written to help train staff in stream gaging, instream flow measurement, and bathymetry measurement. Topics may include equipment, preparation for field work, data collection, data processing, and data storage. It is a place to document institutional knowledge and provide references to available resources.\nThis Quarto book is an open, living, and continuously iterating resource. If you have suggestions for additions or revisions you think should be incorporated into this book, please follow the guidance provided in the Contributing chapter.\n\n\n\nStream gaging and bathymetry measurements are currently being done by a variety of units for different projects.\n\n\n\nName\nProject(s)\nExpertise\n\n\n\n\nVal Zimmer\nClear Lake Hitch\nFlow measurement, Rating curve development, equipment, data management\n\n\n\n\n\n\n\n\n\n\n\nThe impetus for developing this manual began in 2024 when some of us participated in the Water Boards Openscapes Champions Cohort.\nThis Manual was started with help from the folks behind the, SWAMP Manual, who generously shared their time and code to get us started!\nWe are also inspired by the following sources:\n\nOpenscapes and their Approach Guide\nAdrift Field Methods – ADRIFT Field Methods\nNOAA Fisheries (NMFS) Open Science Resource Book\nThe Fay Lab Manual\n\nHere’s more text that I am changing",
+    "crumbs": [
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "index.html#stream-gaging-team",
+    "href": "index.html#stream-gaging-team",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Stream gaging and bathymetry measurements are currently being done by a variety of units for different projects.\n\n\n\nName\nProject(s)\nExpertise\n\n\n\n\nVal Zimmer\nClear Lake Hitch\nFlow measurement, Rating curve development, equipment, data management",
+    "crumbs": [
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "index.html#inspiration",
+    "href": "index.html#inspiration",
+    "title": "Welcome!",
+    "section": "",
+    "text": "The impetus for developing this manual began in 2024 when some of us participated in the Water Boards Openscapes Champions Cohort.\nThis Manual was started with help from the folks behind the, SWAMP Manual, who generously shared their time and code to get us started!\nWe are also inspired by the following sources:\n\nOpenscapes and their Approach Guide\nAdrift Field Methods – ADRIFT Field Methods\nNOAA Fisheries (NMFS) Open Science Resource Book\nThe Fay Lab Manual\n\nHere’s more text that I am changing",
+    "crumbs": [
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "datamgmt/index.html",
+    "href": "datamgmt/index.html",
+    "title": "Data Management",
+    "section": "",
+    "text": "Data Management",
+    "crumbs": [
+      "Data Handling and Documentation"
+    ]
+  },
+  {
+    "objectID": "gage/index.html",
+    "href": "gage/index.html",
+    "title": "Gage Installation and Maintenance",
+    "section": "",
+    "text": "Gage Installation and Maintenance",
+    "crumbs": [
+      "Gage Installation and Maintenance"
+    ]
+  },
+  {
+    "objectID": "gage/siteselection.html",
+    "href": "gage/siteselection.html",
+    "title": "Selecting a good gage site",
+    "section": "",
+    "text": "Selecting a good gage site",
+    "crumbs": [
+      "Gage Installation and Maintenance",
+      "Selecting a good gage site"
+    ]
+  },
+  {
+    "objectID": "datamgmt/datatostore.html",
+    "href": "datamgmt/datatostore.html",
+    "title": "Data to Store",
+    "section": "",
+    "text": "Data to Store",
+    "crumbs": [
+      "Data Handling and Documentation",
+      "Data to Store"
+    ]
+  },
+  {
+    "objectID": "flowmmt/index.html",
+    "href": "flowmmt/index.html",
+    "title": "Flow Measurement",
+    "section": "",
+    "text": "Flow Measurement",
+    "crumbs": [
+      "Flow Measurement"
+    ]
   },
   {
     "objectID": "archive/contacts_example.html",
@@ -264,121 +395,30 @@
     "text": "*Fellows who were then hired by the Water Boards\n\n\nName\nTitle\nYear\nPrimary Project Area(s) & Products\n\n\n\n\nLeah Benton\nCivicSpark Fellow\n2023-2024\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nSydney Rilum\nCalifornia Sea Grant Fellow\n2023\nSWAMP Data Dashboard - Bioaccumulation Data\n\n\nJosh Davenport\nStanford Fellow\n2023\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nBadhia Yunes Katz\nCivicSpark Fellow\n2022-2023\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nLindsey Metz*\nCalifornia Sea Grant Fellow\n2022\n\n\n\nGabriella Moran\nCivicSpark Fellow\n2021-2022\nTribal Data Initiatives\n\n\nBrook Thompson\nStanford Fellow\n2021\nTribal Data Initiatives\n\n\nCorey Clatterbuck*\nCalifornia Sea Grant Fellow\n2021\nHealthy Watersheds\nTrash\nTrash Data Dive 2021\n\n\nRoss Cooper\nCalifornia Sea Grant Fellow\n2020\nTrash Datathon\nBioaccumulation\nCASG Article: The Predicament of Subsistence Fishing and Seafood Contaminants\n\n\nMaraid Jimenez\nCivicSpark Fellow\n2020-2021\nTribal Data Initiatives\n\n\nAnna Holder*\nCalifornia Sea Grant Fellow\n2019\nHealthy Watersheds\nOpen Data & Science\nTrash\nCA Water Data Science Symposium\nCollege of Water Informatics\nCASG Article: Lean into Your Professional Swerves\n\n\nNicole Hack\nCalifornia Sea Grant Fellow\n2018\nTrash\nTrash Data Dive\nCASG Article: Being a Datahead\n\n\nAndrew Hill*\nCalifornia Sea Grant Fellow\n2017\nTrash\nTrash Tracker\nCASG Article: Tracking Trash"
   },
   {
-    "objectID": "flowmmt/index.html",
-    "href": "flowmmt/index.html",
-    "title": "Flow Measurement",
+    "objectID": "archive/admin/index.html",
+    "href": "archive/admin/index.html",
+    "title": "Administrative goodies",
     "section": "",
-    "text": "Flow Measurement",
-    "crumbs": [
-      "Flow Measurement"
-    ]
+    "text": "Administrative goodies\nThis section contains resources to make administrative tasks a bit more straightforward."
   },
   {
-    "objectID": "datamgmt/datatostore.html",
-    "href": "datamgmt/datatostore.html",
-    "title": "Data to Store",
-    "section": "",
-    "text": "Data to Store",
-    "crumbs": [
-      "Data Handling and Documentation",
-      "Data to Store"
-    ]
-  },
-  {
-    "objectID": "gage/siteselection.html",
-    "href": "gage/siteselection.html",
-    "title": "Selecting a good gage site",
-    "section": "",
-    "text": "Selecting a good gage site",
-    "crumbs": [
-      "Gage Installation and Maintenance",
-      "Selecting a good gage site"
-    ]
-  },
-  {
-    "objectID": "gage/index.html",
-    "href": "gage/index.html",
-    "title": "Gage Installation and Maintenance",
-    "section": "",
-    "text": "Gage Installation and Maintenance",
-    "crumbs": [
-      "Gage Installation and Maintenance"
-    ]
-  },
-  {
-    "objectID": "datamgmt/index.html",
-    "href": "datamgmt/index.html",
-    "title": "Data Management",
-    "section": "",
-    "text": "Data Management",
-    "crumbs": [
-      "Data Handling and Documentation"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome!",
-    "section": "",
-    "text": "This manual is under construction.\nThis is an online reference and resource written by and for the Division of Water Rights at the California State Water Resources Control Board (State Water Board).\nThis manual is written to help train staff in stream gaging, instream flow measurement, and bathymetry measurement. Topics may include equipment, preparation for field work, data collection, data processing, and data storage. It is a place to document institutional knowledge and provide references to available resources.\nThis Quarto book is an open, living, and continuously iterating resource. If you have suggestions for additions or revisions you think should be incorporated into this book, please follow the guidance provided in the Contributing chapter.\n\n\n\nStream gaging and bathymetry measurements are currently being done by a variety of units for different projects.\n\n\n\nName\nProject(s)\nExpertise\n\n\n\n\nVal Zimmer\nClear Lake Hitch\nFlow measurement, Rating curve development, equipment, data management\n\n\n\n\n\n\n\n\n\n\n\nThe impetus for developing this manual began in 2024 when some of us participated in the Water Boards Openscapes Champions Cohort.\nThis Manual was started with help from the folks behind the, SWAMP Manual, who generously shared their time and code to get us started!\nWe are also inspired by the following sources:\n\nOpenscapes and their Approach Guide\nAdrift Field Methods – ADRIFT Field Methods\nNOAA Fisheries (NMFS) Open Science Resource Book\nThe Fay Lab Manual\n\nHere’s more text that I am changing",
-    "crumbs": [
-      "Welcome!"
-    ]
-  },
-  {
-    "objectID": "index.html#stream-gaging-team",
-    "href": "index.html#stream-gaging-team",
-    "title": "Welcome!",
-    "section": "",
-    "text": "Stream gaging and bathymetry measurements are currently being done by a variety of units for different projects.\n\n\n\nName\nProject(s)\nExpertise\n\n\n\n\nVal Zimmer\nClear Lake Hitch\nFlow measurement, Rating curve development, equipment, data management",
-    "crumbs": [
-      "Welcome!"
-    ]
-  },
-  {
-    "objectID": "index.html#inspiration",
-    "href": "index.html#inspiration",
-    "title": "Welcome!",
-    "section": "",
-    "text": "The impetus for developing this manual began in 2024 when some of us participated in the Water Boards Openscapes Champions Cohort.\nThis Manual was started with help from the folks behind the, SWAMP Manual, who generously shared their time and code to get us started!\nWe are also inspired by the following sources:\n\nOpenscapes and their Approach Guide\nAdrift Field Methods – ADRIFT Field Methods\nNOAA Fisheries (NMFS) Open Science Resource Book\nThe Fay Lab Manual\n\nHere’s more text that I am changing",
-    "crumbs": [
-      "Welcome!"
-    ]
-  },
-  {
-    "objectID": "flowmmt/siteselectionflow.html",
-    "href": "flowmmt/siteselectionflow.html",
-    "title": "selecting a good flow measurement site",
-    "section": "",
-    "text": "selecting a good flow measurement site",
-    "crumbs": [
-      "Flow Measurement",
-      "selecting a good flow measurement site"
-    ]
-  },
-  {
-    "objectID": "archive/inspiration.html",
-    "href": "archive/inspiration.html",
-    "title": "Inspiration",
-    "section": "",
-    "text": "Inspiration\nThe impetus for developing this manual began in 2024 when some of us participated in the Water Boards Openscapes Champions Cohort.\nThis Manual was started with help from the folks behind the, SWAMP Manual, who generously shared their time and code to get us started!\nWe are also inspired by the following sources:\n\nOpenscapes and their Approach Guide\nAdrift Field Methods – ADRIFT Field Methods\nNOAA Fisheries (NMFS) Open Science Resource Book\nThe Fay Lab Manual"
-  },
-  {
-    "objectID": "archive/contacts.html",
-    "href": "archive/contacts.html",
-    "title": "Stream Gaging Team",
-    "section": "",
-    "text": "Stream gaging and bathymetry measurements are currently being done by a variety of units for different projects, mostly within the Division of Water Rights. Division equipment is internally on Sharepoint.\n\n\n\n\n\n\n\n\nName\nProject(s)\nExpertise\n\n\n\n\nVal Zimmer\nClear Lake Hitch\nFlow measurement, Rating curve development, equipment, data management"
-  },
-  {
-    "objectID": "about/howitworks.html",
-    "href": "about/howitworks.html",
+    "objectID": "about/index.html",
+    "href": "about/index.html",
     "title": "Stream Gaging Basics",
     "section": "",
     "text": "Stream Gaging Basics",
     "crumbs": [
-      "Stream Gaging Basics",
       "Stream Gaging Basics"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "References\nThis page is a placeholder for links to references.\nUSBR Water Measurement Manual",
+    "crumbs": [
+      "References"
     ]
   },
   {
