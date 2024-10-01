@@ -64,6 +64,8 @@ website:
         text: Travel
       - href: contribute.qmd
         text: Contributing
+      - href: references.qmd
+        text: References
     
 format:
   html:

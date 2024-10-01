@@ -8,9 +8,11 @@ We are seeking contributors to this manual. Please contact [Val Zimmer](https://
 
 We develop the content using RStudio, build the book using [Quarto](https://quarto.org/) (via RStudio), and collaborate and publish using GitHub (also via RStudio).
 
-*The advantage to using R and RStudio is the ability to toggle between Source and Visual representation of the page*
+*Note that there are other potential ways to contribute and if you are already familiar with Github, Quarto, and Markdown, you are welcome to use those methods.* Some notes on other methods are listed below:
 
-*The advantage of VsCode is...*
+-   The advantage to using R and RStudio is the ability to toggle between Source and Visual representation of the page, which means that editing the webpage is no more difficult than editing a word document.
+
+-   The advantage of VsCode is seamless integration with Github.
 
 ### Setup via R and RStudio
 
@@ -30,7 +32,7 @@ To contribute, you must do the following, and it should only take about 20 minut
 
 3.  **Create a GitHub Account**
 
-    [Create your free personal account GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
+    You will need to first [create your free personal account GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) using your waterboards email. You need to enable MFA and request access to the [Waterboard Github organization](https://github.com/CAWaterBoardDataCenter). A site administrator will invite you to join (please accept the invitation) and then we will invite you to join the team working on this website (please accept that one too).
 
     [Tips on choosing your username](https://happygitwithr.com/github-acct.html#username-advice)
 
@@ -40,6 +42,8 @@ To contribute, you must do the following, and it should only take about 20 minut
 
 5.  **Install Github Desktop (optional)**
 
-    [Github desktop](https://desktop.github.com/download/) is a GUI that makes using Git easier for beginners. Other methods of using Git also work.
+    [Github desktop](https://desktop.github.com/download/) is a GUI that makes using Git easier for beginners. While it is not required, this is easier to learn than other methods. You will need to send a request to the DIT HelpDesk so they can install this free software.
 
-## Setup via VsCode
+### Setup via VsCode
+
+TBD

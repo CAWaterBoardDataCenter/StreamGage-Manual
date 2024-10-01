@@ -1,12 +1,30 @@
 # Equipment
 
-Equipment that is used for stream gageing
+Please review the [Field Equipment Protocol](https://cawaterboards.sharepoint.com/DWR/ER/AllStaff/Field%20Equipment/DWR_Field_Equipment_Protocol.pdf) for details about using the field equipment. You and your supervisor need to sign the last page and submit to Admin staff, who will then provide access.
 
-## Inventory
+Any protocols and instructions published on the Division Sharepoint page (including the [Field Equipment folder](https://cawaterboards.sharepoint.com/DWR/ER/AllStaff/Forms/AllItems.aspx?id=%2FDWR%2FER%2FAllStaff%2FField%20Equipment&viewid=4e8e4737%2De360%2D402b%2Da885%2D498a3aea8a37)) are controlling: information and links on this page is provided for convenience but may be out-of-date or the links broken (*please let us know if so*).
 
-## Manuals, Instruction, and Training
+## Inventory and Checkout
 
-## Region 5 Shed
+Division equipment is listed and is available for reservation and checking out on the [DWR Reserve Equipment page](https://cawaterboards.sharepoint.com/sites/WB-DWR-UASProgram/SitePages/ProjectHome.aspx) (with [instructions](https://cawaterboards.sharepoint.com/DWR/ER/AllStaff/Forms/AllItems.aspx?id=%2FDWR%2FER%2FAllStaff%2FField%20Equipment%2FEquipment%20Checkout%20System%20Instructions%2Epdf&viewid=4e8e4737%2De360%2D402b%2Da885%2D498a3aea8a37&parent=%2FDWR%2FER%2FAllStaff%2FField%20Equipment)). Most of equipment is stored in the CalEPA HQ building on the 14th floor in a storage room. Consumables or large inventory (such as PVC pipes or fence posts) may be located in a shed at the Region 5 parking lot in Rancho Cordova. Please see Admin staff for keys to the shed and access to the locked parking lot. Some equipment may be located elsewhere, especially if there are ongoing preparations for field deployments or space is limited in the gear storage room.
+
+## Stewardship
+
+This is a placeholder for the development of a "gear stewardship" program. The basic concept is that certain equipment or gear would be assigned a steward, who will be responsible for taking care of and maintaining the equipment. Stewards should be staff that are familiar with and regularly using the equipment. Some examples of stewardship tasks may include:
+
+-   calibrating equipment.
+-   ensuring that water quality probe sensors do not "dry out" and are wetted with distilled water.
+-   ensuring that stream gages are turned off when they return to the office to not drain the (non-replaceable) batteries and not waste telemetry credits.
+-   ensuring that batteries are not left in equipment to avoid acid leakage and damage.
+-   ensuring that waders and boots are marked for repair, repaired, or replaced when needed.
+
+Previous consequences of not having a stewardship program include surprise leaky waders, dead equipment needing replacing, and damage to equipment due to lack of maintenance or leaking batteries.
+
+## Manuals and Training
+
+There are folders on the DWR Fieldwork sharepoint for [Manuals](https://cawaterboards.sharepoint.com/sites/WB-DWR-UASProgram/Shared%20Documents/Forms/AllItems.aspx?newTargetListUrl=%2Fsites%2FWB%2DDWR%2DUASProgram%2FShared%20Documents&viewpath=%2Fsites%2FWB%2DDWR%2DUASProgram%2FShared%20Documents%2FForms%2FAllItems%2Easpx&id=%2Fsites%2FWB%2DDWR%2DUASProgram%2FShared%20Documents%2F08%2DEquipment%20Manuals%20%26%20Instructions&viewid=a32c631e%2Db6fc%2D4a60%2D93ef%2D6869b722d57d) and [Training](https://cawaterboards.sharepoint.com/sites/WB-DWR-UASProgram/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=BDG6yy&siteid=%7BB3276F86%2DA0A3%2D4A18%2D9731%2D87D29397DED7%7D&webid=%7B975F8AE4%2D7475%2D4850%2D80FB%2D8585C8B3F787%7D&uniqueid=%7B9F139F4D%2DA2C4%2D4C30%2DADC6%2D5E89B46AEF7D%7D&FolderCTID=0x012000BD2BB9397BB9A742B2002795026AFCE8&id=%2Fsites%2FWB%2DDWR%2DUASProgram%2FShared%20Documents%2F06%2DTraining). Manuals can also be found on manufacturers' websites.
+
+Reference documents for details on stream gaging protocols will be found in the other pages in the appropriate section and/or on the [references](references.qmd) page.
 
 ## Procurement
 
@@ -17,3 +35,13 @@ Please work with DWRs's procurement lead to coordinate your supplies purchases. 
 The following consumables may be needed
 
 -   [ADCP Consumables](../adcp/equipment_checklist.qmd)
+-   distilled water for water quality probes
+-   batteries (Admin staff)
+
+### Subscriptions
+
+The following items need subscriptions renewed:
+
+-   SPOT emergency beacons
+-   HyPack Max software (for software updates and continued support)
+-   Total Station (for software updates and continued support)

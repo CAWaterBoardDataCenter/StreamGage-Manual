@@ -1,0 +1,5 @@
+# References
+
+This page is a placeholder for links to references.
+
+[USBR Water Measurement Manual](https://www.usbr.gov/tsc/techreferences/hydraulics_lab/pubs/wmm/wmm.html)
