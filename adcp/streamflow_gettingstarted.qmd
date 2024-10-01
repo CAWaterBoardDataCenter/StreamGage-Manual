@@ -2,6 +2,8 @@
 
 This section describes how to get started using the ADCP, which is used in deep or large rivers, or in smaller rivers with high flows. The ADCP requires water depths of at least 1 ft (2 or more feet is better). For streamflow measurements in wadeable streams, please see the [flow measurement section](../flowmmt/index.qmd)*.*
 
+this is al**l i have to do**
+
 ## RiverSurveyor Live! Software
 
 Documentation for RiverSurveyor Live! is found on the [RiverSurveyor Live sharepoint page](https://cawaterboards.sharepoint.com/:f:/r/sites/WB-DWR-UASProgram/Shared%20Documents/01-Equipment/03-Manuals%20%26%20Instructions/Sontek_River_Surveyor_(ADCP)/Software/RiverSurveyorLive%20(stream%20flow)?csf=1&web=1&e=g31Hmm) on the [official software website](https://www.xylem.com/en-us/products--services/software/riversurveyor-live-rsl/). No license is needed for this software.
