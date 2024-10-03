@@ -293,9 +293,12 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#streamflow-data-processing" id="toc-streamflow-data-processing" class="nav-link active" data-scroll-target="#streamflow-data-processing">Streamflow: Data Processing</a>
   <ul class="collapse">
-  <li><a href="#checking-data-in-the-office" id="toc-checking-data-in-the-office" class="nav-link" data-scroll-target="#checking-data-in-the-office">Checking Data in the Office</a></li>
-  <li><a href="#usgs-free-software" id="toc-usgs-free-software" class="nav-link" data-scroll-target="#usgs-free-software">USGS free software</a></li>
-  <li><a href="#usgs-technical-tips" id="toc-usgs-technical-tips" class="nav-link" data-scroll-target="#usgs-technical-tips">USGS Technical Tips</a></li>
+  <li><a href="#checking-data-in-the-office" id="toc-checking-data-in-the-office" class="nav-link" data-scroll-target="#checking-data-in-the-office">Checking Data in the Office</a>
+  <ul class="collapse">
+  <li><a href="#file-types" id="toc-file-types" class="nav-link" data-scroll-target="#file-types">File types</a></li>
+  </ul></li>
+  <li><a href="#software-programs" id="toc-software-programs" class="nav-link" data-scroll-target="#software-programs">Software Programs</a></li>
+  <li><a href="#training" id="toc-training" class="nav-link" data-scroll-target="#training">Training</a></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/CAWaterBoardDataCenter/StreamGage-Manual/edit/main/adcp/streamflow_data_processing.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/StreamGage-Manual/blob/main/adcp/streamflow_data_processing.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/StreamGage-Manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
@@ -309,22 +312,27 @@ ul.task-list li input[type="checkbox"] {
 <section id="streamflow-data-processing" class="level1">
 <h1>Streamflow: Data Processing</h1>
 <p>This section describes how to acquire and process streamflow data collected with the Sontek M9. Data management and rating curve generation is the same as that done for streamflow measurements collected by other methods. Please refer to <em>add section here</em>.</p>
-<p>Sontek has a <a href="https://www.youtube.com/playlist?list=PLCbJJUmLdIBEZZWxyCGqeDhpF4T-Tyltn">video training series</a> on collecting streamflow data with the ADCP. Waterboards held a training day on 9/11/2024 and <a href="https://cawaterboards.sharepoint.com/:v:/r/sites/WB-DWR-UASProgram/Shared%20Documents/06-Training/ADCP_and_Bathymetry/videos_from_training/Lab%20C_%20Streamflow%20Measurement%20with%20ADCP-20240911_090701-Meeting%20Recording.mp4?csf=1&amp;web=1&amp;e=pOBYyc">recorded the pre-field training</a>. We also <a href="https://cawaterboards.sharepoint.com/:f:/r/sites/WB-DWR-UASProgram/Shared%20Documents/06-Training/ADCP_and_Bathymetry/DATA_from_Training/2024_09_11_RiverSurveyor_Data?csf=1&amp;web=1&amp;e=41CDPX">collected data</a> on the training day that can be used for learning.</p>
-<p>This website needs help!</p>
 <section id="checking-data-in-the-office" class="level2">
 <h2 class="anchored" data-anchor-id="checking-data-in-the-office">Checking Data in the Office</h2>
 <p><a href="https://www.youtube.com/watch?v=jRoFbFTokW0&amp;list=PLCbJJUmLdIBEZZWxyCGqeDhpF4T-Tyltn&amp;index=8">In office data review</a></p>
 <p><a href="https://www.youtube.com/watch?v=ukb-B9e5OTY&amp;list=PLCbJJUmLdIBEZZWxyCGqeDhpF4T-Tyltn&amp;index=10">Webinar with questions answered</a></p>
+<section id="file-types" class="level3">
+<h3 class="anchored" data-anchor-id="file-types">File types</h3>
+<p>The raw Sontek M9 files have the ending <em>.riv</em> and are collected and stored on the instrument itself. Data files that are transmitted via radio to a computer are replicates with an ending <em>.rivr</em>. Data processing should always use <em>.riv</em> files not <em>.rivr</em> files because the replicates are missing data lost in radio transmissions. The software allows some parameters to be changed post-field, and those changes are stored in <em>.wsp</em> files, so that the original raw files are never edited.</p>
 </section>
-<section id="usgs-free-software" class="level2">
-<h2 class="anchored" data-anchor-id="usgs-free-software">USGS free software</h2>
-<p><em>we may need to work with DIT for these software(s) to work.</em></p>
-<p>The <a href="https://hydroacoustics.usgs.gov/movingboat/mbd_software.shtml">USGS publishes free software</a> to help with ADCP data processing. Two recommended softwares are <a href="https://hydroacoustics.usgs.gov/movingboat/QRev.shtml">QRev</a>, which is used to compute discharge, and <a href="https://www.usgs.gov/publications/extrap-software-assist-selection-extrapolation-methods-moving-boat-adcp-streamflow">extrap</a> that is used to extrapolate measurements. USGS software requires data to be in Matlab format, which can be exported from the Sontek M9.</p>
 </section>
-<section id="usgs-technical-tips" class="level2">
-<h2 class="anchored" data-anchor-id="usgs-technical-tips">USGS Technical Tips</h2>
-<p><a href="https://www.usgs.gov/hydroacoustics/moving-boat-measurements" class="uri">https://www.usgs.gov/hydroacoustics/moving-boat-measurements</a></p>
-<p>Of</p>
+<section id="software-programs" class="level2">
+<h2 class="anchored" data-anchor-id="software-programs">Software Programs</h2>
+<p>The software used for collecting data and doing the bulk of the data processing is Sontek RiverSurveyor Live!. . The <a href="https://hydroacoustics.usgs.gov/movingboat/mbd_software.shtml">USGS publishes free software</a> to help with ADCP data processing. Two recommended softwares are <a href="https://hydroacoustics.usgs.gov/movingboat/QRev.shtml">QRev</a>, which is used to compute discharge, and <a href="https://www.usgs.gov/publications/extrap-software-assist-selection-extrapolation-methods-moving-boat-adcp-streamflow">extrap</a> (which might be embedded in QRev) to extrapolate measurements. USGS software requires data to be in Matlab format, which can be exported from the Sontek M9. (Future versions of the M9 may use newer software with these additional tools embedded.) <em>Add details here if you are processing data.</em></p>
+</section>
+<section id="training" class="level2">
+<h2 class="anchored" data-anchor-id="training">Training</h2>
+<p>Sontek has a <a href="https://www.youtube.com/playlist?list=PLCbJJUmLdIBEZZWxyCGqeDhpF4T-Tyltn">video training series</a> on collecting streamflow data with the ADCP.</p>
+<p>Waterboards held a training day on 9/11/2024 on the American River at the <a href="https://www.google.com/maps/place/Parking+Space/@38.6318805,-121.2704787,324m/data=!3m1!1e3!4m6!3m5!1s0x809add4070972437:0xc0e68ac138622df0!8m2!3d38.6317068!4d-121.2699568!16s%2Fg%2F11p5gp5kn6?entry=ttu&amp;g_ep=EgoyMDI0MTAwMS4wIKXMDSoASAFQAw%3D%3D">Jim Jones pedestrian bridge near Sunrise</a>, about 3 miles downstream of the <a href="https://waterdata.usgs.gov/monitoring-location/11446500/#parameterCode=00065&amp;period=P7D&amp;showMedian=false">USGS gage at Fair Oaks</a>. We <a href="https://cawaterboards.sharepoint.com/:f:/r/sites/WB-DWR-UASProgram/Shared%20Documents/06-Training/ADCP_and_Bathymetry/DATA_from_Training/2024_09_11_RiverSurveyor_Data?csf=1&amp;web=1&amp;e=41CDPX">collected data</a> on the training day that can be used for learning and following along with the RiverSurveyor Live! software, which can be installed by following instructions on the <a href="../adcp/streamflow_gettingstarted.html">Streamflow: Getting Started</a> page. We <a href="https://cawaterboards.sharepoint.com/:v:/r/sites/WB-DWR-UASProgram/Shared%20Documents/06-Training/ADCP_and_Bathymetry/videos_from_training/Lab%20C_%20Streamflow%20Measurement%20with%20ADCP-20240911_090701-Meeting%20Recording.mp4?csf=1&amp;web=1&amp;e=pOBYyc">recorded the pre-field training</a> and the <a href="https://cawaterboards.sharepoint.com/sites/WB-DWR-UASProgram/_layouts/15/stream.aspx?id=%2Fsites%2FWB%2DDWR%2DUASProgram%2FShared%20Documents%2F06%2DTraining%2FADCP%5Fand%5FBathymetry%2Fvideos%5Ffrom%5Ftraining%2FLab%20D%20RiverSurveyorLive%20Streamflow%20%2D%20Data%20Processing%2D20241003%5F083326%2DMeeting%20Recording%2Emp4&amp;referrer=StreamWebApp%2EWeb&amp;referrerScenario=AddressBarCopied%2Eview%2E1de8ce6f%2D90c5%2D4c10%2Da718%2Dde900aeb3d4f">post-field data processing</a> for reference.</p>
+<p>The USGS also has technical tips on adcp data collection and processing:</p>
+<ul>
+<li><a href="https://www.usgs.gov/hydroacoustics/moving-boat-measurements" class="uri">https://www.usgs.gov/hydroacoustics/moving-boat-measurements</a></li>
+</ul>
 
 
 </section>
