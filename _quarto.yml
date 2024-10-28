@@ -40,6 +40,8 @@ website:
         text: Flow Measurement
         contents:
           - flowmmt/siteselectionflow.qmd 
+          - flowmmt/equipment.qmd
+          - flowmmt/Flowtracker2.qmd
       - section: adcp/index.qmd
         text: ADCP Operations
         contents:
@@ -64,8 +66,6 @@ website:
         text: Travel
       - href: contribute.qmd
         text: Contributing
-      - href: references.qmd
-        text: References
     
 format:
   html:
