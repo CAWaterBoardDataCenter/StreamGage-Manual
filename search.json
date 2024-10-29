@@ -51,7 +51,29 @@
     "href": "flowmmt/siteselectionflow.html",
     "title": "selecting a good flow measurement site",
     "section": "",
-    "text": "selecting a good flow measurement site",
+    "text": "There are a few factors to consider when choosing a site to take a flow measurement.\n(Insert an image here)\n\n\nRiver Channel: Look for an area where the channel is straight and uniform, supporting more laminar flow. Avoid sections where there are eddy’s or areas of turbulence.\nThis may be upstream of a “control,” or a physical feature downstream that controls the flow in the channel segment above it. Examples are morphological units that constrict flow, such as stable riffles or bedrock outcroppings.\nChannel banks should be stable and not easily susceptible to scouring, deposition, or migration.\n(Upload picture)\nAccess: This may end up being a more limiting factor, but the site chosen will need to be somewhere that can be accessed for data collection or for regular maintenance if a gauge is installed.\n\n\n\nCheck for vegetation and algae growth, or any obstructions such as boulders, branches, or log jams. These can create sections of scouring and deposition, and create turbulence.\nBe aware of where tributaries connect either upstream or downstream of the chosen flow measurement site.",
+    "crumbs": [
+      "Flow Measurement",
+      "selecting a good flow measurement site"
+    ]
+  },
+  {
+    "objectID": "flowmmt/siteselectionflow.html#features",
+    "href": "flowmmt/siteselectionflow.html#features",
+    "title": "selecting a good flow measurement site",
+    "section": "",
+    "text": "River Channel: Look for an area where the channel is straight and uniform, supporting more laminar flow. Avoid sections where there are eddy’s or areas of turbulence.\nThis may be upstream of a “control,” or a physical feature downstream that controls the flow in the channel segment above it. Examples are morphological units that constrict flow, such as stable riffles or bedrock outcroppings.\nChannel banks should be stable and not easily susceptible to scouring, deposition, or migration.\n(Upload picture)\nAccess: This may end up being a more limiting factor, but the site chosen will need to be somewhere that can be accessed for data collection or for regular maintenance if a gauge is installed.",
+    "crumbs": [
+      "Flow Measurement",
+      "selecting a good flow measurement site"
+    ]
+  },
+  {
+    "objectID": "flowmmt/siteselectionflow.html#other-considerations",
+    "href": "flowmmt/siteselectionflow.html#other-considerations",
+    "title": "selecting a good flow measurement site",
+    "section": "",
+    "text": "Check for vegetation and algae growth, or any obstructions such as boulders, branches, or log jams. These can create sections of scouring and deposition, and create turbulence.\nBe aware of where tributaries connect either upstream or downstream of the chosen flow measurement site.",
     "crumbs": [
       "Flow Measurement",
       "selecting a good flow measurement site"
@@ -597,7 +619,7 @@
     "href": "flowmmt/index.html",
     "title": "Flow Measurement",
     "section": "",
-    "text": "Flow Measurement",
+    "text": "Flow Measurement\nThis section describes taking flow measurements using the Flowtracker2, which is used when the river can be safely waded. For streamflow measurements in non-wadeable streams, please see the ADCP Operations section.",
     "crumbs": [
       "Flow Measurement"
     ]
