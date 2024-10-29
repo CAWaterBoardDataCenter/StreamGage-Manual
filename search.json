@@ -201,28 +201,139 @@
     ]
   },
   {
-    "objectID": "gage/index.html",
-    "href": "gage/index.html",
-    "title": "Gage Installation and Maintenance",
+    "objectID": "gage/siteselection.html",
+    "href": "gage/siteselection.html",
+    "title": "Selecting a good gage site",
     "section": "",
-    "text": "Gage Installation and Maintenance",
+    "text": "Selecting a good gage site",
     "crumbs": [
-      "Gage Installation and Maintenance"
+      "Gage Installation and Maintenance",
+      "Selecting a good gage site"
     ]
   },
   {
-    "objectID": "archive/inspiration.html",
-    "href": "archive/inspiration.html",
-    "title": "Inspiration",
+    "objectID": "archive/contacts_example.html",
+    "href": "archive/contacts_example.html",
+    "title": "Meet the SWAMP Team!",
     "section": "",
-    "text": "Inspiration\nThe impetus for developing this manual began in 2024 when some of us participated in the Water Boards Openscapes Champions Cohort.\nThis Manual was started with help from the folks behind the, SWAMP Manual, who generously shared their time and code to get us started!\nWe are also inspired by the following sources:\n\nOpenscapes and their Approach Guide\nAdrift Field Methods – ADRIFT Field Methods\nNOAA Fisheries (NMFS) Open Science Resource Book\nThe Fay Lab Manual"
+    "text": "The SWAMP Team is composed of multiple team members at the State Water Board within the SWAMP Unit, SWAMP Information Management and Quality Assurance Center (SWAMP IQ), and others in the Office of Information Management and Analysis (OIMA).\ntest\n\n\n\n\n\nName\nTitle\nProgram Area(s)\n\n\n\n\nAli Dunn\nUnit Supervisor\nSWAMP Unit\n\n\nElena Suglia\nCalifornia Sea Grant Fellow\nData science, data visualization (R)\nScience communication\n\n\nMichelle Tang\nEnvironmental Scientist\nSWAMP Data Dashboard\nData science, data visualization and programming (JavaScript, Python)\n\n\nShuka Rastegarpour\nEnvironmental Scientist\nSWAMP Statewide Bioassessment Program Coordinator\n\n\nVacant\n[Anna Holder acting until filled]\nEnvironmental Scientist\nSWAMP Statewide Bioaccumulation Program Coordinator & Safe to Eat Workgroup Co-Chair\n\n\n\n\n\n\n\n\n\nName\nTitle\nProgram Area(s)\n\n\n\n\nTessa Fojut\nUnit Supervisor\nSWAMP QA Officer\nSWAMP IQ Unit\n\n\nCandace Levesque\nEnvironmental Scientist\nBioassessment (algae) Data Manager\n\n\nCui (Scarlett) Li-Gherman\nScientific Aid\n\n\n\nDelany Broome\nEnvironmental Scientist\nChemistry Data Manager\n\n\nJennifer Salisbury\nEnvironmental Scientist\nTissue Data Manager\nCEDEN Vocabulary Manager\n\n\nKimberly Pham\nEnvironmental Scientist\nChemistry Data Manager\n\n\nLindsey Metz\nEnvironmental Scientist\nMicrobiology Data Manager\nSWAMP eDNA Metabarcoding Monitoring and Analysis Project (SeMMAP)\n\n\nToni Marshall\nEnvironmental Scientist\nBioassessment (benthic macroinvertebrates) Data Manager\n\n\nTony Gill\nEnvironmental Scientist\nToxicity Data Manager\nSWAMP Statewide Toxicology and Contaminants Program Coordinator\n\n\n\nFor more information, visit the SWAMP IQ Wiki\n\n\n\n\n\n\nName\nTitle\nProgram Area(s)\n\n\n\n\nGreg Gearheart\nDeputy Director\nOIMA\n\n\nAndrew Hamilton\nAssistant Deputy Director\nOIMA\n\n\nAnna Holder\nSenior Specialist\nOpen Data Science, Equity & Tribal Coordinator\nOpenscapes\nTribal Coordinator\nRacial Equity Trainer\n\n\nCarly Nilson\nSenior Specialist\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator, OIMA Procurement Lead\n\n\nChad Fearing\nAssociate Governmental Program Analyst\nContracts\n\n\nDevan Burke\nAssociate Governmental Program Analyst\nContracts\nOpenscapes\nRacial equity data projects and communication\n\n\nErick Burres\nCitizen Science Coordinator\nSWAMP Clean Water Team\n\n\nKevin Song\nStanford Fellow\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nMarisa VanDyke\nSenior Specialist\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator\n\n\nNick Martorano\nExecutive Director\nCalifornia Water Quality Monitoring Council\n\n\n\n\n\n\n\n*Fellows who were then hired by the Water Boards\n\n\nName\nTitle\nYear\nPrimary Project Area(s) & Products\n\n\n\n\nLeah Benton\nCivicSpark Fellow\n2023-2024\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nSydney Rilum\nCalifornia Sea Grant Fellow\n2023\nSWAMP Data Dashboard - Bioaccumulation Data\n\n\nJosh Davenport\nStanford Fellow\n2023\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nBadhia Yunes Katz\nCivicSpark Fellow\n2022-2023\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nLindsey Metz*\nCalifornia Sea Grant Fellow\n2022\n\n\n\nGabriella Moran\nCivicSpark Fellow\n2021-2022\nTribal Data Initiatives\n\n\nBrook Thompson\nStanford Fellow\n2021\nTribal Data Initiatives\n\n\nCorey Clatterbuck*\nCalifornia Sea Grant Fellow\n2021\nHealthy Watersheds\nTrash\nTrash Data Dive 2021\n\n\nRoss Cooper\nCalifornia Sea Grant Fellow\n2020\nTrash Datathon\nBioaccumulation\nCASG Article: The Predicament of Subsistence Fishing and Seafood Contaminants\n\n\nMaraid Jimenez\nCivicSpark Fellow\n2020-2021\nTribal Data Initiatives\n\n\nAnna Holder*\nCalifornia Sea Grant Fellow\n2019\nHealthy Watersheds\nOpen Data & Science\nTrash\nCA Water Data Science Symposium\nCollege of Water Informatics\nCASG Article: Lean into Your Professional Swerves\n\n\nNicole Hack\nCalifornia Sea Grant Fellow\n2018\nTrash\nTrash Data Dive\nCASG Article: Being a Datahead\n\n\nAndrew Hill*\nCalifornia Sea Grant Fellow\n2017\nTrash\nTrash Tracker\nCASG Article: Tracking Trash"
   },
   {
-    "objectID": "archive/contacts.html",
-    "href": "archive/contacts.html",
-    "title": "Stream Gaging Team",
+    "objectID": "archive/contacts_example.html#swamp-unit",
+    "href": "archive/contacts_example.html#swamp-unit",
+    "title": "Meet the SWAMP Team!",
     "section": "",
-    "text": "Stream gaging and bathymetry measurements are currently being done by a variety of units for different projects, mostly within the Division of Water Rights. Division equipment is internally on Sharepoint.\n\n\n\n\n\n\n\n\nName\nProject(s)\nExpertise\n\n\n\n\nVal Zimmer\nClear Lake Hitch\nFlow measurement, Rating curve development, equipment, data management"
+    "text": "Name\nTitle\nProgram Area(s)\n\n\n\n\nAli Dunn\nUnit Supervisor\nSWAMP Unit\n\n\nElena Suglia\nCalifornia Sea Grant Fellow\nData science, data visualization (R)\nScience communication\n\n\nMichelle Tang\nEnvironmental Scientist\nSWAMP Data Dashboard\nData science, data visualization and programming (JavaScript, Python)\n\n\nShuka Rastegarpour\nEnvironmental Scientist\nSWAMP Statewide Bioassessment Program Coordinator\n\n\nVacant\n[Anna Holder acting until filled]\nEnvironmental Scientist\nSWAMP Statewide Bioaccumulation Program Coordinator & Safe to Eat Workgroup Co-Chair"
+  },
+  {
+    "objectID": "archive/contacts_example.html#swamp-iq",
+    "href": "archive/contacts_example.html#swamp-iq",
+    "title": "Meet the SWAMP Team!",
+    "section": "",
+    "text": "Name\nTitle\nProgram Area(s)\n\n\n\n\nTessa Fojut\nUnit Supervisor\nSWAMP QA Officer\nSWAMP IQ Unit\n\n\nCandace Levesque\nEnvironmental Scientist\nBioassessment (algae) Data Manager\n\n\nCui (Scarlett) Li-Gherman\nScientific Aid\n\n\n\nDelany Broome\nEnvironmental Scientist\nChemistry Data Manager\n\n\nJennifer Salisbury\nEnvironmental Scientist\nTissue Data Manager\nCEDEN Vocabulary Manager\n\n\nKimberly Pham\nEnvironmental Scientist\nChemistry Data Manager\n\n\nLindsey Metz\nEnvironmental Scientist\nMicrobiology Data Manager\nSWAMP eDNA Metabarcoding Monitoring and Analysis Project (SeMMAP)\n\n\nToni Marshall\nEnvironmental Scientist\nBioassessment (benthic macroinvertebrates) Data Manager\n\n\nTony Gill\nEnvironmental Scientist\nToxicity Data Manager\nSWAMP Statewide Toxicology and Contaminants Program Coordinator\n\n\n\nFor more information, visit the SWAMP IQ Wiki"
+  },
+  {
+    "objectID": "archive/contacts_example.html#oima",
+    "href": "archive/contacts_example.html#oima",
+    "title": "Meet the SWAMP Team!",
+    "section": "",
+    "text": "Name\nTitle\nProgram Area(s)\n\n\n\n\nGreg Gearheart\nDeputy Director\nOIMA\n\n\nAndrew Hamilton\nAssistant Deputy Director\nOIMA\n\n\nAnna Holder\nSenior Specialist\nOpen Data Science, Equity & Tribal Coordinator\nOpenscapes\nTribal Coordinator\nRacial Equity Trainer\n\n\nCarly Nilson\nSenior Specialist\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator, OIMA Procurement Lead\n\n\nChad Fearing\nAssociate Governmental Program Analyst\nContracts\n\n\nDevan Burke\nAssociate Governmental Program Analyst\nContracts\nOpenscapes\nRacial equity data projects and communication\n\n\nErick Burres\nCitizen Science Coordinator\nSWAMP Clean Water Team\n\n\nKevin Song\nStanford Fellow\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nMarisa VanDyke\nSenior Specialist\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator\n\n\nNick Martorano\nExecutive Director\nCalifornia Water Quality Monitoring Council"
+  },
+  {
+    "objectID": "archive/contacts_example.html#former-fellows-interns",
+    "href": "archive/contacts_example.html#former-fellows-interns",
+    "title": "Meet the SWAMP Team!",
+    "section": "",
+    "text": "*Fellows who were then hired by the Water Boards\n\n\nName\nTitle\nYear\nPrimary Project Area(s) & Products\n\n\n\n\nLeah Benton\nCivicSpark Fellow\n2023-2024\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nSydney Rilum\nCalifornia Sea Grant Fellow\n2023\nSWAMP Data Dashboard - Bioaccumulation Data\n\n\nJosh Davenport\nStanford Fellow\n2023\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nBadhia Yunes Katz\nCivicSpark Fellow\n2022-2023\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nLindsey Metz*\nCalifornia Sea Grant Fellow\n2022\n\n\n\nGabriella Moran\nCivicSpark Fellow\n2021-2022\nTribal Data Initiatives\n\n\nBrook Thompson\nStanford Fellow\n2021\nTribal Data Initiatives\n\n\nCorey Clatterbuck*\nCalifornia Sea Grant Fellow\n2021\nHealthy Watersheds\nTrash\nTrash Data Dive 2021\n\n\nRoss Cooper\nCalifornia Sea Grant Fellow\n2020\nTrash Datathon\nBioaccumulation\nCASG Article: The Predicament of Subsistence Fishing and Seafood Contaminants\n\n\nMaraid Jimenez\nCivicSpark Fellow\n2020-2021\nTribal Data Initiatives\n\n\nAnna Holder*\nCalifornia Sea Grant Fellow\n2019\nHealthy Watersheds\nOpen Data & Science\nTrash\nCA Water Data Science Symposium\nCollege of Water Informatics\nCASG Article: Lean into Your Professional Swerves\n\n\nNicole Hack\nCalifornia Sea Grant Fellow\n2018\nTrash\nTrash Data Dive\nCASG Article: Being a Datahead\n\n\nAndrew Hill*\nCalifornia Sea Grant Fellow\n2017\nTrash\nTrash Tracker\nCASG Article: Tracking Trash"
+  },
+  {
+    "objectID": "archive/admin/index.html",
+    "href": "archive/admin/index.html",
+    "title": "Administrative goodies",
+    "section": "",
+    "text": "Administrative goodies\nThis section contains resources to make administrative tasks a bit more straightforward."
+  },
+  {
+    "objectID": "datamgmt/index.html",
+    "href": "datamgmt/index.html",
+    "title": "Data Management",
+    "section": "",
+    "text": "Data Management",
+    "crumbs": [
+      "Data Handling and Documentation"
+    ]
+  },
+  {
+    "objectID": "about/howitworks.html",
+    "href": "about/howitworks.html",
+    "title": "Stream Gaging Basics",
+    "section": "",
+    "text": "Stream Gaging Basics",
+    "crumbs": [
+      "Stream Gaging Basics",
+      "Stream Gaging Basics"
+    ]
+  },
+  {
+    "objectID": "contribute.html",
+    "href": "contribute.html",
+    "title": "Contributing",
+    "section": "",
+    "text": "We are seeking contributors to this manual. Please contact Val Zimmer for more information.\n\n\n\nWe develop the content using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\nNote that there are other potential ways to contribute and if you are already familiar with Github, Quarto, and Markdown, you are welcome to use those methods. Some notes on other methods are listed below:\n\nThe advantage to using R and RStudio is the ability to toggle between Source and Visual representation of the page, which means that editing the webpage is no more difficult than editing a word document.\nThe advantage of VsCode is seamless integration with Github.\n\n\n\nTo contribute, you must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nYou will need to first create your free personal account GitHub account using your waterboards email. You need to enable MFA and request access to the Waterboard Github organization. A site administrator will invite you to join (please accept the invitation) and then we will invite you to join the team working on this website (please accept that one too).\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.\nInstall Github Desktop (optional)\nGithub desktop is a GUI that makes using Git easier for beginners. While it is not required, this is easier to learn than other methods. You will need to send a request to the DIT HelpDesk so they can install this free software.\n\n\n\n\nTBD",
+    "crumbs": [
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contribute.html#who-can-contribute",
+    "href": "contribute.html#who-can-contribute",
+    "title": "Contributing",
+    "section": "",
+    "text": "We are seeking contributors to this manual. Please contact Val Zimmer for more information.",
+    "crumbs": [
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contribute.html#how-we-contribute",
+    "href": "contribute.html#how-we-contribute",
+    "title": "Contributing",
+    "section": "",
+    "text": "We develop the content using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\nNote that there are other potential ways to contribute and if you are already familiar with Github, Quarto, and Markdown, you are welcome to use those methods. Some notes on other methods are listed below:\n\nThe advantage to using R and RStudio is the ability to toggle between Source and Visual representation of the page, which means that editing the webpage is no more difficult than editing a word document.\nThe advantage of VsCode is seamless integration with Github.\n\n\n\nTo contribute, you must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nYou will need to first create your free personal account GitHub account using your waterboards email. You need to enable MFA and request access to the Waterboard Github organization. A site administrator will invite you to join (please accept the invitation) and then we will invite you to join the team working on this website (please accept that one too).\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.\nInstall Github Desktop (optional)\nGithub desktop is a GUI that makes using Git easier for beginners. While it is not required, this is easier to learn than other methods. You will need to send a request to the DIT HelpDesk so they can install this free software.\n\n\n\n\nTBD",
+    "crumbs": [
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "equipment.html",
+    "href": "equipment.html",
+    "title": "Equipment Checklist",
+    "section": "",
+    "text": "Equipment Checklist",
+    "crumbs": [
+      "Equipment"
+    ]
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "Stream Gaging Basics",
+    "section": "",
+    "text": "Stream Gaging Basics",
+    "crumbs": [
+      "Stream Gaging Basics"
+    ]
+  },
+  {
+    "objectID": "datamgmt/datatostore.html",
+    "href": "datamgmt/datatostore.html",
+    "title": "Data to Store",
+    "section": "",
+    "text": "Data to Store",
+    "crumbs": [
+      "Data Handling and Documentation",
+      "Data to Store"
+    ]
   },
   {
     "objectID": "travel.html",
@@ -275,160 +386,28 @@
     ]
   },
   {
-    "objectID": "datamgmt/datatostore.html",
-    "href": "datamgmt/datatostore.html",
-    "title": "Data to Store",
+    "objectID": "archive/contacts.html",
+    "href": "archive/contacts.html",
+    "title": "Stream Gaging Team",
     "section": "",
-    "text": "Data to Store",
+    "text": "Stream gaging and bathymetry measurements are currently being done by a variety of units for different projects, mostly within the Division of Water Rights. Division equipment is internally on Sharepoint.\n\n\n\n\n\n\n\n\nName\nProject(s)\nExpertise\n\n\n\n\nVal Zimmer\nClear Lake Hitch\nFlow measurement, Rating curve development, equipment, data management"
+  },
+  {
+    "objectID": "archive/inspiration.html",
+    "href": "archive/inspiration.html",
+    "title": "Inspiration",
+    "section": "",
+    "text": "Inspiration\nThe impetus for developing this manual began in 2024 when some of us participated in the Water Boards Openscapes Champions Cohort.\nThis Manual was started with help from the folks behind the, SWAMP Manual, who generously shared their time and code to get us started!\nWe are also inspired by the following sources:\n\nOpenscapes and their Approach Guide\nAdrift Field Methods – ADRIFT Field Methods\nNOAA Fisheries (NMFS) Open Science Resource Book\nThe Fay Lab Manual"
+  },
+  {
+    "objectID": "gage/index.html",
+    "href": "gage/index.html",
+    "title": "Gage Installation and Maintenance",
+    "section": "",
+    "text": "Gage Installation and Maintenance",
     "crumbs": [
-      "Data Handling and Documentation",
-      "Data to Store"
+      "Gage Installation and Maintenance"
     ]
-  },
-  {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "Stream Gaging Basics",
-    "section": "",
-    "text": "Stream Gaging Basics",
-    "crumbs": [
-      "Stream Gaging Basics"
-    ]
-  },
-  {
-    "objectID": "equipment.html",
-    "href": "equipment.html",
-    "title": "Equipment Checklist",
-    "section": "",
-    "text": "Equipment Checklist",
-    "crumbs": [
-      "Equipment"
-    ]
-  },
-  {
-    "objectID": "contribute.html",
-    "href": "contribute.html",
-    "title": "Contributing",
-    "section": "",
-    "text": "We are seeking contributors to this manual. Please contact Val Zimmer for more information.\n\n\n\nWe develop the content using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\nNote that there are other potential ways to contribute and if you are already familiar with Github, Quarto, and Markdown, you are welcome to use those methods. Some notes on other methods are listed below:\n\nThe advantage to using R and RStudio is the ability to toggle between Source and Visual representation of the page, which means that editing the webpage is no more difficult than editing a word document.\nThe advantage of VsCode is seamless integration with Github.\n\n\n\nTo contribute, you must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nYou will need to first create your free personal account GitHub account using your waterboards email. You need to enable MFA and request access to the Waterboard Github organization. A site administrator will invite you to join (please accept the invitation) and then we will invite you to join the team working on this website (please accept that one too).\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.\nInstall Github Desktop (optional)\nGithub desktop is a GUI that makes using Git easier for beginners. While it is not required, this is easier to learn than other methods. You will need to send a request to the DIT HelpDesk so they can install this free software.\n\n\n\n\nTBD",
-    "crumbs": [
-      "Contributing"
-    ]
-  },
-  {
-    "objectID": "contribute.html#who-can-contribute",
-    "href": "contribute.html#who-can-contribute",
-    "title": "Contributing",
-    "section": "",
-    "text": "We are seeking contributors to this manual. Please contact Val Zimmer for more information.",
-    "crumbs": [
-      "Contributing"
-    ]
-  },
-  {
-    "objectID": "contribute.html#how-we-contribute",
-    "href": "contribute.html#how-we-contribute",
-    "title": "Contributing",
-    "section": "",
-    "text": "We develop the content using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\nNote that there are other potential ways to contribute and if you are already familiar with Github, Quarto, and Markdown, you are welcome to use those methods. Some notes on other methods are listed below:\n\nThe advantage to using R and RStudio is the ability to toggle between Source and Visual representation of the page, which means that editing the webpage is no more difficult than editing a word document.\nThe advantage of VsCode is seamless integration with Github.\n\n\n\nTo contribute, you must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nYou will need to first create your free personal account GitHub account using your waterboards email. You need to enable MFA and request access to the Waterboard Github organization. A site administrator will invite you to join (please accept the invitation) and then we will invite you to join the team working on this website (please accept that one too).\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.\nInstall Github Desktop (optional)\nGithub desktop is a GUI that makes using Git easier for beginners. While it is not required, this is easier to learn than other methods. You will need to send a request to the DIT HelpDesk so they can install this free software.\n\n\n\n\nTBD",
-    "crumbs": [
-      "Contributing"
-    ]
-  },
-  {
-    "objectID": "about/howitworks.html",
-    "href": "about/howitworks.html",
-    "title": "Stream Gaging Basics",
-    "section": "",
-    "text": "Stream Gaging Basics",
-    "crumbs": [
-      "Stream Gaging Basics",
-      "Stream Gaging Basics"
-    ]
-  },
-  {
-    "objectID": "datamgmt/index.html",
-    "href": "datamgmt/index.html",
-    "title": "Data Management",
-    "section": "",
-    "text": "Data Management",
-    "crumbs": [
-      "Data Handling and Documentation"
-    ]
-  },
-  {
-    "objectID": "archive/admin/index.html",
-    "href": "archive/admin/index.html",
-    "title": "Administrative goodies",
-    "section": "",
-    "text": "Administrative goodies\nThis section contains resources to make administrative tasks a bit more straightforward."
-  },
-  {
-    "objectID": "archive/contacts_example.html",
-    "href": "archive/contacts_example.html",
-    "title": "Meet the SWAMP Team!",
-    "section": "",
-    "text": "The SWAMP Team is composed of multiple team members at the State Water Board within the SWAMP Unit, SWAMP Information Management and Quality Assurance Center (SWAMP IQ), and others in the Office of Information Management and Analysis (OIMA).\ntest\n\n\n\n\n\nName\nTitle\nProgram Area(s)\n\n\n\n\nAli Dunn\nUnit Supervisor\nSWAMP Unit\n\n\nElena Suglia\nCalifornia Sea Grant Fellow\nData science, data visualization (R)\nScience communication\n\n\nMichelle Tang\nEnvironmental Scientist\nSWAMP Data Dashboard\nData science, data visualization and programming (JavaScript, Python)\n\n\nShuka Rastegarpour\nEnvironmental Scientist\nSWAMP Statewide Bioassessment Program Coordinator\n\n\nVacant\n[Anna Holder acting until filled]\nEnvironmental Scientist\nSWAMP Statewide Bioaccumulation Program Coordinator & Safe to Eat Workgroup Co-Chair\n\n\n\n\n\n\n\n\n\nName\nTitle\nProgram Area(s)\n\n\n\n\nTessa Fojut\nUnit Supervisor\nSWAMP QA Officer\nSWAMP IQ Unit\n\n\nCandace Levesque\nEnvironmental Scientist\nBioassessment (algae) Data Manager\n\n\nCui (Scarlett) Li-Gherman\nScientific Aid\n\n\n\nDelany Broome\nEnvironmental Scientist\nChemistry Data Manager\n\n\nJennifer Salisbury\nEnvironmental Scientist\nTissue Data Manager\nCEDEN Vocabulary Manager\n\n\nKimberly Pham\nEnvironmental Scientist\nChemistry Data Manager\n\n\nLindsey Metz\nEnvironmental Scientist\nMicrobiology Data Manager\nSWAMP eDNA Metabarcoding Monitoring and Analysis Project (SeMMAP)\n\n\nToni Marshall\nEnvironmental Scientist\nBioassessment (benthic macroinvertebrates) Data Manager\n\n\nTony Gill\nEnvironmental Scientist\nToxicity Data Manager\nSWAMP Statewide Toxicology and Contaminants Program Coordinator\n\n\n\nFor more information, visit the SWAMP IQ Wiki\n\n\n\n\n\n\nName\nTitle\nProgram Area(s)\n\n\n\n\nGreg Gearheart\nDeputy Director\nOIMA\n\n\nAndrew Hamilton\nAssistant Deputy Director\nOIMA\n\n\nAnna Holder\nSenior Specialist\nOpen Data Science, Equity & Tribal Coordinator\nOpenscapes\nTribal Coordinator\nRacial Equity Trainer\n\n\nCarly Nilson\nSenior Specialist\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator, OIMA Procurement Lead\n\n\nChad Fearing\nAssociate Governmental Program Analyst\nContracts\n\n\nDevan Burke\nAssociate Governmental Program Analyst\nContracts\nOpenscapes\nRacial equity data projects and communication\n\n\nErick Burres\nCitizen Science Coordinator\nSWAMP Clean Water Team\n\n\nKevin Song\nStanford Fellow\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nMarisa VanDyke\nSenior Specialist\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator\n\n\nNick Martorano\nExecutive Director\nCalifornia Water Quality Monitoring Council\n\n\n\n\n\n\n\n*Fellows who were then hired by the Water Boards\n\n\nName\nTitle\nYear\nPrimary Project Area(s) & Products\n\n\n\n\nLeah Benton\nCivicSpark Fellow\n2023-2024\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nSydney Rilum\nCalifornia Sea Grant Fellow\n2023\nSWAMP Data Dashboard - Bioaccumulation Data\n\n\nJosh Davenport\nStanford Fellow\n2023\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nBadhia Yunes Katz\nCivicSpark Fellow\n2022-2023\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nLindsey Metz*\nCalifornia Sea Grant Fellow\n2022\n\n\n\nGabriella Moran\nCivicSpark Fellow\n2021-2022\nTribal Data Initiatives\n\n\nBrook Thompson\nStanford Fellow\n2021\nTribal Data Initiatives\n\n\nCorey Clatterbuck*\nCalifornia Sea Grant Fellow\n2021\nHealthy Watersheds\nTrash\nTrash Data Dive 2021\n\n\nRoss Cooper\nCalifornia Sea Grant Fellow\n2020\nTrash Datathon\nBioaccumulation\nCASG Article: The Predicament of Subsistence Fishing and Seafood Contaminants\n\n\nMaraid Jimenez\nCivicSpark Fellow\n2020-2021\nTribal Data Initiatives\n\n\nAnna Holder*\nCalifornia Sea Grant Fellow\n2019\nHealthy Watersheds\nOpen Data & Science\nTrash\nCA Water Data Science Symposium\nCollege of Water Informatics\nCASG Article: Lean into Your Professional Swerves\n\n\nNicole Hack\nCalifornia Sea Grant Fellow\n2018\nTrash\nTrash Data Dive\nCASG Article: Being a Datahead\n\n\nAndrew Hill*\nCalifornia Sea Grant Fellow\n2017\nTrash\nTrash Tracker\nCASG Article: Tracking Trash"
-  },
-  {
-    "objectID": "archive/contacts_example.html#swamp-unit",
-    "href": "archive/contacts_example.html#swamp-unit",
-    "title": "Meet the SWAMP Team!",
-    "section": "",
-    "text": "Name\nTitle\nProgram Area(s)\n\n\n\n\nAli Dunn\nUnit Supervisor\nSWAMP Unit\n\n\nElena Suglia\nCalifornia Sea Grant Fellow\nData science, data visualization (R)\nScience communication\n\n\nMichelle Tang\nEnvironmental Scientist\nSWAMP Data Dashboard\nData science, data visualization and programming (JavaScript, Python)\n\n\nShuka Rastegarpour\nEnvironmental Scientist\nSWAMP Statewide Bioassessment Program Coordinator\n\n\nVacant\n[Anna Holder acting until filled]\nEnvironmental Scientist\nSWAMP Statewide Bioaccumulation Program Coordinator & Safe to Eat Workgroup Co-Chair"
-  },
-  {
-    "objectID": "archive/contacts_example.html#swamp-iq",
-    "href": "archive/contacts_example.html#swamp-iq",
-    "title": "Meet the SWAMP Team!",
-    "section": "",
-    "text": "Name\nTitle\nProgram Area(s)\n\n\n\n\nTessa Fojut\nUnit Supervisor\nSWAMP QA Officer\nSWAMP IQ Unit\n\n\nCandace Levesque\nEnvironmental Scientist\nBioassessment (algae) Data Manager\n\n\nCui (Scarlett) Li-Gherman\nScientific Aid\n\n\n\nDelany Broome\nEnvironmental Scientist\nChemistry Data Manager\n\n\nJennifer Salisbury\nEnvironmental Scientist\nTissue Data Manager\nCEDEN Vocabulary Manager\n\n\nKimberly Pham\nEnvironmental Scientist\nChemistry Data Manager\n\n\nLindsey Metz\nEnvironmental Scientist\nMicrobiology Data Manager\nSWAMP eDNA Metabarcoding Monitoring and Analysis Project (SeMMAP)\n\n\nToni Marshall\nEnvironmental Scientist\nBioassessment (benthic macroinvertebrates) Data Manager\n\n\nTony Gill\nEnvironmental Scientist\nToxicity Data Manager\nSWAMP Statewide Toxicology and Contaminants Program Coordinator\n\n\n\nFor more information, visit the SWAMP IQ Wiki"
-  },
-  {
-    "objectID": "archive/contacts_example.html#oima",
-    "href": "archive/contacts_example.html#oima",
-    "title": "Meet the SWAMP Team!",
-    "section": "",
-    "text": "Name\nTitle\nProgram Area(s)\n\n\n\n\nGreg Gearheart\nDeputy Director\nOIMA\n\n\nAndrew Hamilton\nAssistant Deputy Director\nOIMA\n\n\nAnna Holder\nSenior Specialist\nOpen Data Science, Equity & Tribal Coordinator\nOpenscapes\nTribal Coordinator\nRacial Equity Trainer\n\n\nCarly Nilson\nSenior Specialist\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator, OIMA Procurement Lead\n\n\nChad Fearing\nAssociate Governmental Program Analyst\nContracts\n\n\nDevan Burke\nAssociate Governmental Program Analyst\nContracts\nOpenscapes\nRacial equity data projects and communication\n\n\nErick Burres\nCitizen Science Coordinator\nSWAMP Clean Water Team\n\n\nKevin Song\nStanford Fellow\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nMarisa VanDyke\nSenior Specialist\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator\n\n\nNick Martorano\nExecutive Director\nCalifornia Water Quality Monitoring Council"
-  },
-  {
-    "objectID": "archive/contacts_example.html#former-fellows-interns",
-    "href": "archive/contacts_example.html#former-fellows-interns",
-    "title": "Meet the SWAMP Team!",
-    "section": "",
-    "text": "*Fellows who were then hired by the Water Boards\n\n\nName\nTitle\nYear\nPrimary Project Area(s) & Products\n\n\n\n\nLeah Benton\nCivicSpark Fellow\n2023-2024\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nSydney Rilum\nCalifornia Sea Grant Fellow\n2023\nSWAMP Data Dashboard - Bioaccumulation Data\n\n\nJosh Davenport\nStanford Fellow\n2023\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nBadhia Yunes Katz\nCivicSpark Fellow\n2022-2023\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nLindsey Metz*\nCalifornia Sea Grant Fellow\n2022\n\n\n\nGabriella Moran\nCivicSpark Fellow\n2021-2022\nTribal Data Initiatives\n\n\nBrook Thompson\nStanford Fellow\n2021\nTribal Data Initiatives\n\n\nCorey Clatterbuck*\nCalifornia Sea Grant Fellow\n2021\nHealthy Watersheds\nTrash\nTrash Data Dive 2021\n\n\nRoss Cooper\nCalifornia Sea Grant Fellow\n2020\nTrash Datathon\nBioaccumulation\nCASG Article: The Predicament of Subsistence Fishing and Seafood Contaminants\n\n\nMaraid Jimenez\nCivicSpark Fellow\n2020-2021\nTribal Data Initiatives\n\n\nAnna Holder*\nCalifornia Sea Grant Fellow\n2019\nHealthy Watersheds\nOpen Data & Science\nTrash\nCA Water Data Science Symposium\nCollege of Water Informatics\nCASG Article: Lean into Your Professional Swerves\n\n\nNicole Hack\nCalifornia Sea Grant Fellow\n2018\nTrash\nTrash Data Dive\nCASG Article: Being a Datahead\n\n\nAndrew Hill*\nCalifornia Sea Grant Fellow\n2017\nTrash\nTrash Tracker\nCASG Article: Tracking Trash"
-  },
-  {
-    "objectID": "gage/siteselection.html",
-    "href": "gage/siteselection.html",
-    "title": "Selecting a good gage site",
-    "section": "",
-    "text": "Selecting a good gage site",
-    "crumbs": [
-      "Gage Installation and Maintenance",
-      "Selecting a good gage site"
-    ]
-  },
-  {
-    "objectID": "siteselectionflow.html",
-    "href": "siteselectionflow.html",
-    "title": "selecting a good flow measurement site",
-    "section": "",
-    "text": "There are a few factors to consider when choosing a site to take a flow measurement.\n(Insert an image here)\n\n\nRiver Channel: Look for an area where the channel is straight and uniform, supporting more laminar flow. Avoid sections where there are eddy’s or areas of turbulence.\nThis may be upstream of a “control,” or a physical feature downstream that controls the flow in the channel segment above it. Examples are morphological units that constrict flow, such as stable riffles or bedrock outcroppings.\nChannel banks should be stable and not easily susceptible to scouring, deposition, or migration.\n(Upload picture)\nAccess: This may end up being a more limiting factor, but the site chosen will need to be somewhere that can be accessed for data collection or for regular maintenance if a gauge is installed.\n\n\n\nCheck for vegetation and algae growth, or any obstructions such as boulders, branches, or log jams. These can create sections of scouring and deposition, and create turbulence.\nBe aware of where tributaries connect either upstream or downstream of the chosen flow measurement site."
-  },
-  {
-    "objectID": "siteselectionflow.html#features",
-    "href": "siteselectionflow.html#features",
-    "title": "selecting a good flow measurement site",
-    "section": "",
-    "text": "River Channel: Look for an area where the channel is straight and uniform, supporting more laminar flow. Avoid sections where there are eddy’s or areas of turbulence.\nThis may be upstream of a “control,” or a physical feature downstream that controls the flow in the channel segment above it. Examples are morphological units that constrict flow, such as stable riffles or bedrock outcroppings.\nChannel banks should be stable and not easily susceptible to scouring, deposition, or migration.\n(Upload picture)\nAccess: This may end up being a more limiting factor, but the site chosen will need to be somewhere that can be accessed for data collection or for regular maintenance if a gauge is installed."
-  },
-  {
-    "objectID": "siteselectionflow.html#other-considerations",
-    "href": "siteselectionflow.html#other-considerations",
-    "title": "selecting a good flow measurement site",
-    "section": "",
-    "text": "Check for vegetation and algae growth, or any obstructions such as boulders, branches, or log jams. These can create sections of scouring and deposition, and create turbulence.\nBe aware of where tributaries connect either upstream or downstream of the chosen flow measurement site."
   },
   {
     "objectID": "adcp/equipment_checklist.html",
