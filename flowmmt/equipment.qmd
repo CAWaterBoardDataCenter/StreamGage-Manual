@@ -1,1 +1,27 @@
-# Equipment 
+# Getting ready for the field
+
+Checking out gear:
+
+Vehicle reservation: see [Travel](https://cawaterboarddatacenter.github.io/StreamGage-Manual/travel.html)
+
+# Equipment Checklist
+
+-   Personal items:
+
+    -   waders
+    -   wading boots
+    -   lifejacket
+    -   sunscreen
+    -   hat
+    -   notebook and pen/pencil
+    -   first aid kit
+
+-   Streamflow measurement gear:
+
+    -   Flowtracker2
+
+        -   check battery life
+
+    -   2 pieces of rebar
+
+    -   tapemeasure (at least 1)
