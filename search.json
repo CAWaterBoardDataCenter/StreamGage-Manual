@@ -47,344 +47,182 @@
     "text": "References\nThis page is a placeholder for links to references.\nUSBR Water Measurement Manual"
   },
   {
-    "objectID": "flowmmt/siteselectionflow.html",
-    "href": "flowmmt/siteselectionflow.html",
-    "title": "selecting a good flow measurement site",
+    "objectID": "adcp/bathymetry_data_processing.html",
+    "href": "adcp/bathymetry_data_processing.html",
+    "title": "Bathymetry: Data Processing",
     "section": "",
-    "text": "There are a few factors to consider when choosing a site to take a flow measurement.\n(Insert an image here)\n\n\nRiver Channel: Look for an area where the channel is straight and uniform, supporting more laminar flow. Avoid sections where there are eddy’s or areas of turbulence.\nThis may be upstream of a “control,” or a physical feature downstream that controls the flow in the channel segment above it. Examples are morphological units that constrict flow, such as stable riffles or bedrock outcroppings.\nChannel banks should be stable and not easily susceptible to scouring, deposition, or migration.\n(Upload picture)\nAccess: This may end up being a more limiting factor, but the site chosen will need to be somewhere that can be accessed for data collection or for regular maintenance if a gauge is installed.\n\n\n\nCheck for vegetation and algae growth, or any obstructions such as boulders, branches, or log jams. These can create sections of scouring and deposition, and create turbulence.\nBe aware of where tributaries connect either upstream or downstream of the chosen flow measurement site.",
-    "crumbs": [
-      "Flow Measurement",
-      "selecting a good flow measurement site"
-    ]
-  },
-  {
-    "objectID": "flowmmt/siteselectionflow.html#features",
-    "href": "flowmmt/siteselectionflow.html#features",
-    "title": "selecting a good flow measurement site",
-    "section": "",
-    "text": "River Channel: Look for an area where the channel is straight and uniform, supporting more laminar flow. Avoid sections where there are eddy’s or areas of turbulence.\nThis may be upstream of a “control,” or a physical feature downstream that controls the flow in the channel segment above it. Examples are morphological units that constrict flow, such as stable riffles or bedrock outcroppings.\nChannel banks should be stable and not easily susceptible to scouring, deposition, or migration.\n(Upload picture)\nAccess: This may end up being a more limiting factor, but the site chosen will need to be somewhere that can be accessed for data collection or for regular maintenance if a gauge is installed.",
-    "crumbs": [
-      "Flow Measurement",
-      "selecting a good flow measurement site"
-    ]
-  },
-  {
-    "objectID": "flowmmt/siteselectionflow.html#other-considerations",
-    "href": "flowmmt/siteselectionflow.html#other-considerations",
-    "title": "selecting a good flow measurement site",
-    "section": "",
-    "text": "Check for vegetation and algae growth, or any obstructions such as boulders, branches, or log jams. These can create sections of scouring and deposition, and create turbulence.\nBe aware of where tributaries connect either upstream or downstream of the chosen flow measurement site.",
-    "crumbs": [
-      "Flow Measurement",
-      "selecting a good flow measurement site"
-    ]
-  },
-  {
-    "objectID": "adcp/index.html",
-    "href": "adcp/index.html",
-    "title": "ADCP Operations",
-    "section": "",
-    "text": "An Acoustic Doppler Current Profiler, or ADCP, uses sound waves to measure depth and the direction and speed of moving water. Frequency determines the depth and precision of the measured data, with higher frequencies having higher precision and lower frequencies with greater depth range. The ADCP is mounted on a platform on the surface of the water and coupled with a compass so that the instrument knows which direction the water is moving. Our ADCP is paired with a GPS-RTK (global positioning system - real time kinematic) with an accuracy of about 2 cm.\nThe ADCP is used in rivers that are deep or large rivers that cannot be waded safely - it may also be used in rivers during the winter, when flows are higher or there are hazards downstream. The ADCP requires water depths of at least 1 ft (2 or more feet is better). The ADCP can also be used to measure the depth to the bottom of a lake (or possibly a river) and map bathymetry.\n\nThis section is aimed at training staff on how to use the ADCP and process the data. For streamflow measurements in wadeable streams, please see the flow measurement section.\n\n\nThe Sontek M9 works to a depth of ~40 m (130 ft), with velocities up to about 20 m/s (66 ft/s). However, actual depths in the field may be limited by vegetation, suspended sediments, uneven topography, or other impediments. The motor, tethering system, moving particles, or the presence of standing waves (rapids) may limit operation in fast-moving water.\n\n\n\nThere is a set of 4 3.0 MHz and 4 1.0 MHz transducers for velocity profiling, and one 0.5 MHz vertical beam for maximum depth. The different frequencies allow for high precision and adequate depth coverage.",
-    "crumbs": [
-      "ADCP Operations"
-    ]
-  },
-  {
-    "objectID": "adcp/index.html#operating-specifications",
-    "href": "adcp/index.html#operating-specifications",
-    "title": "ADCP Operations",
-    "section": "",
-    "text": "The Sontek M9 works to a depth of ~40 m (130 ft), with velocities up to about 20 m/s (66 ft/s). However, actual depths in the field may be limited by vegetation, suspended sediments, uneven topography, or other impediments. The motor, tethering system, moving particles, or the presence of standing waves (rapids) may limit operation in fast-moving water.",
-    "crumbs": [
-      "ADCP Operations"
-    ]
-  },
-  {
-    "objectID": "adcp/index.html#how-it-works",
-    "href": "adcp/index.html#how-it-works",
-    "title": "ADCP Operations",
-    "section": "",
-    "text": "There is a set of 4 3.0 MHz and 4 1.0 MHz transducers for velocity profiling, and one 0.5 MHz vertical beam for maximum depth. The different frequencies allow for high precision and adequate depth coverage.",
-    "crumbs": [
-      "ADCP Operations"
-    ]
-  },
-  {
-    "objectID": "adcp/bathymetry_gettingstarted.html",
-    "href": "adcp/bathymetry_gettingstarted.html",
-    "title": "Bathymetry: Getting Started",
-    "section": "",
-    "text": "This section describes how to get started using the ADCP for bathymetry measurements.\n\n\nBathymetry measurements with the ADCP require the HYPACK MAX software to collect data in the field and to process the data back in the lab. HYPACK MAX\nDocumentation for HYPACK MAX is found on the HYPACK_MAX sharepoint page on the HYPACK software website.\nWe have a single software license that must be shared. This license will work indefinitely, but software updates and technical support are subscription-based, and currently active to ~mid 2025.\n\n\nPut in a help desk ticket to DIT have have the software activated in your Software Center (type software center into the search bar, shown below). You may wish to check for updates since Sept 2024 before doing so on the HYPACK software website. Install all files onto your computer.\n\n\n\n\nWe have a single “soft license” for sharing, and it is important that staff are diligent in deactivating the license when not in use. The license deactivates automatically after 90 days. Access to the license (aka the Activation Key) is provided in software center when the HYPACK Max program is selected, and may also be obtained via internal documents on Sharepoint or in a Teams Chat.\nIf the license is in use, please first contact all known users to coordinate times for activation/deactivation. If you need help identifying known users, please contact the DIT help desk and request a list of staff with access to the software. Please do not share the license outside of Waterboards, or it may be hard to track down an activated license!\nTo activate the license, open up HYPACK License Manager, select Activate/Deactivate Soft License, allow the HYPACK Soft License Wizard to open, and click Activate your license. Select Activate Online (doing so offline may cause issues). Put in the Activation Key and click Activate.\n\nTo deactivate the license, open up HYPACK License Manager and select Activate/Deactivate Soft License.\n\n\n\n\n\nconnect computer to the M9 river surveyor instrument to check function\n\n\n\npractice driving the rQPOD and collecting good data before going into the field at a project site.",
+    "text": "This section describes how to process bathymetry data collected with the Sontek M9. Bathymetry data need to be collected and processed with HYPACK MAX software.\nWaterboards held a training day on 9/10/2024 and recorded the pre-field and post-field training. We also collected data on the training day that can be used for learning.\n\n\nRaw data are stored in the folder C:\\HYPACK 2024\\Projects.\n\n\nThis was done in training and may not be relevant to your project.\nIf you are copying data from somewhere else, you need to put it in this folder. Some tips to make this work are recorded here.",
     "crumbs": [
       "ADCP Operations",
-      "Bathymetry: Getting Started"
+      "Bathymetry: Data Processing"
     ]
   },
   {
-    "objectID": "adcp/bathymetry_gettingstarted.html#hypack-max",
-    "href": "adcp/bathymetry_gettingstarted.html#hypack-max",
-    "title": "Bathymetry: Getting Started",
+    "objectID": "adcp/bathymetry_data_processing.html#raw-data",
+    "href": "adcp/bathymetry_data_processing.html#raw-data",
+    "title": "Bathymetry: Data Processing",
     "section": "",
-    "text": "Bathymetry measurements with the ADCP require the HYPACK MAX software to collect data in the field and to process the data back in the lab. HYPACK MAX\nDocumentation for HYPACK MAX is found on the HYPACK_MAX sharepoint page on the HYPACK software website.\nWe have a single software license that must be shared. This license will work indefinitely, but software updates and technical support are subscription-based, and currently active to ~mid 2025.\n\n\nPut in a help desk ticket to DIT have have the software activated in your Software Center (type software center into the search bar, shown below). You may wish to check for updates since Sept 2024 before doing so on the HYPACK software website. Install all files onto your computer.\n\n\n\n\nWe have a single “soft license” for sharing, and it is important that staff are diligent in deactivating the license when not in use. The license deactivates automatically after 90 days. Access to the license (aka the Activation Key) is provided in software center when the HYPACK Max program is selected, and may also be obtained via internal documents on Sharepoint or in a Teams Chat.\nIf the license is in use, please first contact all known users to coordinate times for activation/deactivation. If you need help identifying known users, please contact the DIT help desk and request a list of staff with access to the software. Please do not share the license outside of Waterboards, or it may be hard to track down an activated license!\nTo activate the license, open up HYPACK License Manager, select Activate/Deactivate Soft License, allow the HYPACK Soft License Wizard to open, and click Activate your license. Select Activate Online (doing so offline may cause issues). Put in the Activation Key and click Activate.\n\nTo deactivate the license, open up HYPACK License Manager and select Activate/Deactivate Soft License.",
+    "text": "Raw data are stored in the folder C:\\HYPACK 2024\\Projects.\n\n\nThis was done in training and may not be relevant to your project.\nIf you are copying data from somewhere else, you need to put it in this folder. Some tips to make this work are recorded here.",
     "crumbs": [
       "ADCP Operations",
-      "Bathymetry: Getting Started"
+      "Bathymetry: Data Processing"
     ]
   },
   {
-    "objectID": "adcp/bathymetry_gettingstarted.html#connecting-to-the-m9-instrument",
-    "href": "adcp/bathymetry_gettingstarted.html#connecting-to-the-m9-instrument",
-    "title": "Bathymetry: Getting Started",
+    "objectID": "adcp/streamflow_data_processing.html",
+    "href": "adcp/streamflow_data_processing.html",
+    "title": "Streamflow: Data Processing",
+    "section": "",
+    "text": "This section describes how to acquire and process streamflow data collected with the Sontek M9. Data management and rating curve generation is the same as that done for streamflow measurements collected by other methods. Please refer to add section here.\n\n\nIn office data review\nWebinar with questions answered\n\n\nThe raw Sontek M9 files have the ending .riv and are collected and stored on the instrument itself. Data files that are transmitted via radio to a computer are replicates with an ending .rivr. Data processing should always use .riv files not .rivr files because the replicates are missing data lost in radio transmissions. The software allows some parameters to be changed post-field, and those changes are stored in .wsp files, so that the original raw files are never edited.\n\n\n\n\nThe software used for collecting data and doing the bulk of the data processing is Sontek RiverSurveyor Live!. . The USGS publishes free software to help with ADCP data processing. Two recommended softwares are QRev, which is used to compute discharge, and extrap (which might be embedded in QRev) to extrapolate measurements. USGS software requires data to be in Matlab format, which can be exported from the Sontek M9. (Future versions of the M9 may use newer software with these additional tools embedded.) Add details here if you are processing data.\n\n\n\nSontek has a video training series on collecting streamflow data with the ADCP.\nWaterboards held a training day on 9/11/2024 on the American River at the Jim Jones pedestrian bridge near Sunrise, about 3 miles downstream of the USGS gage at Fair Oaks. We collected data on the training day that can be used for learning and following along with the RiverSurveyor Live! software, which can be installed by following instructions on the Streamflow: Getting Started page. We recorded the pre-field training and the post-field data processing for reference.\nThe USGS also has technical tips on adcp data collection and processing:\n\nhttps://www.usgs.gov/hydroacoustics/moving-boat-measurements",
+    "crumbs": [
+      "ADCP Operations",
+      "Streamflow: Data Processing"
+    ]
+  },
+  {
+    "objectID": "adcp/streamflow_data_processing.html#checking-data-in-the-office",
+    "href": "adcp/streamflow_data_processing.html#checking-data-in-the-office",
+    "title": "Streamflow: Data Processing",
+    "section": "",
+    "text": "In office data review\nWebinar with questions answered\n\n\nThe raw Sontek M9 files have the ending .riv and are collected and stored on the instrument itself. Data files that are transmitted via radio to a computer are replicates with an ending .rivr. Data processing should always use .riv files not .rivr files because the replicates are missing data lost in radio transmissions. The software allows some parameters to be changed post-field, and those changes are stored in .wsp files, so that the original raw files are never edited.",
+    "crumbs": [
+      "ADCP Operations",
+      "Streamflow: Data Processing"
+    ]
+  },
+  {
+    "objectID": "adcp/streamflow_data_processing.html#software-programs",
+    "href": "adcp/streamflow_data_processing.html#software-programs",
+    "title": "Streamflow: Data Processing",
+    "section": "",
+    "text": "The software used for collecting data and doing the bulk of the data processing is Sontek RiverSurveyor Live!. . The USGS publishes free software to help with ADCP data processing. Two recommended softwares are QRev, which is used to compute discharge, and extrap (which might be embedded in QRev) to extrapolate measurements. USGS software requires data to be in Matlab format, which can be exported from the Sontek M9. (Future versions of the M9 may use newer software with these additional tools embedded.) Add details here if you are processing data.",
+    "crumbs": [
+      "ADCP Operations",
+      "Streamflow: Data Processing"
+    ]
+  },
+  {
+    "objectID": "adcp/streamflow_data_processing.html#training",
+    "href": "adcp/streamflow_data_processing.html#training",
+    "title": "Streamflow: Data Processing",
+    "section": "",
+    "text": "Sontek has a video training series on collecting streamflow data with the ADCP.\nWaterboards held a training day on 9/11/2024 on the American River at the Jim Jones pedestrian bridge near Sunrise, about 3 miles downstream of the USGS gage at Fair Oaks. We collected data on the training day that can be used for learning and following along with the RiverSurveyor Live! software, which can be installed by following instructions on the Streamflow: Getting Started page. We recorded the pre-field training and the post-field data processing for reference.\nThe USGS also has technical tips on adcp data collection and processing:\n\nhttps://www.usgs.gov/hydroacoustics/moving-boat-measurements",
+    "crumbs": [
+      "ADCP Operations",
+      "Streamflow: Data Processing"
+    ]
+  },
+  {
+    "objectID": "adcp/streamflow_gettingstarted.html",
+    "href": "adcp/streamflow_gettingstarted.html",
+    "title": "Streamflow: Getting Started",
+    "section": "",
+    "text": "This section describes how to get started using the ADCP, which is used in deep or large rivers, or in smaller rivers with high flows. The ADCP requires water depths of at least 1 ft (2 or more feet is better). For streamflow measurements in wadeable streams, please see the flow measurement section.\n\n\nDocumentation for RiverSurveyor Live! is found on the RiverSurveyor Live sharepoint page on the official software website. No license is needed for this software.\n\n\nPut in a help desk ticket to DIT have have the software activated in your Software Center (type software center into the search bar, shown below). You may wish to check for updates since Sept 2024 before doing so on the River Surveyor software websitee. Install all files onto your computer. Note that the software may not appear in your apps and you will have to locate it in C:\\Program Files (x86)\\Sontek\\RiverSurveyor Live. Right click and select “Pin to Start” so that it is easy to find in the future.\n\n\n\n\n\nconnect computer to the M9 river surveyor instrument to check function\n\n\n\npractice driving the rQPOD and collecting good data before going into the field at a project site.",
+    "crumbs": [
+      "ADCP Operations",
+      "Streamflow: Getting Started"
+    ]
+  },
+  {
+    "objectID": "adcp/streamflow_gettingstarted.html#riversurveyor-live-software",
+    "href": "adcp/streamflow_gettingstarted.html#riversurveyor-live-software",
+    "title": "Streamflow: Getting Started",
+    "section": "",
+    "text": "Documentation for RiverSurveyor Live! is found on the RiverSurveyor Live sharepoint page on the official software website. No license is needed for this software.\n\n\nPut in a help desk ticket to DIT have have the software activated in your Software Center (type software center into the search bar, shown below). You may wish to check for updates since Sept 2024 before doing so on the River Surveyor software websitee. Install all files onto your computer. Note that the software may not appear in your apps and you will have to locate it in C:\\Program Files (x86)\\Sontek\\RiverSurveyor Live. Right click and select “Pin to Start” so that it is easy to find in the future.",
+    "crumbs": [
+      "ADCP Operations",
+      "Streamflow: Getting Started"
+    ]
+  },
+  {
+    "objectID": "adcp/streamflow_gettingstarted.html#connecting-to-the-m9-instrument",
+    "href": "adcp/streamflow_gettingstarted.html#connecting-to-the-m9-instrument",
+    "title": "Streamflow: Getting Started",
     "section": "",
     "text": "connect computer to the M9 river surveyor instrument to check function",
     "crumbs": [
       "ADCP Operations",
-      "Bathymetry: Getting Started"
+      "Streamflow: Getting Started"
     ]
   },
   {
-    "objectID": "adcp/bathymetry_gettingstarted.html#practice-driving-the-rqpod",
-    "href": "adcp/bathymetry_gettingstarted.html#practice-driving-the-rqpod",
-    "title": "Bathymetry: Getting Started",
+    "objectID": "adcp/streamflow_gettingstarted.html#practice-driving-the-rqpod",
+    "href": "adcp/streamflow_gettingstarted.html#practice-driving-the-rqpod",
+    "title": "Streamflow: Getting Started",
     "section": "",
     "text": "practice driving the rQPOD and collecting good data before going into the field at a project site.",
     "crumbs": [
       "ADCP Operations",
-      "Bathymetry: Getting Started"
+      "Streamflow: Getting Started"
     ]
   },
   {
-    "objectID": "adcp/bathymetry_field_measurement.html",
-    "href": "adcp/bathymetry_field_measurement.html",
-    "title": "Bathymetry: Field Measurement",
+    "objectID": "adcp/streamflow_field_measurement.html",
+    "href": "adcp/streamflow_field_measurement.html",
+    "title": "Streamflow: Field Measurement",
     "section": "",
-    "text": "This section describes how to use the ADCP for bathymetry measurements in the field. The section describes data collection in a stationary body of water, not for streamflow measurements. add section on collecting bathymetry data in moving water?\nWaterboards held a training day on 9/10/2024 and recorded the pre-field bathymetry training.\n\n\n\ninstall software\ncheck equipment\n\n\n\n\n\n\n\n\n\n\n\nsoftware operation\nnote-taking",
+    "text": "This section describes field measurements and procedures for the ADCP, which is used in deep or large rivers, or in smaller rivers with high flows. The ADCP requires water depths of at least 1 ft (2 or more feet is better). For streamflow measurements in wadeable streams (not ADCP), please see the flow measurement section.\nStandard operating procedures, including (general) site selection, note-taking, safety, and data management, follows the same general principles for both ADCP measurements and measurements made by wading in the stream using a flowtracker or other similar instrument. Please refer to add section here.\nThis page deals with the specifics of collecting good streamflow measurements using the Sontek M9 using either a bridge or shore tether or driving the rQPOD motor.\nSontek has a video training series on collecting streamflow data with the ADCP. Waterboards held a training day on 9/11/2024 and recorded the pre-field training.\n\n\n\ninstall software\ncheck equipment\n\n\n\n\nPlease review the Xylem site selection guide (also on Xylem site) to familiarize yourself with concepts such as uniform flow, turbulence, and magnetic interference.\ntest1\n{{&lt; https://www.youtube.com/embed/lWcFOu3bmqU?si=xYSK8IdnWCzQi8P_  &gt;}}\ntest2\n\n\n\n\n\n\n\n\n\n\n\n\n\npreparing for measuring\nVideo on moving boat transect",
     "crumbs": [
       "ADCP Operations",
-      "Bathymetry: Field Measurement"
+      "Streamflow: Field Measurement"
     ]
   },
   {
-    "objectID": "adcp/bathymetry_field_measurement.html#pre-trip-planning",
-    "href": "adcp/bathymetry_field_measurement.html#pre-trip-planning",
-    "title": "Bathymetry: Field Measurement",
+    "objectID": "adcp/streamflow_field_measurement.html#pre-trip-planning",
+    "href": "adcp/streamflow_field_measurement.html#pre-trip-planning",
+    "title": "Streamflow: Field Measurement",
     "section": "",
     "text": "install software\ncheck equipment",
     "crumbs": [
       "ADCP Operations",
-      "Bathymetry: Field Measurement"
+      "Streamflow: Field Measurement"
     ]
   },
   {
-    "objectID": "adcp/bathymetry_field_measurement.html#data-collection",
-    "href": "adcp/bathymetry_field_measurement.html#data-collection",
-    "title": "Bathymetry: Field Measurement",
+    "objectID": "adcp/streamflow_field_measurement.html#site-selection",
+    "href": "adcp/streamflow_field_measurement.html#site-selection",
+    "title": "Streamflow: Field Measurement",
     "section": "",
-    "text": "software operation\nnote-taking",
+    "text": "Please review the Xylem site selection guide (also on Xylem site) to familiarize yourself with concepts such as uniform flow, turbulence, and magnetic interference.\ntest1\n{{&lt; https://www.youtube.com/embed/lWcFOu3bmqU?si=xYSK8IdnWCzQi8P_  &gt;}}\ntest2",
     "crumbs": [
       "ADCP Operations",
-      "Bathymetry: Field Measurement"
+      "Streamflow: Field Measurement"
     ]
   },
   {
-    "objectID": "adcp/equipment_checklist.html",
-    "href": "adcp/equipment_checklist.html",
-    "title": "Equipment CheckList",
+    "objectID": "adcp/streamflow_field_measurement.html#data-collection",
+    "href": "adcp/streamflow_field_measurement.html#data-collection",
+    "title": "Streamflow: Field Measurement",
     "section": "",
-    "text": "The ADCP equipment falls into four major buckets: the sensor, the GPS system, the platform, and the motor for the platform. There are many small pieces in the system and you are encouraged to put everything together and check operation before heading out into the field.\nThe complete setup with components is shown in the figure below.\n\n\n\nHere is a list of items that were purchased in 2024 when the equipment was brand new. The equipment must be reserved and checked out on the DWR Reserve Equipment page.\n\n\n\n\ncharge rQPOD batteries and rQPOD radio controller\nget 32 AA batteries and spares for M9\ngather equipment and turn it on to check that is it functioning\nreview the manuals and equipment list\n\n\n\n\nThe following equipment should be gathered and brought to the field when doing ADCP surveys:\n\ntrucks and all truck safety equipment\nSPOT beacon (input important numbers before leaving)\nPersonal safety equipment, including life jackets, orange safety vests, and good footwear.\n\n\n\nStreamflow measurements with the ADCP require equipment as listed below and the RiverSurveyor Live! software installed on a field computer. The system consists of a platform, a GPS system, and the instrument itself, a Sontek M9. The ADCP can either be controlled with an rQPOD remote-controlled motor, or tethered off a bridge or with ropes from either side.\n\nThe River Surveyor (Sontek M9) manuals can be found on the riversurveyor sharepoint and at the Sontek website.\n\nTorrent board, with\n\nfins and fin keys\ntow-strap plus 100 ft rope (for tethering)\n\nOPTIONAL rQPOD remote-controlled motor system (for untethered)\nRiver Survey M9 with xx-pin cable (to plug into RTK GPS)\nRTK GPS Base Station\n\nbase station with 16 AA batteries and tripod mount\ntripod\nGPS antenna, cables, rod, and tripod mount, with screws\ntelemetry antenna with cable(s)\n\nRTK GPS Rover\n\nrover station with 16 AA batteries\nGPS antenna, cables, rod, and board mount, with screws\ntelemetry antenna with cable(s)\n\n\n\n\n\nEverything on the streamflow adcp list plus the rQPOD (and all pieces) and HYPACK MAX software with software license.\n\nThe rQPOD is shown above, and consists of a motor with two thrusters and radio controller. Information about assembling and using rQPOD can be found on the rQPOD sharepoint and the manufacturers’s website. Batteries must be charged for the radio controller and motor! The rQPOD is kept in a large black case, which should contain:\n\nrQPOD remote controlled motor (in white box)\ntwo thrusters with cables and (red/green) skid guards\nmagnetic pen (to turn motor on)\nTORX drive and box of screw for motors, skid guard, and housing (assemble!) and fin key\n2 drone (Lipo) batteries and battery charger, in orange case\nRadiomaster controller\n\n\n\n\nThe following items are consumables associated with the ADCP. You may also need to order replacements for lost or broken parts, such as screws.\n\nAA batteries (32)\nKrytox GPL205 grease for the screws (if dried out)\n20 Amp glasses fuse 6.3 mm x 32 mm (250V)",
+    "text": "preparing for measuring\nVideo on moving boat transect",
     "crumbs": [
       "ADCP Operations",
-      "Equipment CheckList"
+      "Streamflow: Field Measurement"
     ]
   },
   {
-    "objectID": "adcp/equipment_checklist.html#inventory-and-gear-checkout",
-    "href": "adcp/equipment_checklist.html#inventory-and-gear-checkout",
-    "title": "Equipment CheckList",
+    "objectID": "gage/index.html",
+    "href": "gage/index.html",
+    "title": "Gage Installation and Maintenance",
     "section": "",
-    "text": "Here is a list of items that were purchased in 2024 when the equipment was brand new. The equipment must be reserved and checked out on the DWR Reserve Equipment page.",
+    "text": "Gage Installation and Maintenance",
     "crumbs": [
-      "ADCP Operations",
-      "Equipment CheckList"
+      "Gage Installation and Maintenance"
     ]
   },
   {
-    "objectID": "adcp/equipment_checklist.html#pre-trip-checklist",
-    "href": "adcp/equipment_checklist.html#pre-trip-checklist",
-    "title": "Equipment CheckList",
+    "objectID": "archive/inspiration.html",
+    "href": "archive/inspiration.html",
+    "title": "Inspiration",
     "section": "",
-    "text": "charge rQPOD batteries and rQPOD radio controller\nget 32 AA batteries and spares for M9\ngather equipment and turn it on to check that is it functioning\nreview the manuals and equipment list",
-    "crumbs": [
-      "ADCP Operations",
-      "Equipment CheckList"
-    ]
+    "text": "Inspiration\nThe impetus for developing this manual began in 2024 when some of us participated in the Water Boards Openscapes Champions Cohort.\nThis Manual was started with help from the folks behind the, SWAMP Manual, who generously shared their time and code to get us started!\nWe are also inspired by the following sources:\n\nOpenscapes and their Approach Guide\nAdrift Field Methods – ADRIFT Field Methods\nNOAA Fisheries (NMFS) Open Science Resource Book\nThe Fay Lab Manual"
   },
   {
-    "objectID": "adcp/equipment_checklist.html#gear-list",
-    "href": "adcp/equipment_checklist.html#gear-list",
-    "title": "Equipment CheckList",
+    "objectID": "archive/contacts.html",
+    "href": "archive/contacts.html",
+    "title": "Stream Gaging Team",
     "section": "",
-    "text": "The following equipment should be gathered and brought to the field when doing ADCP surveys:\n\ntrucks and all truck safety equipment\nSPOT beacon (input important numbers before leaving)\nPersonal safety equipment, including life jackets, orange safety vests, and good footwear.\n\n\n\nStreamflow measurements with the ADCP require equipment as listed below and the RiverSurveyor Live! software installed on a field computer. The system consists of a platform, a GPS system, and the instrument itself, a Sontek M9. The ADCP can either be controlled with an rQPOD remote-controlled motor, or tethered off a bridge or with ropes from either side.\n\nThe River Surveyor (Sontek M9) manuals can be found on the riversurveyor sharepoint and at the Sontek website.\n\nTorrent board, with\n\nfins and fin keys\ntow-strap plus 100 ft rope (for tethering)\n\nOPTIONAL rQPOD remote-controlled motor system (for untethered)\nRiver Survey M9 with xx-pin cable (to plug into RTK GPS)\nRTK GPS Base Station\n\nbase station with 16 AA batteries and tripod mount\ntripod\nGPS antenna, cables, rod, and tripod mount, with screws\ntelemetry antenna with cable(s)\n\nRTK GPS Rover\n\nrover station with 16 AA batteries\nGPS antenna, cables, rod, and board mount, with screws\ntelemetry antenna with cable(s)\n\n\n\n\n\nEverything on the streamflow adcp list plus the rQPOD (and all pieces) and HYPACK MAX software with software license.\n\nThe rQPOD is shown above, and consists of a motor with two thrusters and radio controller. Information about assembling and using rQPOD can be found on the rQPOD sharepoint and the manufacturers’s website. Batteries must be charged for the radio controller and motor! The rQPOD is kept in a large black case, which should contain:\n\nrQPOD remote controlled motor (in white box)\ntwo thrusters with cables and (red/green) skid guards\nmagnetic pen (to turn motor on)\nTORX drive and box of screw for motors, skid guard, and housing (assemble!) and fin key\n2 drone (Lipo) batteries and battery charger, in orange case\nRadiomaster controller\n\n\n\n\nThe following items are consumables associated with the ADCP. You may also need to order replacements for lost or broken parts, such as screws.\n\nAA batteries (32)\nKrytox GPL205 grease for the screws (if dried out)\n20 Amp glasses fuse 6.3 mm x 32 mm (250V)",
-    "crumbs": [
-      "ADCP Operations",
-      "Equipment CheckList"
-    ]
-  },
-  {
-    "objectID": "siteselectionflow.html",
-    "href": "siteselectionflow.html",
-    "title": "selecting a good flow measurement site",
-    "section": "",
-    "text": "There are a few factors to consider when choosing a site to take a flow measurement.\n(Insert an image here)\n\n\nRiver Channel: Look for an area where the channel is straight and uniform, supporting more laminar flow. Avoid sections where there are eddy’s or areas of turbulence.\nThis may be upstream of a “control,” or a physical feature downstream that controls the flow in the channel segment above it. Examples are morphological units that constrict flow, such as stable riffles or bedrock outcroppings.\nChannel banks should be stable and not easily susceptible to scouring, deposition, or migration.\n(Upload picture)\nAccess: This may end up being a more limiting factor, but the site chosen will need to be somewhere that can be accessed for data collection or for regular maintenance if a gauge is installed.\n\n\n\nCheck for vegetation and algae growth, or any obstructions such as boulders, branches, or log jams. These can create sections of scouring and deposition, and create turbulence.\nBe aware of where tributaries connect either upstream or downstream of the chosen flow measurement site."
-  },
-  {
-    "objectID": "siteselectionflow.html#features",
-    "href": "siteselectionflow.html#features",
-    "title": "selecting a good flow measurement site",
-    "section": "",
-    "text": "River Channel: Look for an area where the channel is straight and uniform, supporting more laminar flow. Avoid sections where there are eddy’s or areas of turbulence.\nThis may be upstream of a “control,” or a physical feature downstream that controls the flow in the channel segment above it. Examples are morphological units that constrict flow, such as stable riffles or bedrock outcroppings.\nChannel banks should be stable and not easily susceptible to scouring, deposition, or migration.\n(Upload picture)\nAccess: This may end up being a more limiting factor, but the site chosen will need to be somewhere that can be accessed for data collection or for regular maintenance if a gauge is installed."
-  },
-  {
-    "objectID": "siteselectionflow.html#other-considerations",
-    "href": "siteselectionflow.html#other-considerations",
-    "title": "selecting a good flow measurement site",
-    "section": "",
-    "text": "Check for vegetation and algae growth, or any obstructions such as boulders, branches, or log jams. These can create sections of scouring and deposition, and create turbulence.\nBe aware of where tributaries connect either upstream or downstream of the chosen flow measurement site."
-  },
-  {
-    "objectID": "gage/siteselection.html",
-    "href": "gage/siteselection.html",
-    "title": "Selecting a good gage site",
-    "section": "",
-    "text": "Selecting a good gage site",
-    "crumbs": [
-      "Gage Installation and Maintenance",
-      "Selecting a good gage site"
-    ]
-  },
-  {
-    "objectID": "archive/contacts_example.html",
-    "href": "archive/contacts_example.html",
-    "title": "Meet the SWAMP Team!",
-    "section": "",
-    "text": "The SWAMP Team is composed of multiple team members at the State Water Board within the SWAMP Unit, SWAMP Information Management and Quality Assurance Center (SWAMP IQ), and others in the Office of Information Management and Analysis (OIMA).\ntest\n\n\n\n\n\nName\nTitle\nProgram Area(s)\n\n\n\n\nAli Dunn\nUnit Supervisor\nSWAMP Unit\n\n\nElena Suglia\nCalifornia Sea Grant Fellow\nData science, data visualization (R)\nScience communication\n\n\nMichelle Tang\nEnvironmental Scientist\nSWAMP Data Dashboard\nData science, data visualization and programming (JavaScript, Python)\n\n\nShuka Rastegarpour\nEnvironmental Scientist\nSWAMP Statewide Bioassessment Program Coordinator\n\n\nVacant\n[Anna Holder acting until filled]\nEnvironmental Scientist\nSWAMP Statewide Bioaccumulation Program Coordinator & Safe to Eat Workgroup Co-Chair\n\n\n\n\n\n\n\n\n\nName\nTitle\nProgram Area(s)\n\n\n\n\nTessa Fojut\nUnit Supervisor\nSWAMP QA Officer\nSWAMP IQ Unit\n\n\nCandace Levesque\nEnvironmental Scientist\nBioassessment (algae) Data Manager\n\n\nCui (Scarlett) Li-Gherman\nScientific Aid\n\n\n\nDelany Broome\nEnvironmental Scientist\nChemistry Data Manager\n\n\nJennifer Salisbury\nEnvironmental Scientist\nTissue Data Manager\nCEDEN Vocabulary Manager\n\n\nKimberly Pham\nEnvironmental Scientist\nChemistry Data Manager\n\n\nLindsey Metz\nEnvironmental Scientist\nMicrobiology Data Manager\nSWAMP eDNA Metabarcoding Monitoring and Analysis Project (SeMMAP)\n\n\nToni Marshall\nEnvironmental Scientist\nBioassessment (benthic macroinvertebrates) Data Manager\n\n\nTony Gill\nEnvironmental Scientist\nToxicity Data Manager\nSWAMP Statewide Toxicology and Contaminants Program Coordinator\n\n\n\nFor more information, visit the SWAMP IQ Wiki\n\n\n\n\n\n\nName\nTitle\nProgram Area(s)\n\n\n\n\nGreg Gearheart\nDeputy Director\nOIMA\n\n\nAndrew Hamilton\nAssistant Deputy Director\nOIMA\n\n\nAnna Holder\nSenior Specialist\nOpen Data Science, Equity & Tribal Coordinator\nOpenscapes\nTribal Coordinator\nRacial Equity Trainer\n\n\nCarly Nilson\nSenior Specialist\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator, OIMA Procurement Lead\n\n\nChad Fearing\nAssociate Governmental Program Analyst\nContracts\n\n\nDevan Burke\nAssociate Governmental Program Analyst\nContracts\nOpenscapes\nRacial equity data projects and communication\n\n\nErick Burres\nCitizen Science Coordinator\nSWAMP Clean Water Team\n\n\nKevin Song\nStanford Fellow\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nMarisa VanDyke\nSenior Specialist\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator\n\n\nNick Martorano\nExecutive Director\nCalifornia Water Quality Monitoring Council\n\n\n\n\n\n\n\n*Fellows who were then hired by the Water Boards\n\n\nName\nTitle\nYear\nPrimary Project Area(s) & Products\n\n\n\n\nLeah Benton\nCivicSpark Fellow\n2023-2024\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nSydney Rilum\nCalifornia Sea Grant Fellow\n2023\nSWAMP Data Dashboard - Bioaccumulation Data\n\n\nJosh Davenport\nStanford Fellow\n2023\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nBadhia Yunes Katz\nCivicSpark Fellow\n2022-2023\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nLindsey Metz*\nCalifornia Sea Grant Fellow\n2022\n\n\n\nGabriella Moran\nCivicSpark Fellow\n2021-2022\nTribal Data Initiatives\n\n\nBrook Thompson\nStanford Fellow\n2021\nTribal Data Initiatives\n\n\nCorey Clatterbuck*\nCalifornia Sea Grant Fellow\n2021\nHealthy Watersheds\nTrash\nTrash Data Dive 2021\n\n\nRoss Cooper\nCalifornia Sea Grant Fellow\n2020\nTrash Datathon\nBioaccumulation\nCASG Article: The Predicament of Subsistence Fishing and Seafood Contaminants\n\n\nMaraid Jimenez\nCivicSpark Fellow\n2020-2021\nTribal Data Initiatives\n\n\nAnna Holder*\nCalifornia Sea Grant Fellow\n2019\nHealthy Watersheds\nOpen Data & Science\nTrash\nCA Water Data Science Symposium\nCollege of Water Informatics\nCASG Article: Lean into Your Professional Swerves\n\n\nNicole Hack\nCalifornia Sea Grant Fellow\n2018\nTrash\nTrash Data Dive\nCASG Article: Being a Datahead\n\n\nAndrew Hill*\nCalifornia Sea Grant Fellow\n2017\nTrash\nTrash Tracker\nCASG Article: Tracking Trash"
-  },
-  {
-    "objectID": "archive/contacts_example.html#swamp-unit",
-    "href": "archive/contacts_example.html#swamp-unit",
-    "title": "Meet the SWAMP Team!",
-    "section": "",
-    "text": "Name\nTitle\nProgram Area(s)\n\n\n\n\nAli Dunn\nUnit Supervisor\nSWAMP Unit\n\n\nElena Suglia\nCalifornia Sea Grant Fellow\nData science, data visualization (R)\nScience communication\n\n\nMichelle Tang\nEnvironmental Scientist\nSWAMP Data Dashboard\nData science, data visualization and programming (JavaScript, Python)\n\n\nShuka Rastegarpour\nEnvironmental Scientist\nSWAMP Statewide Bioassessment Program Coordinator\n\n\nVacant\n[Anna Holder acting until filled]\nEnvironmental Scientist\nSWAMP Statewide Bioaccumulation Program Coordinator & Safe to Eat Workgroup Co-Chair"
-  },
-  {
-    "objectID": "archive/contacts_example.html#swamp-iq",
-    "href": "archive/contacts_example.html#swamp-iq",
-    "title": "Meet the SWAMP Team!",
-    "section": "",
-    "text": "Name\nTitle\nProgram Area(s)\n\n\n\n\nTessa Fojut\nUnit Supervisor\nSWAMP QA Officer\nSWAMP IQ Unit\n\n\nCandace Levesque\nEnvironmental Scientist\nBioassessment (algae) Data Manager\n\n\nCui (Scarlett) Li-Gherman\nScientific Aid\n\n\n\nDelany Broome\nEnvironmental Scientist\nChemistry Data Manager\n\n\nJennifer Salisbury\nEnvironmental Scientist\nTissue Data Manager\nCEDEN Vocabulary Manager\n\n\nKimberly Pham\nEnvironmental Scientist\nChemistry Data Manager\n\n\nLindsey Metz\nEnvironmental Scientist\nMicrobiology Data Manager\nSWAMP eDNA Metabarcoding Monitoring and Analysis Project (SeMMAP)\n\n\nToni Marshall\nEnvironmental Scientist\nBioassessment (benthic macroinvertebrates) Data Manager\n\n\nTony Gill\nEnvironmental Scientist\nToxicity Data Manager\nSWAMP Statewide Toxicology and Contaminants Program Coordinator\n\n\n\nFor more information, visit the SWAMP IQ Wiki"
-  },
-  {
-    "objectID": "archive/contacts_example.html#oima",
-    "href": "archive/contacts_example.html#oima",
-    "title": "Meet the SWAMP Team!",
-    "section": "",
-    "text": "Name\nTitle\nProgram Area(s)\n\n\n\n\nGreg Gearheart\nDeputy Director\nOIMA\n\n\nAndrew Hamilton\nAssistant Deputy Director\nOIMA\n\n\nAnna Holder\nSenior Specialist\nOpen Data Science, Equity & Tribal Coordinator\nOpenscapes\nTribal Coordinator\nRacial Equity Trainer\n\n\nCarly Nilson\nSenior Specialist\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator, OIMA Procurement Lead\n\n\nChad Fearing\nAssociate Governmental Program Analyst\nContracts\n\n\nDevan Burke\nAssociate Governmental Program Analyst\nContracts\nOpenscapes\nRacial equity data projects and communication\n\n\nErick Burres\nCitizen Science Coordinator\nSWAMP Clean Water Team\n\n\nKevin Song\nStanford Fellow\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nMarisa VanDyke\nSenior Specialist\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator\n\n\nNick Martorano\nExecutive Director\nCalifornia Water Quality Monitoring Council"
-  },
-  {
-    "objectID": "archive/contacts_example.html#former-fellows-interns",
-    "href": "archive/contacts_example.html#former-fellows-interns",
-    "title": "Meet the SWAMP Team!",
-    "section": "",
-    "text": "*Fellows who were then hired by the Water Boards\n\n\nName\nTitle\nYear\nPrimary Project Area(s) & Products\n\n\n\n\nLeah Benton\nCivicSpark Fellow\n2023-2024\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nSydney Rilum\nCalifornia Sea Grant Fellow\n2023\nSWAMP Data Dashboard - Bioaccumulation Data\n\n\nJosh Davenport\nStanford Fellow\n2023\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nBadhia Yunes Katz\nCivicSpark Fellow\n2022-2023\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nLindsey Metz*\nCalifornia Sea Grant Fellow\n2022\n\n\n\nGabriella Moran\nCivicSpark Fellow\n2021-2022\nTribal Data Initiatives\n\n\nBrook Thompson\nStanford Fellow\n2021\nTribal Data Initiatives\n\n\nCorey Clatterbuck*\nCalifornia Sea Grant Fellow\n2021\nHealthy Watersheds\nTrash\nTrash Data Dive 2021\n\n\nRoss Cooper\nCalifornia Sea Grant Fellow\n2020\nTrash Datathon\nBioaccumulation\nCASG Article: The Predicament of Subsistence Fishing and Seafood Contaminants\n\n\nMaraid Jimenez\nCivicSpark Fellow\n2020-2021\nTribal Data Initiatives\n\n\nAnna Holder*\nCalifornia Sea Grant Fellow\n2019\nHealthy Watersheds\nOpen Data & Science\nTrash\nCA Water Data Science Symposium\nCollege of Water Informatics\nCASG Article: Lean into Your Professional Swerves\n\n\nNicole Hack\nCalifornia Sea Grant Fellow\n2018\nTrash\nTrash Data Dive\nCASG Article: Being a Datahead\n\n\nAndrew Hill*\nCalifornia Sea Grant Fellow\n2017\nTrash\nTrash Tracker\nCASG Article: Tracking Trash"
-  },
-  {
-    "objectID": "archive/admin/index.html",
-    "href": "archive/admin/index.html",
-    "title": "Administrative goodies",
-    "section": "",
-    "text": "Administrative goodies\nThis section contains resources to make administrative tasks a bit more straightforward."
-  },
-  {
-    "objectID": "datamgmt/index.html",
-    "href": "datamgmt/index.html",
-    "title": "Data Management",
-    "section": "",
-    "text": "Data Management",
-    "crumbs": [
-      "Data Handling and Documentation"
-    ]
-  },
-  {
-    "objectID": "about/howitworks.html",
-    "href": "about/howitworks.html",
-    "title": "Stream Gaging Basics",
-    "section": "",
-    "text": "Stream Gaging Basics",
-    "crumbs": [
-      "Stream Gaging Basics",
-      "Stream Gaging Basics"
-    ]
-  },
-  {
-    "objectID": "contribute.html",
-    "href": "contribute.html",
-    "title": "Contributing",
-    "section": "",
-    "text": "We are seeking contributors to this manual. Please contact Val Zimmer for more information.\n\n\n\nWe develop the content using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\nNote that there are other potential ways to contribute and if you are already familiar with Github, Quarto, and Markdown, you are welcome to use those methods. Some notes on other methods are listed below:\n\nThe advantage to using R and RStudio is the ability to toggle between Source and Visual representation of the page, which means that editing the webpage is no more difficult than editing a word document.\nThe advantage of VsCode is seamless integration with Github.\n\n\n\nTo contribute, you must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nYou will need to first create your free personal account GitHub account using your waterboards email. You need to enable MFA and request access to the Waterboard Github organization. A site administrator will invite you to join (please accept the invitation) and then we will invite you to join the team working on this website (please accept that one too).\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.\nInstall Github Desktop (optional)\nGithub desktop is a GUI that makes using Git easier for beginners. While it is not required, this is easier to learn than other methods. You will need to send a request to the DIT HelpDesk so they can install this free software.\n\n\n\n\nTBD",
-    "crumbs": [
-      "Contributing"
-    ]
-  },
-  {
-    "objectID": "contribute.html#who-can-contribute",
-    "href": "contribute.html#who-can-contribute",
-    "title": "Contributing",
-    "section": "",
-    "text": "We are seeking contributors to this manual. Please contact Val Zimmer for more information.",
-    "crumbs": [
-      "Contributing"
-    ]
-  },
-  {
-    "objectID": "contribute.html#how-we-contribute",
-    "href": "contribute.html#how-we-contribute",
-    "title": "Contributing",
-    "section": "",
-    "text": "We develop the content using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\nNote that there are other potential ways to contribute and if you are already familiar with Github, Quarto, and Markdown, you are welcome to use those methods. Some notes on other methods are listed below:\n\nThe advantage to using R and RStudio is the ability to toggle between Source and Visual representation of the page, which means that editing the webpage is no more difficult than editing a word document.\nThe advantage of VsCode is seamless integration with Github.\n\n\n\nTo contribute, you must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nYou will need to first create your free personal account GitHub account using your waterboards email. You need to enable MFA and request access to the Waterboard Github organization. A site administrator will invite you to join (please accept the invitation) and then we will invite you to join the team working on this website (please accept that one too).\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.\nInstall Github Desktop (optional)\nGithub desktop is a GUI that makes using Git easier for beginners. While it is not required, this is easier to learn than other methods. You will need to send a request to the DIT HelpDesk so they can install this free software.\n\n\n\n\nTBD",
-    "crumbs": [
-      "Contributing"
-    ]
-  },
-  {
-    "objectID": "equipment.html",
-    "href": "equipment.html",
-    "title": "Equipment Checklist",
-    "section": "",
-    "text": "Equipment Checklist",
-    "crumbs": [
-      "Equipment"
-    ]
-  },
-  {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "Stream Gaging Basics",
-    "section": "",
-    "text": "Stream Gaging Basics",
-    "crumbs": [
-      "Stream Gaging Basics"
-    ]
-  },
-  {
-    "objectID": "datamgmt/datatostore.html",
-    "href": "datamgmt/datatostore.html",
-    "title": "Data to Store",
-    "section": "",
-    "text": "Data to Store",
-    "crumbs": [
-      "Data Handling and Documentation",
-      "Data to Store"
-    ]
+    "text": "Stream gaging and bathymetry measurements are currently being done by a variety of units for different projects, mostly within the Division of Water Rights. Division equipment is internally on Sharepoint.\n\n\n\n\n\n\n\n\nName\nProject(s)\nExpertise\n\n\n\n\nVal Zimmer\nClear Lake Hitch\nFlow measurement, Rating curve development, equipment, data management"
   },
   {
     "objectID": "travel.html",
@@ -437,181 +275,343 @@
     ]
   },
   {
-    "objectID": "archive/contacts.html",
-    "href": "archive/contacts.html",
-    "title": "Stream Gaging Team",
+    "objectID": "datamgmt/datatostore.html",
+    "href": "datamgmt/datatostore.html",
+    "title": "Data to Store",
     "section": "",
-    "text": "Stream gaging and bathymetry measurements are currently being done by a variety of units for different projects, mostly within the Division of Water Rights. Division equipment is internally on Sharepoint.\n\n\n\n\n\n\n\n\nName\nProject(s)\nExpertise\n\n\n\n\nVal Zimmer\nClear Lake Hitch\nFlow measurement, Rating curve development, equipment, data management"
-  },
-  {
-    "objectID": "archive/inspiration.html",
-    "href": "archive/inspiration.html",
-    "title": "Inspiration",
-    "section": "",
-    "text": "Inspiration\nThe impetus for developing this manual began in 2024 when some of us participated in the Water Boards Openscapes Champions Cohort.\nThis Manual was started with help from the folks behind the, SWAMP Manual, who generously shared their time and code to get us started!\nWe are also inspired by the following sources:\n\nOpenscapes and their Approach Guide\nAdrift Field Methods – ADRIFT Field Methods\nNOAA Fisheries (NMFS) Open Science Resource Book\nThe Fay Lab Manual"
-  },
-  {
-    "objectID": "gage/index.html",
-    "href": "gage/index.html",
-    "title": "Gage Installation and Maintenance",
-    "section": "",
-    "text": "Gage Installation and Maintenance",
+    "text": "Data to Store",
     "crumbs": [
-      "Gage Installation and Maintenance"
+      "Data Handling and Documentation",
+      "Data to Store"
     ]
   },
   {
-    "objectID": "adcp/streamflow_field_measurement.html",
-    "href": "adcp/streamflow_field_measurement.html",
-    "title": "Streamflow: Field Measurement",
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "Stream Gaging Basics",
     "section": "",
-    "text": "This section describes field measurements and procedures for the ADCP, which is used in deep or large rivers, or in smaller rivers with high flows. The ADCP requires water depths of at least 1 ft (2 or more feet is better). For streamflow measurements in wadeable streams (not ADCP), please see the flow measurement section.\nStandard operating procedures, including (general) site selection, note-taking, safety, and data management, follows the same general principles for both ADCP measurements and measurements made by wading in the stream using a flowtracker or other similar instrument. Please refer to add section here.\nThis page deals with the specifics of collecting good streamflow measurements using the Sontek M9 using either a bridge or shore tether or driving the rQPOD motor.\nSontek has a video training series on collecting streamflow data with the ADCP. Waterboards held a training day on 9/11/2024 and recorded the pre-field training.\n\n\n\ninstall software\ncheck equipment\n\n\n\n\nPlease review the Xylem site selection guide (also on Xylem site) to familiarize yourself with concepts such as uniform flow, turbulence, and magnetic interference.\ntest1\n{{&lt; https://www.youtube.com/embed/lWcFOu3bmqU?si=xYSK8IdnWCzQi8P_  &gt;}}\ntest2\n\n\n\n\n\n\n\n\n\n\n\n\n\npreparing for measuring\nVideo on moving boat transect",
+    "text": "Stream Gaging Basics",
+    "crumbs": [
+      "Stream Gaging Basics"
+    ]
+  },
+  {
+    "objectID": "equipment.html",
+    "href": "equipment.html",
+    "title": "Equipment Checklist",
+    "section": "",
+    "text": "Equipment Checklist",
+    "crumbs": [
+      "Equipment"
+    ]
+  },
+  {
+    "objectID": "contribute.html",
+    "href": "contribute.html",
+    "title": "Contributing",
+    "section": "",
+    "text": "We are seeking contributors to this manual. Please contact Val Zimmer for more information.\n\n\n\nWe develop the content using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\nNote that there are other potential ways to contribute and if you are already familiar with Github, Quarto, and Markdown, you are welcome to use those methods. Some notes on other methods are listed below:\n\nThe advantage to using R and RStudio is the ability to toggle between Source and Visual representation of the page, which means that editing the webpage is no more difficult than editing a word document.\nThe advantage of VsCode is seamless integration with Github.\n\n\n\nTo contribute, you must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nYou will need to first create your free personal account GitHub account using your waterboards email. You need to enable MFA and request access to the Waterboard Github organization. A site administrator will invite you to join (please accept the invitation) and then we will invite you to join the team working on this website (please accept that one too).\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.\nInstall Github Desktop (optional)\nGithub desktop is a GUI that makes using Git easier for beginners. While it is not required, this is easier to learn than other methods. You will need to send a request to the DIT HelpDesk so they can install this free software.\n\n\n\n\nTBD",
+    "crumbs": [
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contribute.html#who-can-contribute",
+    "href": "contribute.html#who-can-contribute",
+    "title": "Contributing",
+    "section": "",
+    "text": "We are seeking contributors to this manual. Please contact Val Zimmer for more information.",
+    "crumbs": [
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "contribute.html#how-we-contribute",
+    "href": "contribute.html#how-we-contribute",
+    "title": "Contributing",
+    "section": "",
+    "text": "We develop the content using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\nNote that there are other potential ways to contribute and if you are already familiar with Github, Quarto, and Markdown, you are welcome to use those methods. Some notes on other methods are listed below:\n\nThe advantage to using R and RStudio is the ability to toggle between Source and Visual representation of the page, which means that editing the webpage is no more difficult than editing a word document.\nThe advantage of VsCode is seamless integration with Github.\n\n\n\nTo contribute, you must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nYou will need to first create your free personal account GitHub account using your waterboards email. You need to enable MFA and request access to the Waterboard Github organization. A site administrator will invite you to join (please accept the invitation) and then we will invite you to join the team working on this website (please accept that one too).\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.\nInstall Github Desktop (optional)\nGithub desktop is a GUI that makes using Git easier for beginners. While it is not required, this is easier to learn than other methods. You will need to send a request to the DIT HelpDesk so they can install this free software.\n\n\n\n\nTBD",
+    "crumbs": [
+      "Contributing"
+    ]
+  },
+  {
+    "objectID": "about/howitworks.html",
+    "href": "about/howitworks.html",
+    "title": "Stream Gaging Basics",
+    "section": "",
+    "text": "Stream Gaging Basics",
+    "crumbs": [
+      "Stream Gaging Basics",
+      "Stream Gaging Basics"
+    ]
+  },
+  {
+    "objectID": "datamgmt/index.html",
+    "href": "datamgmt/index.html",
+    "title": "Data Management",
+    "section": "",
+    "text": "Data Management",
+    "crumbs": [
+      "Data Handling and Documentation"
+    ]
+  },
+  {
+    "objectID": "archive/admin/index.html",
+    "href": "archive/admin/index.html",
+    "title": "Administrative goodies",
+    "section": "",
+    "text": "Administrative goodies\nThis section contains resources to make administrative tasks a bit more straightforward."
+  },
+  {
+    "objectID": "archive/contacts_example.html",
+    "href": "archive/contacts_example.html",
+    "title": "Meet the SWAMP Team!",
+    "section": "",
+    "text": "The SWAMP Team is composed of multiple team members at the State Water Board within the SWAMP Unit, SWAMP Information Management and Quality Assurance Center (SWAMP IQ), and others in the Office of Information Management and Analysis (OIMA).\ntest\n\n\n\n\n\nName\nTitle\nProgram Area(s)\n\n\n\n\nAli Dunn\nUnit Supervisor\nSWAMP Unit\n\n\nElena Suglia\nCalifornia Sea Grant Fellow\nData science, data visualization (R)\nScience communication\n\n\nMichelle Tang\nEnvironmental Scientist\nSWAMP Data Dashboard\nData science, data visualization and programming (JavaScript, Python)\n\n\nShuka Rastegarpour\nEnvironmental Scientist\nSWAMP Statewide Bioassessment Program Coordinator\n\n\nVacant\n[Anna Holder acting until filled]\nEnvironmental Scientist\nSWAMP Statewide Bioaccumulation Program Coordinator & Safe to Eat Workgroup Co-Chair\n\n\n\n\n\n\n\n\n\nName\nTitle\nProgram Area(s)\n\n\n\n\nTessa Fojut\nUnit Supervisor\nSWAMP QA Officer\nSWAMP IQ Unit\n\n\nCandace Levesque\nEnvironmental Scientist\nBioassessment (algae) Data Manager\n\n\nCui (Scarlett) Li-Gherman\nScientific Aid\n\n\n\nDelany Broome\nEnvironmental Scientist\nChemistry Data Manager\n\n\nJennifer Salisbury\nEnvironmental Scientist\nTissue Data Manager\nCEDEN Vocabulary Manager\n\n\nKimberly Pham\nEnvironmental Scientist\nChemistry Data Manager\n\n\nLindsey Metz\nEnvironmental Scientist\nMicrobiology Data Manager\nSWAMP eDNA Metabarcoding Monitoring and Analysis Project (SeMMAP)\n\n\nToni Marshall\nEnvironmental Scientist\nBioassessment (benthic macroinvertebrates) Data Manager\n\n\nTony Gill\nEnvironmental Scientist\nToxicity Data Manager\nSWAMP Statewide Toxicology and Contaminants Program Coordinator\n\n\n\nFor more information, visit the SWAMP IQ Wiki\n\n\n\n\n\n\nName\nTitle\nProgram Area(s)\n\n\n\n\nGreg Gearheart\nDeputy Director\nOIMA\n\n\nAndrew Hamilton\nAssistant Deputy Director\nOIMA\n\n\nAnna Holder\nSenior Specialist\nOpen Data Science, Equity & Tribal Coordinator\nOpenscapes\nTribal Coordinator\nRacial Equity Trainer\n\n\nCarly Nilson\nSenior Specialist\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator, OIMA Procurement Lead\n\n\nChad Fearing\nAssociate Governmental Program Analyst\nContracts\n\n\nDevan Burke\nAssociate Governmental Program Analyst\nContracts\nOpenscapes\nRacial equity data projects and communication\n\n\nErick Burres\nCitizen Science Coordinator\nSWAMP Clean Water Team\n\n\nKevin Song\nStanford Fellow\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nMarisa VanDyke\nSenior Specialist\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator\n\n\nNick Martorano\nExecutive Director\nCalifornia Water Quality Monitoring Council\n\n\n\n\n\n\n\n*Fellows who were then hired by the Water Boards\n\n\nName\nTitle\nYear\nPrimary Project Area(s) & Products\n\n\n\n\nLeah Benton\nCivicSpark Fellow\n2023-2024\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nSydney Rilum\nCalifornia Sea Grant Fellow\n2023\nSWAMP Data Dashboard - Bioaccumulation Data\n\n\nJosh Davenport\nStanford Fellow\n2023\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nBadhia Yunes Katz\nCivicSpark Fellow\n2022-2023\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nLindsey Metz*\nCalifornia Sea Grant Fellow\n2022\n\n\n\nGabriella Moran\nCivicSpark Fellow\n2021-2022\nTribal Data Initiatives\n\n\nBrook Thompson\nStanford Fellow\n2021\nTribal Data Initiatives\n\n\nCorey Clatterbuck*\nCalifornia Sea Grant Fellow\n2021\nHealthy Watersheds\nTrash\nTrash Data Dive 2021\n\n\nRoss Cooper\nCalifornia Sea Grant Fellow\n2020\nTrash Datathon\nBioaccumulation\nCASG Article: The Predicament of Subsistence Fishing and Seafood Contaminants\n\n\nMaraid Jimenez\nCivicSpark Fellow\n2020-2021\nTribal Data Initiatives\n\n\nAnna Holder*\nCalifornia Sea Grant Fellow\n2019\nHealthy Watersheds\nOpen Data & Science\nTrash\nCA Water Data Science Symposium\nCollege of Water Informatics\nCASG Article: Lean into Your Professional Swerves\n\n\nNicole Hack\nCalifornia Sea Grant Fellow\n2018\nTrash\nTrash Data Dive\nCASG Article: Being a Datahead\n\n\nAndrew Hill*\nCalifornia Sea Grant Fellow\n2017\nTrash\nTrash Tracker\nCASG Article: Tracking Trash"
+  },
+  {
+    "objectID": "archive/contacts_example.html#swamp-unit",
+    "href": "archive/contacts_example.html#swamp-unit",
+    "title": "Meet the SWAMP Team!",
+    "section": "",
+    "text": "Name\nTitle\nProgram Area(s)\n\n\n\n\nAli Dunn\nUnit Supervisor\nSWAMP Unit\n\n\nElena Suglia\nCalifornia Sea Grant Fellow\nData science, data visualization (R)\nScience communication\n\n\nMichelle Tang\nEnvironmental Scientist\nSWAMP Data Dashboard\nData science, data visualization and programming (JavaScript, Python)\n\n\nShuka Rastegarpour\nEnvironmental Scientist\nSWAMP Statewide Bioassessment Program Coordinator\n\n\nVacant\n[Anna Holder acting until filled]\nEnvironmental Scientist\nSWAMP Statewide Bioaccumulation Program Coordinator & Safe to Eat Workgroup Co-Chair"
+  },
+  {
+    "objectID": "archive/contacts_example.html#swamp-iq",
+    "href": "archive/contacts_example.html#swamp-iq",
+    "title": "Meet the SWAMP Team!",
+    "section": "",
+    "text": "Name\nTitle\nProgram Area(s)\n\n\n\n\nTessa Fojut\nUnit Supervisor\nSWAMP QA Officer\nSWAMP IQ Unit\n\n\nCandace Levesque\nEnvironmental Scientist\nBioassessment (algae) Data Manager\n\n\nCui (Scarlett) Li-Gherman\nScientific Aid\n\n\n\nDelany Broome\nEnvironmental Scientist\nChemistry Data Manager\n\n\nJennifer Salisbury\nEnvironmental Scientist\nTissue Data Manager\nCEDEN Vocabulary Manager\n\n\nKimberly Pham\nEnvironmental Scientist\nChemistry Data Manager\n\n\nLindsey Metz\nEnvironmental Scientist\nMicrobiology Data Manager\nSWAMP eDNA Metabarcoding Monitoring and Analysis Project (SeMMAP)\n\n\nToni Marshall\nEnvironmental Scientist\nBioassessment (benthic macroinvertebrates) Data Manager\n\n\nTony Gill\nEnvironmental Scientist\nToxicity Data Manager\nSWAMP Statewide Toxicology and Contaminants Program Coordinator\n\n\n\nFor more information, visit the SWAMP IQ Wiki"
+  },
+  {
+    "objectID": "archive/contacts_example.html#oima",
+    "href": "archive/contacts_example.html#oima",
+    "title": "Meet the SWAMP Team!",
+    "section": "",
+    "text": "Name\nTitle\nProgram Area(s)\n\n\n\n\nGreg Gearheart\nDeputy Director\nOIMA\n\n\nAndrew Hamilton\nAssistant Deputy Director\nOIMA\n\n\nAnna Holder\nSenior Specialist\nOpen Data Science, Equity & Tribal Coordinator\nOpenscapes\nTribal Coordinator\nRacial Equity Trainer\n\n\nCarly Nilson\nSenior Specialist\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator, OIMA Procurement Lead\n\n\nChad Fearing\nAssociate Governmental Program Analyst\nContracts\n\n\nDevan Burke\nAssociate Governmental Program Analyst\nContracts\nOpenscapes\nRacial equity data projects and communication\n\n\nErick Burres\nCitizen Science Coordinator\nSWAMP Clean Water Team\n\n\nKevin Song\nStanford Fellow\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nMarisa VanDyke\nSenior Specialist\nSWAMP Statewide Freshwater and Estuarine Harmful Algal Bloom (FHAB) Program Coordinator\n\n\nNick Martorano\nExecutive Director\nCalifornia Water Quality Monitoring Council"
+  },
+  {
+    "objectID": "archive/contacts_example.html#former-fellows-interns",
+    "href": "archive/contacts_example.html#former-fellows-interns",
+    "title": "Meet the SWAMP Team!",
+    "section": "",
+    "text": "*Fellows who were then hired by the Water Boards\n\n\nName\nTitle\nYear\nPrimary Project Area(s) & Products\n\n\n\n\nLeah Benton\nCivicSpark Fellow\n2023-2024\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nSydney Rilum\nCalifornia Sea Grant Fellow\n2023\nSWAMP Data Dashboard - Bioaccumulation Data\n\n\nJosh Davenport\nStanford Fellow\n2023\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nBadhia Yunes Katz\nCivicSpark Fellow\n2022-2023\nTribal Data Initiatives\nTribal Water Data Map & User Manual\n\n\nLindsey Metz*\nCalifornia Sea Grant Fellow\n2022\n\n\n\nGabriella Moran\nCivicSpark Fellow\n2021-2022\nTribal Data Initiatives\n\n\nBrook Thompson\nStanford Fellow\n2021\nTribal Data Initiatives\n\n\nCorey Clatterbuck*\nCalifornia Sea Grant Fellow\n2021\nHealthy Watersheds\nTrash\nTrash Data Dive 2021\n\n\nRoss Cooper\nCalifornia Sea Grant Fellow\n2020\nTrash Datathon\nBioaccumulation\nCASG Article: The Predicament of Subsistence Fishing and Seafood Contaminants\n\n\nMaraid Jimenez\nCivicSpark Fellow\n2020-2021\nTribal Data Initiatives\n\n\nAnna Holder*\nCalifornia Sea Grant Fellow\n2019\nHealthy Watersheds\nOpen Data & Science\nTrash\nCA Water Data Science Symposium\nCollege of Water Informatics\nCASG Article: Lean into Your Professional Swerves\n\n\nNicole Hack\nCalifornia Sea Grant Fellow\n2018\nTrash\nTrash Data Dive\nCASG Article: Being a Datahead\n\n\nAndrew Hill*\nCalifornia Sea Grant Fellow\n2017\nTrash\nTrash Tracker\nCASG Article: Tracking Trash"
+  },
+  {
+    "objectID": "gage/siteselection.html",
+    "href": "gage/siteselection.html",
+    "title": "Selecting a good gage site",
+    "section": "",
+    "text": "Selecting a good gage site",
+    "crumbs": [
+      "Gage Installation and Maintenance",
+      "Selecting a good gage site"
+    ]
+  },
+  {
+    "objectID": "siteselectionflow.html",
+    "href": "siteselectionflow.html",
+    "title": "selecting a good flow measurement site",
+    "section": "",
+    "text": "There are a few factors to consider when choosing a site to take a flow measurement.\n(Insert an image here)\n\n\nRiver Channel: Look for an area where the channel is straight and uniform, supporting more laminar flow. Avoid sections where there are eddy’s or areas of turbulence.\nThis may be upstream of a “control,” or a physical feature downstream that controls the flow in the channel segment above it. Examples are morphological units that constrict flow, such as stable riffles or bedrock outcroppings.\nChannel banks should be stable and not easily susceptible to scouring, deposition, or migration.\n(Upload picture)\nAccess: This may end up being a more limiting factor, but the site chosen will need to be somewhere that can be accessed for data collection or for regular maintenance if a gauge is installed.\n\n\n\nCheck for vegetation and algae growth, or any obstructions such as boulders, branches, or log jams. These can create sections of scouring and deposition, and create turbulence.\nBe aware of where tributaries connect either upstream or downstream of the chosen flow measurement site."
+  },
+  {
+    "objectID": "siteselectionflow.html#features",
+    "href": "siteselectionflow.html#features",
+    "title": "selecting a good flow measurement site",
+    "section": "",
+    "text": "River Channel: Look for an area where the channel is straight and uniform, supporting more laminar flow. Avoid sections where there are eddy’s or areas of turbulence.\nThis may be upstream of a “control,” or a physical feature downstream that controls the flow in the channel segment above it. Examples are morphological units that constrict flow, such as stable riffles or bedrock outcroppings.\nChannel banks should be stable and not easily susceptible to scouring, deposition, or migration.\n(Upload picture)\nAccess: This may end up being a more limiting factor, but the site chosen will need to be somewhere that can be accessed for data collection or for regular maintenance if a gauge is installed."
+  },
+  {
+    "objectID": "siteselectionflow.html#other-considerations",
+    "href": "siteselectionflow.html#other-considerations",
+    "title": "selecting a good flow measurement site",
+    "section": "",
+    "text": "Check for vegetation and algae growth, or any obstructions such as boulders, branches, or log jams. These can create sections of scouring and deposition, and create turbulence.\nBe aware of where tributaries connect either upstream or downstream of the chosen flow measurement site."
+  },
+  {
+    "objectID": "adcp/equipment_checklist.html",
+    "href": "adcp/equipment_checklist.html",
+    "title": "Equipment CheckList",
+    "section": "",
+    "text": "The ADCP equipment falls into four major buckets: the sensor, the GPS system, the platform, and the motor for the platform. There are many small pieces in the system and you are encouraged to put everything together and check operation before heading out into the field.\nThe complete setup with components is shown in the figure below.\n\n\n\nHere is a list of items that were purchased in 2024 when the equipment was brand new. The equipment must be reserved and checked out on the DWR Reserve Equipment page.\n\n\n\n\ncharge rQPOD batteries and rQPOD radio controller\nget 32 AA batteries and spares for M9\ngather equipment and turn it on to check that is it functioning\nreview the manuals and equipment list\n\n\n\n\nThe following equipment should be gathered and brought to the field when doing ADCP surveys:\n\ntrucks and all truck safety equipment\nSPOT beacon (input important numbers before leaving)\nPersonal safety equipment, including life jackets, orange safety vests, and good footwear.\n\n\n\nStreamflow measurements with the ADCP require equipment as listed below and the RiverSurveyor Live! software installed on a field computer. The system consists of a platform, a GPS system, and the instrument itself, a Sontek M9. The ADCP can either be controlled with an rQPOD remote-controlled motor, or tethered off a bridge or with ropes from either side.\n\nThe River Surveyor (Sontek M9) manuals can be found on the riversurveyor sharepoint and at the Sontek website.\n\nTorrent board, with\n\nfins and fin keys\ntow-strap plus 100 ft rope (for tethering)\n\nOPTIONAL rQPOD remote-controlled motor system (for untethered)\nRiver Survey M9 with xx-pin cable (to plug into RTK GPS)\nRTK GPS Base Station\n\nbase station with 16 AA batteries and tripod mount\ntripod\nGPS antenna, cables, rod, and tripod mount, with screws\ntelemetry antenna with cable(s)\n\nRTK GPS Rover\n\nrover station with 16 AA batteries\nGPS antenna, cables, rod, and board mount, with screws\ntelemetry antenna with cable(s)\n\n\n\n\n\nEverything on the streamflow adcp list plus the rQPOD (and all pieces) and HYPACK MAX software with software license.\n\nThe rQPOD is shown above, and consists of a motor with two thrusters and radio controller. Information about assembling and using rQPOD can be found on the rQPOD sharepoint and the manufacturers’s website. Batteries must be charged for the radio controller and motor! The rQPOD is kept in a large black case, which should contain:\n\nrQPOD remote controlled motor (in white box)\ntwo thrusters with cables and (red/green) skid guards\nmagnetic pen (to turn motor on)\nTORX drive and box of screw for motors, skid guard, and housing (assemble!) and fin key\n2 drone (Lipo) batteries and battery charger, in orange case\nRadiomaster controller\n\n\n\n\nThe following items are consumables associated with the ADCP. You may also need to order replacements for lost or broken parts, such as screws.\n\nAA batteries (32)\nKrytox GPL205 grease for the screws (if dried out)\n20 Amp glasses fuse 6.3 mm x 32 mm (250V)",
     "crumbs": [
       "ADCP Operations",
-      "Streamflow: Field Measurement"
+      "Equipment CheckList"
     ]
   },
   {
-    "objectID": "adcp/streamflow_field_measurement.html#pre-trip-planning",
-    "href": "adcp/streamflow_field_measurement.html#pre-trip-planning",
-    "title": "Streamflow: Field Measurement",
+    "objectID": "adcp/equipment_checklist.html#inventory-and-gear-checkout",
+    "href": "adcp/equipment_checklist.html#inventory-and-gear-checkout",
+    "title": "Equipment CheckList",
+    "section": "",
+    "text": "Here is a list of items that were purchased in 2024 when the equipment was brand new. The equipment must be reserved and checked out on the DWR Reserve Equipment page.",
+    "crumbs": [
+      "ADCP Operations",
+      "Equipment CheckList"
+    ]
+  },
+  {
+    "objectID": "adcp/equipment_checklist.html#pre-trip-checklist",
+    "href": "adcp/equipment_checklist.html#pre-trip-checklist",
+    "title": "Equipment CheckList",
+    "section": "",
+    "text": "charge rQPOD batteries and rQPOD radio controller\nget 32 AA batteries and spares for M9\ngather equipment and turn it on to check that is it functioning\nreview the manuals and equipment list",
+    "crumbs": [
+      "ADCP Operations",
+      "Equipment CheckList"
+    ]
+  },
+  {
+    "objectID": "adcp/equipment_checklist.html#gear-list",
+    "href": "adcp/equipment_checklist.html#gear-list",
+    "title": "Equipment CheckList",
+    "section": "",
+    "text": "The following equipment should be gathered and brought to the field when doing ADCP surveys:\n\ntrucks and all truck safety equipment\nSPOT beacon (input important numbers before leaving)\nPersonal safety equipment, including life jackets, orange safety vests, and good footwear.\n\n\n\nStreamflow measurements with the ADCP require equipment as listed below and the RiverSurveyor Live! software installed on a field computer. The system consists of a platform, a GPS system, and the instrument itself, a Sontek M9. The ADCP can either be controlled with an rQPOD remote-controlled motor, or tethered off a bridge or with ropes from either side.\n\nThe River Surveyor (Sontek M9) manuals can be found on the riversurveyor sharepoint and at the Sontek website.\n\nTorrent board, with\n\nfins and fin keys\ntow-strap plus 100 ft rope (for tethering)\n\nOPTIONAL rQPOD remote-controlled motor system (for untethered)\nRiver Survey M9 with xx-pin cable (to plug into RTK GPS)\nRTK GPS Base Station\n\nbase station with 16 AA batteries and tripod mount\ntripod\nGPS antenna, cables, rod, and tripod mount, with screws\ntelemetry antenna with cable(s)\n\nRTK GPS Rover\n\nrover station with 16 AA batteries\nGPS antenna, cables, rod, and board mount, with screws\ntelemetry antenna with cable(s)\n\n\n\n\n\nEverything on the streamflow adcp list plus the rQPOD (and all pieces) and HYPACK MAX software with software license.\n\nThe rQPOD is shown above, and consists of a motor with two thrusters and radio controller. Information about assembling and using rQPOD can be found on the rQPOD sharepoint and the manufacturers’s website. Batteries must be charged for the radio controller and motor! The rQPOD is kept in a large black case, which should contain:\n\nrQPOD remote controlled motor (in white box)\ntwo thrusters with cables and (red/green) skid guards\nmagnetic pen (to turn motor on)\nTORX drive and box of screw for motors, skid guard, and housing (assemble!) and fin key\n2 drone (Lipo) batteries and battery charger, in orange case\nRadiomaster controller\n\n\n\n\nThe following items are consumables associated with the ADCP. You may also need to order replacements for lost or broken parts, such as screws.\n\nAA batteries (32)\nKrytox GPL205 grease for the screws (if dried out)\n20 Amp glasses fuse 6.3 mm x 32 mm (250V)",
+    "crumbs": [
+      "ADCP Operations",
+      "Equipment CheckList"
+    ]
+  },
+  {
+    "objectID": "adcp/bathymetry_field_measurement.html",
+    "href": "adcp/bathymetry_field_measurement.html",
+    "title": "Bathymetry: Field Measurement",
+    "section": "",
+    "text": "This section describes how to use the ADCP for bathymetry measurements in the field. The section describes data collection in a stationary body of water, not for streamflow measurements. add section on collecting bathymetry data in moving water?\nWaterboards held a training day on 9/10/2024 and recorded the pre-field bathymetry training.\n\n\n\ninstall software\ncheck equipment\n\n\n\n\n\n\n\n\n\n\n\nsoftware operation\nnote-taking",
+    "crumbs": [
+      "ADCP Operations",
+      "Bathymetry: Field Measurement"
+    ]
+  },
+  {
+    "objectID": "adcp/bathymetry_field_measurement.html#pre-trip-planning",
+    "href": "adcp/bathymetry_field_measurement.html#pre-trip-planning",
+    "title": "Bathymetry: Field Measurement",
     "section": "",
     "text": "install software\ncheck equipment",
     "crumbs": [
       "ADCP Operations",
-      "Streamflow: Field Measurement"
+      "Bathymetry: Field Measurement"
     ]
   },
   {
-    "objectID": "adcp/streamflow_field_measurement.html#site-selection",
-    "href": "adcp/streamflow_field_measurement.html#site-selection",
-    "title": "Streamflow: Field Measurement",
+    "objectID": "adcp/bathymetry_field_measurement.html#data-collection",
+    "href": "adcp/bathymetry_field_measurement.html#data-collection",
+    "title": "Bathymetry: Field Measurement",
     "section": "",
-    "text": "Please review the Xylem site selection guide (also on Xylem site) to familiarize yourself with concepts such as uniform flow, turbulence, and magnetic interference.\ntest1\n{{&lt; https://www.youtube.com/embed/lWcFOu3bmqU?si=xYSK8IdnWCzQi8P_  &gt;}}\ntest2",
+    "text": "software operation\nnote-taking",
     "crumbs": [
       "ADCP Operations",
-      "Streamflow: Field Measurement"
+      "Bathymetry: Field Measurement"
     ]
   },
   {
-    "objectID": "adcp/streamflow_field_measurement.html#data-collection",
-    "href": "adcp/streamflow_field_measurement.html#data-collection",
-    "title": "Streamflow: Field Measurement",
+    "objectID": "adcp/bathymetry_gettingstarted.html",
+    "href": "adcp/bathymetry_gettingstarted.html",
+    "title": "Bathymetry: Getting Started",
     "section": "",
-    "text": "preparing for measuring\nVideo on moving boat transect",
+    "text": "This section describes how to get started using the ADCP for bathymetry measurements.\n\n\nBathymetry measurements with the ADCP require the HYPACK MAX software to collect data in the field and to process the data back in the lab. HYPACK MAX\nDocumentation for HYPACK MAX is found on the HYPACK_MAX sharepoint page on the HYPACK software website.\nWe have a single software license that must be shared. This license will work indefinitely, but software updates and technical support are subscription-based, and currently active to ~mid 2025.\n\n\nPut in a help desk ticket to DIT have have the software activated in your Software Center (type software center into the search bar, shown below). You may wish to check for updates since Sept 2024 before doing so on the HYPACK software website. Install all files onto your computer.\n\n\n\n\nWe have a single “soft license” for sharing, and it is important that staff are diligent in deactivating the license when not in use. The license deactivates automatically after 90 days. Access to the license (aka the Activation Key) is provided in software center when the HYPACK Max program is selected, and may also be obtained via internal documents on Sharepoint or in a Teams Chat.\nIf the license is in use, please first contact all known users to coordinate times for activation/deactivation. If you need help identifying known users, please contact the DIT help desk and request a list of staff with access to the software. Please do not share the license outside of Waterboards, or it may be hard to track down an activated license!\nTo activate the license, open up HYPACK License Manager, select Activate/Deactivate Soft License, allow the HYPACK Soft License Wizard to open, and click Activate your license. Select Activate Online (doing so offline may cause issues). Put in the Activation Key and click Activate.\n\nTo deactivate the license, open up HYPACK License Manager and select Activate/Deactivate Soft License.\n\n\n\n\n\nconnect computer to the M9 river surveyor instrument to check function\n\n\n\npractice driving the rQPOD and collecting good data before going into the field at a project site.",
     "crumbs": [
       "ADCP Operations",
-      "Streamflow: Field Measurement"
+      "Bathymetry: Getting Started"
     ]
   },
   {
-    "objectID": "adcp/streamflow_gettingstarted.html",
-    "href": "adcp/streamflow_gettingstarted.html",
-    "title": "Streamflow: Getting Started",
+    "objectID": "adcp/bathymetry_gettingstarted.html#hypack-max",
+    "href": "adcp/bathymetry_gettingstarted.html#hypack-max",
+    "title": "Bathymetry: Getting Started",
     "section": "",
-    "text": "This section describes how to get started using the ADCP, which is used in deep or large rivers, or in smaller rivers with high flows. The ADCP requires water depths of at least 1 ft (2 or more feet is better). For streamflow measurements in wadeable streams, please see the flow measurement section.\n\n\nDocumentation for RiverSurveyor Live! is found on the RiverSurveyor Live sharepoint page on the official software website. No license is needed for this software.\n\n\nPut in a help desk ticket to DIT have have the software activated in your Software Center (type software center into the search bar, shown below). You may wish to check for updates since Sept 2024 before doing so on the River Surveyor software websitee. Install all files onto your computer. Note that the software may not appear in your apps and you will have to locate it in C:\\Program Files (x86)\\Sontek\\RiverSurveyor Live. Right click and select “Pin to Start” so that it is easy to find in the future.\n\n\n\n\n\nconnect computer to the M9 river surveyor instrument to check function\n\n\n\npractice driving the rQPOD and collecting good data before going into the field at a project site.",
+    "text": "Bathymetry measurements with the ADCP require the HYPACK MAX software to collect data in the field and to process the data back in the lab. HYPACK MAX\nDocumentation for HYPACK MAX is found on the HYPACK_MAX sharepoint page on the HYPACK software website.\nWe have a single software license that must be shared. This license will work indefinitely, but software updates and technical support are subscription-based, and currently active to ~mid 2025.\n\n\nPut in a help desk ticket to DIT have have the software activated in your Software Center (type software center into the search bar, shown below). You may wish to check for updates since Sept 2024 before doing so on the HYPACK software website. Install all files onto your computer.\n\n\n\n\nWe have a single “soft license” for sharing, and it is important that staff are diligent in deactivating the license when not in use. The license deactivates automatically after 90 days. Access to the license (aka the Activation Key) is provided in software center when the HYPACK Max program is selected, and may also be obtained via internal documents on Sharepoint or in a Teams Chat.\nIf the license is in use, please first contact all known users to coordinate times for activation/deactivation. If you need help identifying known users, please contact the DIT help desk and request a list of staff with access to the software. Please do not share the license outside of Waterboards, or it may be hard to track down an activated license!\nTo activate the license, open up HYPACK License Manager, select Activate/Deactivate Soft License, allow the HYPACK Soft License Wizard to open, and click Activate your license. Select Activate Online (doing so offline may cause issues). Put in the Activation Key and click Activate.\n\nTo deactivate the license, open up HYPACK License Manager and select Activate/Deactivate Soft License.",
     "crumbs": [
       "ADCP Operations",
-      "Streamflow: Getting Started"
+      "Bathymetry: Getting Started"
     ]
   },
   {
-    "objectID": "adcp/streamflow_gettingstarted.html#riversurveyor-live-software",
-    "href": "adcp/streamflow_gettingstarted.html#riversurveyor-live-software",
-    "title": "Streamflow: Getting Started",
-    "section": "",
-    "text": "Documentation for RiverSurveyor Live! is found on the RiverSurveyor Live sharepoint page on the official software website. No license is needed for this software.\n\n\nPut in a help desk ticket to DIT have have the software activated in your Software Center (type software center into the search bar, shown below). You may wish to check for updates since Sept 2024 before doing so on the River Surveyor software websitee. Install all files onto your computer. Note that the software may not appear in your apps and you will have to locate it in C:\\Program Files (x86)\\Sontek\\RiverSurveyor Live. Right click and select “Pin to Start” so that it is easy to find in the future.",
-    "crumbs": [
-      "ADCP Operations",
-      "Streamflow: Getting Started"
-    ]
-  },
-  {
-    "objectID": "adcp/streamflow_gettingstarted.html#connecting-to-the-m9-instrument",
-    "href": "adcp/streamflow_gettingstarted.html#connecting-to-the-m9-instrument",
-    "title": "Streamflow: Getting Started",
+    "objectID": "adcp/bathymetry_gettingstarted.html#connecting-to-the-m9-instrument",
+    "href": "adcp/bathymetry_gettingstarted.html#connecting-to-the-m9-instrument",
+    "title": "Bathymetry: Getting Started",
     "section": "",
     "text": "connect computer to the M9 river surveyor instrument to check function",
     "crumbs": [
       "ADCP Operations",
-      "Streamflow: Getting Started"
+      "Bathymetry: Getting Started"
     ]
   },
   {
-    "objectID": "adcp/streamflow_gettingstarted.html#practice-driving-the-rqpod",
-    "href": "adcp/streamflow_gettingstarted.html#practice-driving-the-rqpod",
-    "title": "Streamflow: Getting Started",
+    "objectID": "adcp/bathymetry_gettingstarted.html#practice-driving-the-rqpod",
+    "href": "adcp/bathymetry_gettingstarted.html#practice-driving-the-rqpod",
+    "title": "Bathymetry: Getting Started",
     "section": "",
     "text": "practice driving the rQPOD and collecting good data before going into the field at a project site.",
     "crumbs": [
       "ADCP Operations",
-      "Streamflow: Getting Started"
+      "Bathymetry: Getting Started"
     ]
   },
   {
-    "objectID": "adcp/streamflow_data_processing.html",
-    "href": "adcp/streamflow_data_processing.html",
-    "title": "Streamflow: Data Processing",
+    "objectID": "adcp/index.html",
+    "href": "adcp/index.html",
+    "title": "ADCP Operations",
     "section": "",
-    "text": "This section describes how to acquire and process streamflow data collected with the Sontek M9. Data management and rating curve generation is the same as that done for streamflow measurements collected by other methods. Please refer to add section here.\n\n\nIn office data review\nWebinar with questions answered\n\n\nThe raw Sontek M9 files have the ending .riv and are collected and stored on the instrument itself. Data files that are transmitted via radio to a computer are replicates with an ending .rivr. Data processing should always use .riv files not .rivr files because the replicates are missing data lost in radio transmissions. The software allows some parameters to be changed post-field, and those changes are stored in .wsp files, so that the original raw files are never edited.\n\n\n\n\nThe software used for collecting data and doing the bulk of the data processing is Sontek RiverSurveyor Live!. . The USGS publishes free software to help with ADCP data processing. Two recommended softwares are QRev, which is used to compute discharge, and extrap (which might be embedded in QRev) to extrapolate measurements. USGS software requires data to be in Matlab format, which can be exported from the Sontek M9. (Future versions of the M9 may use newer software with these additional tools embedded.) Add details here if you are processing data.\n\n\n\nSontek has a video training series on collecting streamflow data with the ADCP.\nWaterboards held a training day on 9/11/2024 on the American River at the Jim Jones pedestrian bridge near Sunrise, about 3 miles downstream of the USGS gage at Fair Oaks. We collected data on the training day that can be used for learning and following along with the RiverSurveyor Live! software, which can be installed by following instructions on the Streamflow: Getting Started page. We recorded the pre-field training and the post-field data processing for reference.\nThe USGS also has technical tips on adcp data collection and processing:\n\nhttps://www.usgs.gov/hydroacoustics/moving-boat-measurements",
+    "text": "An Acoustic Doppler Current Profiler, or ADCP, uses sound waves to measure depth and the direction and speed of moving water. Frequency determines the depth and precision of the measured data, with higher frequencies having higher precision and lower frequencies with greater depth range. The ADCP is mounted on a platform on the surface of the water and coupled with a compass so that the instrument knows which direction the water is moving. Our ADCP is paired with a GPS-RTK (global positioning system - real time kinematic) with an accuracy of about 2 cm.\nThe ADCP is used in rivers that are deep or large rivers that cannot be waded safely - it may also be used in rivers during the winter, when flows are higher or there are hazards downstream. The ADCP requires water depths of at least 1 ft (2 or more feet is better). The ADCP can also be used to measure the depth to the bottom of a lake (or possibly a river) and map bathymetry.\n\nThis section is aimed at training staff on how to use the ADCP and process the data. For streamflow measurements in wadeable streams, please see the flow measurement section.\n\n\nThe Sontek M9 works to a depth of ~40 m (130 ft), with velocities up to about 20 m/s (66 ft/s). However, actual depths in the field may be limited by vegetation, suspended sediments, uneven topography, or other impediments. The motor, tethering system, moving particles, or the presence of standing waves (rapids) may limit operation in fast-moving water.\n\n\n\nThere is a set of 4 3.0 MHz and 4 1.0 MHz transducers for velocity profiling, and one 0.5 MHz vertical beam for maximum depth. The different frequencies allow for high precision and adequate depth coverage.",
     "crumbs": [
-      "ADCP Operations",
-      "Streamflow: Data Processing"
+      "ADCP Operations"
     ]
   },
   {
-    "objectID": "adcp/streamflow_data_processing.html#checking-data-in-the-office",
-    "href": "adcp/streamflow_data_processing.html#checking-data-in-the-office",
-    "title": "Streamflow: Data Processing",
+    "objectID": "adcp/index.html#operating-specifications",
+    "href": "adcp/index.html#operating-specifications",
+    "title": "ADCP Operations",
     "section": "",
-    "text": "In office data review\nWebinar with questions answered\n\n\nThe raw Sontek M9 files have the ending .riv and are collected and stored on the instrument itself. Data files that are transmitted via radio to a computer are replicates with an ending .rivr. Data processing should always use .riv files not .rivr files because the replicates are missing data lost in radio transmissions. The software allows some parameters to be changed post-field, and those changes are stored in .wsp files, so that the original raw files are never edited.",
+    "text": "The Sontek M9 works to a depth of ~40 m (130 ft), with velocities up to about 20 m/s (66 ft/s). However, actual depths in the field may be limited by vegetation, suspended sediments, uneven topography, or other impediments. The motor, tethering system, moving particles, or the presence of standing waves (rapids) may limit operation in fast-moving water.",
     "crumbs": [
-      "ADCP Operations",
-      "Streamflow: Data Processing"
+      "ADCP Operations"
     ]
   },
   {
-    "objectID": "adcp/streamflow_data_processing.html#software-programs",
-    "href": "adcp/streamflow_data_processing.html#software-programs",
-    "title": "Streamflow: Data Processing",
+    "objectID": "adcp/index.html#how-it-works",
+    "href": "adcp/index.html#how-it-works",
+    "title": "ADCP Operations",
     "section": "",
-    "text": "The software used for collecting data and doing the bulk of the data processing is Sontek RiverSurveyor Live!. . The USGS publishes free software to help with ADCP data processing. Two recommended softwares are QRev, which is used to compute discharge, and extrap (which might be embedded in QRev) to extrapolate measurements. USGS software requires data to be in Matlab format, which can be exported from the Sontek M9. (Future versions of the M9 may use newer software with these additional tools embedded.) Add details here if you are processing data.",
+    "text": "There is a set of 4 3.0 MHz and 4 1.0 MHz transducers for velocity profiling, and one 0.5 MHz vertical beam for maximum depth. The different frequencies allow for high precision and adequate depth coverage.",
     "crumbs": [
-      "ADCP Operations",
-      "Streamflow: Data Processing"
+      "ADCP Operations"
     ]
   },
   {
-    "objectID": "adcp/streamflow_data_processing.html#training",
-    "href": "adcp/streamflow_data_processing.html#training",
-    "title": "Streamflow: Data Processing",
+    "objectID": "flowmmt/siteselectionflow.html",
+    "href": "flowmmt/siteselectionflow.html",
+    "title": "selecting a good flow measurement site",
     "section": "",
-    "text": "Sontek has a video training series on collecting streamflow data with the ADCP.\nWaterboards held a training day on 9/11/2024 on the American River at the Jim Jones pedestrian bridge near Sunrise, about 3 miles downstream of the USGS gage at Fair Oaks. We collected data on the training day that can be used for learning and following along with the RiverSurveyor Live! software, which can be installed by following instructions on the Streamflow: Getting Started page. We recorded the pre-field training and the post-field data processing for reference.\nThe USGS also has technical tips on adcp data collection and processing:\n\nhttps://www.usgs.gov/hydroacoustics/moving-boat-measurements",
+    "text": "There are a few factors to consider when choosing a site to take a flow measurement.\n(Insert an image here)\n\n\nRiver Channel: Look for an area where the channel is straight and uniform, supporting more laminar flow. Avoid sections where there are eddy’s or areas of turbulence.\nThis may be upstream of a “control,” or a physical feature downstream that controls the flow in the channel segment above it. Examples are morphological units that constrict flow, such as stable riffles or bedrock outcroppings.\nChannel banks should be stable and not easily susceptible to scouring, deposition, or migration.\n(Upload picture)\nAccess: This may end up being a more limiting factor, but the site chosen will need to be somewhere that can be accessed for data collection or for regular maintenance if a gauge is installed.\n\n\n\nCheck for vegetation and algae growth, or any obstructions such as boulders, branches, or log jams. These can create sections of scouring and deposition, and create turbulence.\nBe aware of where tributaries connect either upstream or downstream of the chosen flow measurement site.",
     "crumbs": [
-      "ADCP Operations",
-      "Streamflow: Data Processing"
+      "Flow Measurement",
+      "selecting a good flow measurement site"
     ]
   },
   {
-    "objectID": "adcp/bathymetry_data_processing.html",
-    "href": "adcp/bathymetry_data_processing.html",
-    "title": "Bathymetry: Data Processing",
+    "objectID": "flowmmt/siteselectionflow.html#features",
+    "href": "flowmmt/siteselectionflow.html#features",
+    "title": "selecting a good flow measurement site",
     "section": "",
-    "text": "This section describes how to process bathymetry data collected with the Sontek M9. Bathymetry data need to be collected and processed with HYPACK MAX software.\nWaterboards held a training day on 9/10/2024 and recorded the pre-field and post-field training. We also collected data on the training day that can be used for learning.\n\n\nRaw data are stored in the folder C:\\HYPACK 2024\\Projects.\n\n\nThis was done in training and may not be relevant to your project.\nIf you are copying data from somewhere else, you need to put it in this folder. Some tips to make this work are recorded here.",
+    "text": "River Channel: Look for an area where the channel is straight and uniform, supporting more laminar flow. Avoid sections where there are eddy’s or areas of turbulence.\nThis may be upstream of a “control,” or a physical feature downstream that controls the flow in the channel segment above it. Examples are morphological units that constrict flow, such as stable riffles or bedrock outcroppings.\nChannel banks should be stable and not easily susceptible to scouring, deposition, or migration.\n(Upload picture)\nAccess: This may end up being a more limiting factor, but the site chosen will need to be somewhere that can be accessed for data collection or for regular maintenance if a gauge is installed.",
     "crumbs": [
-      "ADCP Operations",
-      "Bathymetry: Data Processing"
+      "Flow Measurement",
+      "selecting a good flow measurement site"
     ]
   },
   {
-    "objectID": "adcp/bathymetry_data_processing.html#raw-data",
-    "href": "adcp/bathymetry_data_processing.html#raw-data",
-    "title": "Bathymetry: Data Processing",
+    "objectID": "flowmmt/siteselectionflow.html#other-considerations",
+    "href": "flowmmt/siteselectionflow.html#other-considerations",
+    "title": "selecting a good flow measurement site",
     "section": "",
-    "text": "Raw data are stored in the folder C:\\HYPACK 2024\\Projects.\n\n\nThis was done in training and may not be relevant to your project.\nIf you are copying data from somewhere else, you need to put it in this folder. Some tips to make this work are recorded here.",
+    "text": "Check for vegetation and algae growth, or any obstructions such as boulders, branches, or log jams. These can create sections of scouring and deposition, and create turbulence.\nBe aware of where tributaries connect either upstream or downstream of the chosen flow measurement site.",
     "crumbs": [
-      "ADCP Operations",
-      "Bathymetry: Data Processing"
+      "Flow Measurement",
+      "selecting a good flow measurement site"
     ]
   },
   {
