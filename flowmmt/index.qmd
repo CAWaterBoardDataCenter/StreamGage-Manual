@@ -1,1 +1,3 @@
 # Flow Measurement
+
+This section describes taking flow measurements using the Flowtracker2, which is used when the river can be safely waded. For streamflow measurements in non-wadeable streams, please see the [ADCP Operations section](https://cawaterboarddatacenter.github.io/StreamGage-Manual/adcp/).
