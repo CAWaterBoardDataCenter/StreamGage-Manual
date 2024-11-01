@@ -1,1 +1,17 @@
 # Field Preparation
+
+## Trip Planning
+
+**Trip Plan/Check-ins:** Develop a trip itinerary with location information and a proposed schedule. Provide this plan to a designated check-in person (supervisor) who will not be in the field.
+
+**Land Access Permission:** Make sure any land access is figured out beforehand and that land owners know you are coming. Fill out any needed forms beforehand.
+
+**Field Equipment Prep:** Field equipment should be calibrated as needed and maintainted according to the manufacturer's recommendations.
+
+**Equipment Checklist:** Create a field equipment checklist and check in to make sure nothing is left behind before leaving.
+
+## Reservation Systems
+
+Checking out gear: Go to the SWB's [Field Equipment Page](https://cawaterboards.sharepoint.com/DWR/ER/SitePages/Field-Equipment-Page.aspx?OR=Teams-HL&CT=1715710322543&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDAzMzEwMTgxNyIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D) to find the instructions on getting access to the field room.
+
+Vehicle reservation: see [Travel](https://cawaterboarddatacenter.github.io/StreamGage-Manual/travel.html)
