@@ -60,6 +60,8 @@ website:
         text: Data Handling and Documentation
         contents:
          - datamgmt/datatostore.qmd
+      - href: fieldprep.qmd
+        text: Field Preparation
       - href: equipment.qmd
         text: Equipment
       - href: travel.qmd
