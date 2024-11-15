@@ -54,7 +54,7 @@
     "href": "flowmmt/siteselectionflow.html",
     "title": "selecting a good flow measurement site",
     "section": "",
-    "text": "There are a few factors to consider when choosing a site to take a flow measurement.\n(Insert an image here)\n\n\nRiver Channel: Look for an area where the channel is straight and uniform, supporting more laminar flow. Avoid sections where there are eddy’s or areas of turbulence.\nThis may be upstream of a “control,” or a physical feature downstream that controls the flow in the channel segment above it. Examples are morphological units that constrict flow, such as stable riffles or bedrock outcroppings.\nChannel banks should be stable and not easily susceptible to scouring, deposition, or migration.\n(Upload picture)\nAccess: This may end up being a more limiting factor, but the site chosen will need to be somewhere that can be accessed for data collection or for regular maintenance if a gauge is installed.\n\n\n\nCheck for vegetation and algae growth, or any obstructions such as boulders, branches, or log jams. These can create sections of scouring and deposition, and create turbulence.\nBe aware of where tributaries connect either upstream or downstream of the chosen flow measurement site.",
+    "text": "There are a few factors to consider when choosing a site to take a flow measurement.\n(Insert an image here)\n\n\nChannel bed geometry: Look for an area where the channel is symmetrical, straight, uniform, supporting more laminar flow. There should be defined banks on both sides of the cross-section (stable and not easily susceptible to scouring, deposition, or migration) and no abrupt changes in bed elevation across the chosen transect.\nParallel flow lines: There should be uniform flow across the entire stream width where the transect is. Avoid braided or split channels, and no bends upstream or downstream that could affect the flow lines in the cross-section.\nThis may be upstream of a “control,” or a physical feature downstream that controls the flow in the channel segment above it. Examples are morphological units that constrict flow, such as stable riffles or bedrock outcroppings.\n(Upload picture)\nFree of obstructions: Check for aquatic vegetation, or any obstructions such as weeds, large cobbles, boulders, branches, or log jams. These can create areas of eddies, slack water, or turbulence. These obstructions should be avoided or removed (if possible) before any measurements are taken.\nBe aware of where tributaries connect either upstream or downstream of the chosen flow measurement site.\nAccess: This may end up being a more limiting factor, but the site chosen will need to be somewhere that can be accessed for data collection or for regular maintenance if a gauge is installed.",
     "crumbs": [
       "Flow Measurement",
       "selecting a good flow measurement site"
@@ -65,18 +65,7 @@
     "href": "flowmmt/siteselectionflow.html#features",
     "title": "selecting a good flow measurement site",
     "section": "",
-    "text": "River Channel: Look for an area where the channel is straight and uniform, supporting more laminar flow. Avoid sections where there are eddy’s or areas of turbulence.\nThis may be upstream of a “control,” or a physical feature downstream that controls the flow in the channel segment above it. Examples are morphological units that constrict flow, such as stable riffles or bedrock outcroppings.\nChannel banks should be stable and not easily susceptible to scouring, deposition, or migration.\n(Upload picture)\nAccess: This may end up being a more limiting factor, but the site chosen will need to be somewhere that can be accessed for data collection or for regular maintenance if a gauge is installed.",
-    "crumbs": [
-      "Flow Measurement",
-      "selecting a good flow measurement site"
-    ]
-  },
-  {
-    "objectID": "flowmmt/siteselectionflow.html#other-considerations",
-    "href": "flowmmt/siteselectionflow.html#other-considerations",
-    "title": "selecting a good flow measurement site",
-    "section": "",
-    "text": "Check for vegetation and algae growth, or any obstructions such as boulders, branches, or log jams. These can create sections of scouring and deposition, and create turbulence.\nBe aware of where tributaries connect either upstream or downstream of the chosen flow measurement site.",
+    "text": "Channel bed geometry: Look for an area where the channel is symmetrical, straight, uniform, supporting more laminar flow. There should be defined banks on both sides of the cross-section (stable and not easily susceptible to scouring, deposition, or migration) and no abrupt changes in bed elevation across the chosen transect.\nParallel flow lines: There should be uniform flow across the entire stream width where the transect is. Avoid braided or split channels, and no bends upstream or downstream that could affect the flow lines in the cross-section.\nThis may be upstream of a “control,” or a physical feature downstream that controls the flow in the channel segment above it. Examples are morphological units that constrict flow, such as stable riffles or bedrock outcroppings.\n(Upload picture)\nFree of obstructions: Check for aquatic vegetation, or any obstructions such as weeds, large cobbles, boulders, branches, or log jams. These can create areas of eddies, slack water, or turbulence. These obstructions should be avoided or removed (if possible) before any measurements are taken.\nBe aware of where tributaries connect either upstream or downstream of the chosen flow measurement site.\nAccess: This may end up being a more limiting factor, but the site chosen will need to be somewhere that can be accessed for data collection or for regular maintenance if a gauge is installed.",
     "crumbs": [
       "Flow Measurement",
       "selecting a good flow measurement site"
@@ -621,7 +610,7 @@
     "href": "flowmmt/equipment.html",
     "title": "Getting ready for the field",
     "section": "",
-    "text": "Getting ready for the field\nChecking out gear:\nVehicle reservation: see Travel\n\n\nEquipment Checklist\n\nPersonal items:\n\nwaders\nwading boots\nlifejacket\nsunscreen\nhat\nnotebook and pen/pencil\nfirst aid kit\n\nStreamflow measurement gear:\n\nFlowtracker2\n\ncheck battery life\n\n2 pieces of rebar\ntapemeasure (at least 1)",
+    "text": "Getting ready for the field\n\n\nEquipment Checklist\n\nPersonal items:\n\nwaders\nwading boots\nlifejacket\nsunscreen\nhat\nnotebook and pen/pencil\nfirst aid kit\n\nStreamflow measurement gear:\n\nFlowtracker2\n\ncheck battery life\n\n2 pieces of rebar\ntapemeasure (at least 1)",
     "crumbs": [
       "Flow Measurement",
       "Getting ready for the field"
@@ -630,12 +619,45 @@
   {
     "objectID": "flowmmt/Flowtracker2.html",
     "href": "flowmmt/Flowtracker2.html",
-    "title": "Flowtracker2",
+    "title": "Streamflow Measurements",
     "section": "",
-    "text": "Flowtracker2",
+    "text": "The SonTek FlowTracker2 is one of the Division’s preferred velocimeters, due to it’s accuracy, automated discharge calculation, direct data transfer capabilities, and durability. It can measure velocity in depths as shallow as 0.79 inches and velocities as low as 0.003 ft/s.\nSee the user’s manual for more detailed information.\n(insert pic of flowtracker with labeled components)\nSonTek provided a series of instructional YouTube videos walking through setting up and using the Flowtracker 2.\n\n\n\nThere should be a quick start guide within the flowtracker2 case.\nWading Rod:\n\nScrew the large diameter rod in first\nUse the handle on the top to screw the small diameter rod into place\n\nMount Flowtracker:\n\nmount the ADV probe into the bracket so that it lines up with the set screw within the mounting pin\nhand tighten the set screw (wrench can be used to tighten)\n8-pin connector on the other end of the cable goes into the handheld\nhandheld has a bracket (single screw) that mounts to the wading rod\nthere is a mounting pin on top of the wading rod the handheld bracket can then be mounted and tightened on\n\nOnce the Flowtracker and wading rod are set up and connected, turn on the handheld and set up the device for use.\nDevice Configuration:\n\nUser Interface: language, color scheme, font size, beeper, etc\nApplication Settings: Units (metric, US), wading rod settings, file naming, folder naming, etc\nDischarge Templates: Can save all these settings in a template file (or do this in the office)\nGeneral Templates:\n\nUtilities:\n\nSystem Clock: Can either use UTC time on the device or set the time manually.\nRecorder: shows how much space is left (always make sure there is enough space left on the device before recording measurements)\nBattery Data: Can see what percentage is left or the voltage. Can change battery type to make estimates more accurate\nRaw Data and Beam Check: Check these before beginning measurements\nGPS Data: can verify GPS information, satellites, and quality parameters\nSystem Maintenance: Would upgrade firmware here\n\nCommunication:\n\nenables you to talk to Flowtracker2 from your PC\n\nSystem Information:\n\nBasic information that cannot be changed. The tech support number is provided here, along with firmware number.\n\n\n\n\nFor reference, banks are defined by their position when looking downstream (left bank or right bank)\n\n\nThe Midsection method is used to take streamflow measurements, which divides the stream cross-section into smaller sections and calculates the flow individually in each section. These are then added to together to calculate the total flow. Section widths are found by dividing the cross-section width by 25 or 30 (these can be rounded to make tracking progress easier).\n\nSet up the measuring tape across the channel, perpendicular to the flow direction. Use the rebar or other methods to attach the measuring tape to each side.\nEach section should ideally account for 5% or less of the total flow. If a section accounts for more than 10% of flow, then that section should be split into two or more sections and the velocity should be re-taken for each of them.\n\nNo section width should be less than 0.3 ft\n\nPoint the velocimeter upstream and perpendicular to the measuring tape.\nStand downstream of the velocimeter to avoid impacting the velocity reading by impacting the flow.\n\n\n\n\nBefore beginnging measurements, a few basic checks with the Flowtracker2 need to be performed first in the water.\nGo to Utilities:\n\nRaw Data: The device will start sending out the acoustic signal. Check the data to make sure the device is operating at a basic level normally. -\n\nAre velocities appearing and are they normal?\nAre SNR’s reasonable (ideal is greater than 10dB; minimum is 2-3 dB)?\nA few minutes may be needed for the temperature sensor to equilibrate\nverify that the tilt sensor is working - another chance to check the battery\n\nAutomated Beam Check:\n\nhit start\ninstrument will check a few parameters (signal strength, peak, etc)\nbeam check will pass or fail\n\nBeam Check:\n\nwill show a graph of each beam and their signal strength with each ping to visualize where peak position is and how high the signal strength is\nrecord several seconds of this to have on file\ncan go back later to justify quality of data with the beam check",
     "crumbs": [
       "Flow Measurement",
-      "Flowtracker2"
+      "Streamflow Measurements"
+    ]
+  },
+  {
+    "objectID": "flowmmt/Flowtracker2.html#flowtracker2",
+    "href": "flowmmt/Flowtracker2.html#flowtracker2",
+    "title": "Streamflow Measurements",
+    "section": "",
+    "text": "The SonTek FlowTracker2 is one of the Division’s preferred velocimeters, due to it’s accuracy, automated discharge calculation, direct data transfer capabilities, and durability. It can measure velocity in depths as shallow as 0.79 inches and velocities as low as 0.003 ft/s.\nSee the user’s manual for more detailed information.\n(insert pic of flowtracker with labeled components)\nSonTek provided a series of instructional YouTube videos walking through setting up and using the Flowtracker 2.",
+    "crumbs": [
+      "Flow Measurement",
+      "Streamflow Measurements"
+    ]
+  },
+  {
+    "objectID": "flowmmt/Flowtracker2.html#setting-up-the-flowtracker2",
+    "href": "flowmmt/Flowtracker2.html#setting-up-the-flowtracker2",
+    "title": "Streamflow Measurements",
+    "section": "",
+    "text": "There should be a quick start guide within the flowtracker2 case.\nWading Rod:\n\nScrew the large diameter rod in first\nUse the handle on the top to screw the small diameter rod into place\n\nMount Flowtracker:\n\nmount the ADV probe into the bracket so that it lines up with the set screw within the mounting pin\nhand tighten the set screw (wrench can be used to tighten)\n8-pin connector on the other end of the cable goes into the handheld\nhandheld has a bracket (single screw) that mounts to the wading rod\nthere is a mounting pin on top of the wading rod the handheld bracket can then be mounted and tightened on\n\nOnce the Flowtracker and wading rod are set up and connected, turn on the handheld and set up the device for use.\nDevice Configuration:\n\nUser Interface: language, color scheme, font size, beeper, etc\nApplication Settings: Units (metric, US), wading rod settings, file naming, folder naming, etc\nDischarge Templates: Can save all these settings in a template file (or do this in the office)\nGeneral Templates:\n\nUtilities:\n\nSystem Clock: Can either use UTC time on the device or set the time manually.\nRecorder: shows how much space is left (always make sure there is enough space left on the device before recording measurements)\nBattery Data: Can see what percentage is left or the voltage. Can change battery type to make estimates more accurate\nRaw Data and Beam Check: Check these before beginning measurements\nGPS Data: can verify GPS information, satellites, and quality parameters\nSystem Maintenance: Would upgrade firmware here\n\nCommunication:\n\nenables you to talk to Flowtracker2 from your PC\n\nSystem Information:\n\nBasic information that cannot be changed. The tech support number is provided here, along with firmware number.",
+    "crumbs": [
+      "Flow Measurement",
+      "Streamflow Measurements"
+    ]
+  },
+  {
+    "objectID": "flowmmt/Flowtracker2.html#field-measurements",
+    "href": "flowmmt/Flowtracker2.html#field-measurements",
+    "title": "Streamflow Measurements",
+    "section": "",
+    "text": "For reference, banks are defined by their position when looking downstream (left bank or right bank)\n\n\nThe Midsection method is used to take streamflow measurements, which divides the stream cross-section into smaller sections and calculates the flow individually in each section. These are then added to together to calculate the total flow. Section widths are found by dividing the cross-section width by 25 or 30 (these can be rounded to make tracking progress easier).\n\nSet up the measuring tape across the channel, perpendicular to the flow direction. Use the rebar or other methods to attach the measuring tape to each side.\nEach section should ideally account for 5% or less of the total flow. If a section accounts for more than 10% of flow, then that section should be split into two or more sections and the velocity should be re-taken for each of them.\n\nNo section width should be less than 0.3 ft\n\nPoint the velocimeter upstream and perpendicular to the measuring tape.\nStand downstream of the velocimeter to avoid impacting the velocity reading by impacting the flow.\n\n\n\n\nBefore beginnging measurements, a few basic checks with the Flowtracker2 need to be performed first in the water.\nGo to Utilities:\n\nRaw Data: The device will start sending out the acoustic signal. Check the data to make sure the device is operating at a basic level normally. -\n\nAre velocities appearing and are they normal?\nAre SNR’s reasonable (ideal is greater than 10dB; minimum is 2-3 dB)?\nA few minutes may be needed for the temperature sensor to equilibrate\nverify that the tilt sensor is working - another chance to check the battery\n\nAutomated Beam Check:\n\nhit start\ninstrument will check a few parameters (signal strength, peak, etc)\nbeam check will pass or fail\n\nBeam Check:\n\nwill show a graph of each beam and their signal strength with each ping to visualize where peak position is and how high the signal strength is\nrecord several seconds of this to have on file\ncan go back later to justify quality of data with the beam check",
+    "crumbs": [
+      "Flow Measurement",
+      "Streamflow Measurements"
     ]
   },
   {

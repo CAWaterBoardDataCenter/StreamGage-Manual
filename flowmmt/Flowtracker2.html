@@ -84,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../flowmmt/index.html">Flow Measurement</a></li><li class="breadcrumb-item"><a href="../flowmmt/Flowtracker2.html">Flowtracker2</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../flowmmt/index.html">Flow Measurement</a></li><li class="breadcrumb-item"><a href="../flowmmt/Flowtracker2.html">Streamflow Measurements</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -177,7 +177,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../flowmmt/Flowtracker2.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Flowtracker2</span></a>
+ <span class="menu-text">Streamflow Measurements</span></a>
   </div>
 </li>
       </ul>
@@ -303,7 +303,16 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#flowtracker2" id="toc-flowtracker2" class="nav-link active" data-scroll-target="#flowtracker2">Flowtracker2</a></li>
+  <li><a href="#streamflow-measurements" id="toc-streamflow-measurements" class="nav-link active" data-scroll-target="#streamflow-measurements">Streamflow Measurements</a>
+  <ul class="collapse">
+  <li><a href="#flowtracker2" id="toc-flowtracker2" class="nav-link" data-scroll-target="#flowtracker2">FlowTracker2</a></li>
+  <li><a href="#setting-up-the-flowtracker2" id="toc-setting-up-the-flowtracker2" class="nav-link" data-scroll-target="#setting-up-the-flowtracker2">Setting up the Flowtracker2</a></li>
+  <li><a href="#field-measurements" id="toc-field-measurements" class="nav-link" data-scroll-target="#field-measurements">Field Measurements</a>
+  <ul class="collapse">
+  <li><a href="#taking-measurements-using-the-midsection-method" id="toc-taking-measurements-using-the-midsection-method" class="nav-link" data-scroll-target="#taking-measurements-using-the-midsection-method">Taking measurements using the Midsection Method</a></li>
+  <li><a href="#pre-measurement-checks" id="toc-pre-measurement-checks" class="nav-link" data-scroll-target="#pre-measurement-checks">Pre-Measurement Checks</a></li>
+  </ul></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/CAWaterBoardDataCenter/StreamGage-Manual/edit/main/flowmmt/Flowtracker2.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/StreamGage-Manual/blob/main/flowmmt/Flowtracker2.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/StreamGage-Manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -313,10 +322,102 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="flowtracker2" class="level1">
-<h1>Flowtracker2</h1>
+<section id="streamflow-measurements" class="level1">
+<h1>Streamflow Measurements</h1>
+<section id="flowtracker2" class="level2">
+<h2 class="anchored" data-anchor-id="flowtracker2">FlowTracker2</h2>
+<p>The SonTek FlowTracker2 is one of the Division’s preferred velocimeters, due to it’s accuracy, automated discharge calculation, direct data transfer capabilities, and durability. It can measure velocity in depths as shallow as 0.79 inches and velocities as low as 0.003 ft/s.</p>
+<p>See the <a href="https://www.geotechenv.com/Manuals/SonTek_Manuals/sontek_flowtracker2_manual.pdf">user’s manual</a> for more detailed information.</p>
+<p>(insert pic of flowtracker with labeled components)</p>
+<p>SonTek provided a series of <a href="https://www.youtube.com/watch?v=cEAX7w05lWg&amp;list=PLCbJJUmLdIBHT2QOwT6Bp0Wo_HnPLjGoN">instructional YouTube videos</a> walking through setting up and using the Flowtracker 2.</p>
+</section>
+<section id="setting-up-the-flowtracker2" class="level2">
+<h2 class="anchored" data-anchor-id="setting-up-the-flowtracker2">Setting up the Flowtracker2</h2>
+<p>There should be a quick start guide within the flowtracker2 case.</p>
+<p><strong>Wading Rod:</strong></p>
+<ul>
+<li><p>Screw the large diameter rod in first</p></li>
+<li><p>Use the handle on the top to screw the small diameter rod into place</p></li>
+</ul>
+<p><strong>Mount Flowtracker:</strong></p>
+<ul>
+<li><p>mount the ADV probe into the bracket so that it lines up with the set screw within the mounting pin</p></li>
+<li><p>hand tighten the set screw (wrench can be used to tighten)</p></li>
+<li><p>8-pin connector on the other end of the cable goes into the handheld</p></li>
+<li><p>handheld has a bracket (single screw) that mounts to the wading rod</p></li>
+<li><p>there is a mounting pin on top of the wading rod the handheld bracket can then be mounted and tightened on</p></li>
+</ul>
+<p>Once the Flowtracker and wading rod are set up and connected, turn on the handheld and set up the device for use.</p>
+<p><strong>Device Configuration:</strong></p>
+<ul>
+<li><p>User Interface: language, color scheme, font size, beeper, etc</p></li>
+<li><p>Application Settings: Units (metric, US), wading rod settings, file naming, folder naming, etc</p></li>
+<li><p>Discharge Templates: Can save all these settings in a template file (or do this in the office)</p></li>
+<li><p>General Templates:</p></li>
+</ul>
+<p><strong>Utilities:</strong></p>
+<ul>
+<li><p>System Clock: Can either use UTC time on the device or set the time manually.</p></li>
+<li><p>Recorder: shows how much space is left (always make sure there is enough space left on the device before recording measurements)</p></li>
+<li><p>Battery Data: Can see what percentage is left or the voltage. Can change battery type to make estimates more accurate</p></li>
+<li><p>Raw Data and Beam Check: Check these before beginning measurements</p></li>
+<li><p>GPS Data: can verify GPS information, satellites, and quality parameters</p></li>
+<li><p>System Maintenance: Would upgrade firmware here</p></li>
+</ul>
+<p><strong>Communication:</strong></p>
+<ul>
+<li>enables you to talk to Flowtracker2 from your PC</li>
+</ul>
+<p><strong>System Information:</strong></p>
+<ul>
+<li>Basic information that cannot be changed. The tech support number is provided here, along with firmware number.</li>
+</ul>
+</section>
+<section id="field-measurements" class="level2">
+<h2 class="anchored" data-anchor-id="field-measurements">Field Measurements</h2>
+<p>For reference, banks are defined by their position when looking downstream (left bank or right bank)</p>
+<section id="taking-measurements-using-the-midsection-method" class="level3">
+<h3 class="anchored" data-anchor-id="taking-measurements-using-the-midsection-method">Taking measurements using the Midsection Method</h3>
+<p>The Midsection method is used to take streamflow measurements, which divides the stream cross-section into smaller sections and calculates the flow individually in each section. These are then added to together to calculate the total flow. Section widths are found by dividing the cross-section width by 25 or 30 (these can be rounded to make tracking progress easier).</p>
+<ol type="1">
+<li><p>Set up the measuring tape across the channel, perpendicular to the flow direction. Use the rebar or other methods to attach the measuring tape to each side.</p></li>
+<li><p>Each section should ideally account for 5% or less of the total flow. If a section accounts for more than 10% of flow, then that section should be split into two or more sections and the velocity should be re-taken for each of them.</p>
+<ul>
+<li>No section width should be less than 0.3 ft</li>
+</ul></li>
+<li><p>Point the velocimeter upstream and perpendicular to the measuring tape.</p></li>
+<li><p>Stand downstream of the velocimeter to avoid impacting the velocity reading by impacting the flow.</p></li>
+</ol>
+</section>
+<section id="pre-measurement-checks" class="level3">
+<h3 class="anchored" data-anchor-id="pre-measurement-checks">Pre-Measurement Checks</h3>
+<p>Before beginnging measurements, a few basic checks with the Flowtracker2 need to be performed first in the water.</p>
+<p>Go to Utilities:</p>
+<ul>
+<li><p>Raw Data: The device will start sending out the acoustic signal. Check the data to make sure the device is operating at a basic level normally. -</p>
+<ul>
+<li><p>Are velocities appearing and are they normal?</p></li>
+<li><p>Are SNR’s reasonable (ideal is greater than 10dB; minimum is 2-3 dB)?</p></li>
+<li><p>A few minutes may be needed for the temperature sensor to equilibrate</p></li>
+<li><p>verify that the tilt sensor is working - another chance to check the battery</p></li>
+</ul></li>
+<li><p>Automated Beam Check:</p>
+<ul>
+<li>hit start</li>
+<li>instrument will check a few parameters (signal strength, peak, etc)</li>
+<li>beam check will pass or fail</li>
+</ul></li>
+<li><p>Beam Check:</p>
+<ul>
+<li>will show a graph of each beam and their signal strength with each ping to visualize where peak position is and how high the signal strength is</li>
+<li>record several seconds of this to have on file</li>
+<li>can go back later to justify quality of data with the beam check</li>
+</ul></li>
+</ul>
 
 
+</section>
+</section>
 </section>
 
 </main> <!-- /main -->
