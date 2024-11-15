@@ -6,18 +6,16 @@ There are a few factors to consider when choosing a site to take a flow measurem
 
 ## Features
 
-**River Channel:** Look for an area where the channel is straight and uniform, supporting more laminar flow. Avoid sections where there are eddy's or areas of turbulence. 
+**Channel bed geometry:** Look for an area where the channel is symmetrical, straight, uniform, supporting more laminar flow. There should be defined banks on both sides of the cross-section (stable and not easily susceptible to scouring, deposition, or migration) and no abrupt changes in bed elevation across the chosen transect.
+
+**Parallel flow lines:** There should be uniform flow across the entire stream width where the transect is. Avoid braided or split channels, and no bends upstream or downstream that could affect the flow lines in the cross-section.
 
 This may be upstream of a "control," or a physical feature downstream that controls the flow in the channel segment above it. Examples are morphological units that constrict flow, such as stable riffles or bedrock outcroppings.
 
-Channel banks should be stable and not easily susceptible to scouring, deposition, or migration. 
-
 (Upload picture)
 
-**Access:** This may end up being a more limiting factor, but the site chosen will need to be somewhere that can be accessed for data collection or for regular maintenance if a gauge is installed. 
-
-## Other Considerations
-
-Check for vegetation and algae growth, or any obstructions such as boulders, branches, or log jams. These can create sections of scouring and deposition, and create turbulence. 
+**Free of obstructions:** Check for aquatic vegetation, or any obstructions such as weeds, large cobbles, boulders, branches, or log jams. These can create areas of eddies, slack water, or turbulence. These obstructions should be avoided or removed (if possible) before any measurements are taken. 
 
 Be aware of where tributaries connect either upstream or downstream of the chosen flow measurement site.
+
+**Access:** This may end up being a more limiting factor, but the site chosen will need to be somewhere that can be accessed for data collection or for regular maintenance if a gauge is installed. 

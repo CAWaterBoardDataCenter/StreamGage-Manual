@@ -1,9 +1,5 @@
 # Getting ready for the field
 
-Checking out gear:
-
-Vehicle reservation: see [Travel](https://cawaterboarddatacenter.github.io/StreamGage-Manual/travel.html)
-
 # Equipment Checklist
 
 -   Personal items:

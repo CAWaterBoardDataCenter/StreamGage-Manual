@@ -1,1 +1,115 @@
-# Flowtracker2
+# Streamflow Measurements
+
+## FlowTracker2
+
+The SonTek FlowTracker2 is one of the Division's preferred velocimeters, due to it's accuracy, automated discharge calculation, direct data transfer capabilities, and durability. It can measure velocity in depths as shallow as 0.79 inches and velocities as low as 0.003 ft/s.
+
+See the [user's manual](https://www.geotechenv.com/Manuals/SonTek_Manuals/sontek_flowtracker2_manual.pdf) for more detailed information.
+
+(insert pic of flowtracker with labeled components)
+
+SonTek provided a series of [instructional YouTube videos](https://www.youtube.com/watch?v=cEAX7w05lWg&list=PLCbJJUmLdIBHT2QOwT6Bp0Wo_HnPLjGoN) walking through setting up and using the Flowtracker 2.
+
+## Setting up the Flowtracker2
+
+There should be a quick start guide within the flowtracker2 case.
+
+**Wading Rod:**
+
+-   Screw the large diameter rod in first
+
+-   Use the handle on the top to screw the small diameter rod into place
+
+**Mount Flowtracker:**
+
+-   mount the ADV probe into the bracket so that it lines up with the set screw within the mounting pin
+
+-   hand tighten the set screw (wrench can be used to tighten)
+
+-   8-pin connector on the other end of the cable goes into the handheld
+
+-   handheld has a bracket (single screw) that mounts to the wading rod
+
+-   there is a mounting pin on top of the wading rod the handheld bracket can then be mounted and tightened on
+
+Once the Flowtracker and wading rod are set up and connected, turn on the handheld and set up the device for use.
+
+**Device Configuration:**
+
+-   User Interface: language, color scheme, font size, beeper, etc
+
+-   Application Settings: Units (metric, US), wading rod settings, file naming, folder naming, etc
+
+-   Discharge Templates: Can save all these settings in a template file (or do this in the office)
+
+-   General Templates:
+
+**Utilities:**
+
+-   System Clock: Can either use UTC time on the device or set the time manually.
+
+-   Recorder: shows how much space is left (always make sure there is enough space left on the device before recording measurements)
+
+-   Battery Data: Can see what percentage is left or the voltage. Can change battery type to make estimates more accurate
+
+-   Raw Data and Beam Check: Check these before beginning measurements
+
+-   GPS Data: can verify GPS information, satellites, and quality parameters
+
+-   System Maintenance: Would upgrade firmware here
+
+**Communication:**
+
+-   enables you to talk to Flowtracker2 from your PC
+
+**System Information:**
+
+-   Basic information that cannot be changed. The tech support number is provided here, along with firmware number.
+
+## Field Measurements
+
+For reference, banks are defined by their position when looking downstream (left bank or right bank)
+
+### Taking measurements using the Midsection Method
+
+The Midsection method is used to take streamflow measurements, which divides the stream cross-section into smaller sections and calculates the flow individually in each section. These are then added to together to calculate the total flow. Section widths are found by dividing the cross-section width by 25 or 30 (these can be rounded to make tracking progress easier).
+
+1)  Set up the measuring tape across the channel, perpendicular to the flow direction. Use the rebar or other methods to attach the measuring tape to each side.
+
+2)  Each section should ideally account for 5% or less of the total flow. If a section accounts for more than 10% of flow, then that section should be split into two or more sections and the velocity should be re-taken for each of them.
+
+    -   No section width should be less than 0.3 ft
+
+3)  Point the velocimeter upstream and perpendicular to the measuring tape.
+
+4)  Stand downstream of the velocimeter to avoid impacting the velocity reading by impacting the flow.
+
+### Pre-Measurement Checks
+
+Before beginnging measurements, a few basic checks with the Flowtracker2 need to be performed first in the water.
+
+Go to Utilities:
+
+-   Raw Data: The device will start sending out the acoustic signal. Check the data to make sure the device is operating at a basic level normally. -
+
+    -   Are velocities appearing and are they normal?
+
+    -   Are SNR's reasonable (ideal is greater than 10dB; minimum is 2-3 dB)?
+
+    -   A few minutes may be needed for the temperature sensor to equilibrate
+
+    -   verify that the tilt sensor is working - another chance to check the battery
+
+-   Automated Beam Check:
+
+    -   hit start
+    -   instrument will check a few parameters (signal strength, peak, etc)
+    -   beam check will pass or fail
+
+-   Beam Check:
+
+    -   will show a graph of each beam and their signal strength with each ping to visualize where peak position is and how high the signal strength is
+    -   record several seconds of this to have on file
+    -   can go back later to justify quality of data with the beam check
+    
+
