@@ -1,1 +1,30 @@
+# Rating Curves
+
+A rating curve is a site-specific relationship between the stream stage and discharge measurements. They are developed by collecting discharge measurements at a range of stages from low flow to flood stage over a period of time. The rating curve is different for every stream gage as the stage-discharge relationship depends on the stream channel's size, shape, slope, and roughness at the gage of interest.
+
+To keep a rating curve accurate, each stream gage should be visited once every few weeks (USGS visits about every 6 weeks) to make a discharge measurement. This is necessary as stream channels change due to factors such as sedimentation, growth of aquatic vegetation, debris accumulation, scouring, etc, and will cause a rating curves to vary overtime.
+
 # Rating Curve Development
+
+Stage and discharge are plotted against each other so that a line/curve can be drawn through the points to describe the relationship. As discharge measurements are only taken at a gage every few weeks, it takes time to develop a rating curve. The line describing the relationship is drawn only once a sufficient number of stage-discharge pairs are plotted (from low flows to flood stage).
+
+```{r, echo=FALSE}
+#| echo: false
+library(tidyverse)
+q<-c(1, 2, 2.3, 3, 0.5, 1.6, 2.7, 0.8, 1.4)
+z<-c(1, 1.5, 1.7, 2, 0.3, 1.6, 1.4, 0.5, 1.2)
+
+curve<-data.frame(q,z)
+
+p<-ggplot(curve,aes(x=q,y=z))+
+  geom_point()+
+  geom_smooth(method="lm",se=FALSE)+   # adding a regression line, hiding confidence intervals
+  xlab("Discharge")+
+  ylab("Stage")+
+  xlim(0,3)+
+  ylim(0,3)
+p
+
+```
+
+As more data is collected and stage-discharge points are plotted, the rating curve may change as it more accurately reflects the relationship over a wider range of flows.
