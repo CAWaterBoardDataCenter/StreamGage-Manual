@@ -9,7 +9,7 @@ To keep a rating curve accurate, each stream gage should be visited once every f
 Stage and discharge are plotted against each other so that a line/curve can be drawn through the points to describe the relationship. As discharge measurements are only taken at a gage every few weeks, it takes time to develop a rating curve. The line describing the relationship is drawn only once a sufficient number of stage-discharge pairs are plotted (from low flows to flood stage).
 
 ```{r}
-#| echo: false
+
 library(tidyverse)
 q<-c(1, 2, 2.3, 3, 0.5, 1.6, 2.7, 0.8, 1.4)
 z<-c(1, 1.5, 1.7, 2, 0.3, 1.6, 1.4, 0.5, 1.2)
