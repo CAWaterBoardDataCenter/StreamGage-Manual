@@ -32,4 +32,4 @@ ggplot(curve,aes(x=q,y=z))+
 
 ```
 
-As more data is collected and stage-discharge points are plotted, the rating curve may change as it more accurately reflects the relationship over a wider range of flows.
+As more data is collected and stage-discharge points are plotted, the rating curve may change as it more accurately reflects the relationship over a wider range of conditions and flows.
