@@ -32,9 +32,9 @@
   {
     "objectID": "ratings/index.html",
     "href": "ratings/index.html",
-    "title": "Rating Curve Development",
+    "title": "Rating Curves",
     "section": "",
-    "text": "Rating Curve Development",
+    "text": "Rating Curves\nA rating curve is a site-specific relationship between the stream stage and discharge measurements. They are developed by collecting discharge measurements at a range of stages from low flow to flood stage over a period of time. The rating curve is different for every stream gage as the stage-discharge relationship depends on the stream channel’s size, shape, slope, and roughness at the gage of interest.\nTo keep a rating curve accurate, each stream gage should be visited once every few weeks (USGS visits about every 6 weeks) to make a discharge measurement. This is necessary as stream channels change due to factors such as sedimentation, growth of aquatic vegetation, debris accumulation, scouring, etc, and will cause a rating curves to vary overtime.\n\n\nRating Curve Development\nStage and discharge are plotted against each other so that a line/curve can be drawn through the points to describe the relationship. As discharge measurements are only taken at a gage every few weeks, it takes time to develop a rating curve. The line describing the relationship is drawn only once a sufficient number of stage-discharge pairs are plotted (from low flows to flood stage).\n\n\n\nFigure 1: Rating curve example\n\n\nAs more data is collected and stage-discharge points are plotted, the rating curve may change as it more accurately reflects the relationship over a wider range of conditions and flows.",
     "crumbs": [
       "Rating Curves"
     ]
@@ -456,7 +456,7 @@
     "href": "adcp/streamflow_field_measurement.html",
     "title": "Streamflow: Field Measurement",
     "section": "",
-    "text": "This section describes field measurements and procedures for the ADCP, which is used in deep or large rivers, or in smaller rivers with high flows. The ADCP requires water depths of at least 1 ft (2 or more feet is better). For streamflow measurements in wadeable streams (not ADCP), please see the flow measurement section.\nStandard operating procedures, including (general) site selection, note-taking, safety, and data management, follows the same general principles for both ADCP measurements and measurements made by wading in the stream using a flowtracker or other similar instrument. Please refer to add section here.\nThis page deals with the specifics of collecting good streamflow measurements using the Sontek M9 using either a bridge or shore tether or driving the rQPOD motor.\nSontek has a video training series on collecting streamflow data with the ADCP. Waterboards held a training day on 9/11/2024 and recorded the pre-field training.\n\n\n\ninstall software\ncheck equipment\n\n\n\n\nPlease review the Xylem site selection guide (also on Xylem site) to familiarize yourself with concepts such as uniform flow, turbulence, and magnetic interference.\ntest1\n{{&lt; https://www.youtube.com/embed/lWcFOu3bmqU?si=xYSK8IdnWCzQi8P_  &gt;}}\ntest2\n\n\n\n\n\n\n\n\n\n\n\n\n\npreparing for measuring\nVideo on moving boat transect",
+    "text": "This section describes field measurements and procedures for the ADCP, which is used in deep or large rivers, or in smaller rivers with high flows. The ADCP requires water depths of at least 1 ft (2 or more feet is better). For streamflow measurements in wadeable streams (not ADCP), please see the flow measurement section.\nStandard operating procedures, including (general) site selection, note-taking, safety, and data management, follows the same general principles for both ADCP measurements and measurements made by wading in the stream using a flowtracker or other similar instrument. Please refer to add section here.\nThis page deals with the specifics of collecting good streamflow measurements using the Sontek M9 using either a bridge or shore tether or driving the rQPOD motor.\nSontek has a video training series on collecting streamflow data with the ADCP. Waterboards held a training day on 9/11/2024 and recorded the pre-field training.\n\n\n\ninstall software\ncheck equipment\n\n\n\n\nPlease review the Xylem site selection guide (also on Xylem site) to familiarize yourself with concepts such as uniform flow, turbulence, and magnetic interference.\ntest1\n{{&lt; https://www.youtube.com/embed/lWcFOu3bmqU?si=xYSK8IdnWCzQi8P_ &gt;}}\ntest2\n\n\n\n\n\n\n\n\n\n\n\n\n\npreparing for measuring\nVideo on moving boat transect",
     "crumbs": [
       "ADCP Operations",
       "Streamflow: Field Measurement"
@@ -478,7 +478,7 @@
     "href": "adcp/streamflow_field_measurement.html#site-selection",
     "title": "Streamflow: Field Measurement",
     "section": "",
-    "text": "Please review the Xylem site selection guide (also on Xylem site) to familiarize yourself with concepts such as uniform flow, turbulence, and magnetic interference.\ntest1\n{{&lt; https://www.youtube.com/embed/lWcFOu3bmqU?si=xYSK8IdnWCzQi8P_  &gt;}}\ntest2",
+    "text": "Please review the Xylem site selection guide (also on Xylem site) to familiarize yourself with concepts such as uniform flow, turbulence, and magnetic interference.\ntest1\n{{&lt; https://www.youtube.com/embed/lWcFOu3bmqU?si=xYSK8IdnWCzQi8P_ &gt;}}\ntest2",
     "crumbs": [
       "ADCP Operations",
       "Streamflow: Field Measurement"

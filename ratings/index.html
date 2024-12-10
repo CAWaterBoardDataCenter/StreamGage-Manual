@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -38,12 +38,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-d166b450ba5a8e9f7a0ab969bf6592c1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-d25a479d1077fef7c577fa0dcfee3c21.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-ce8a0e9f2171f13bbe370be1cfc62444.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -303,18 +303,32 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#rating-curve-development" id="toc-rating-curve-development" class="nav-link active" data-scroll-target="#rating-curve-development">Rating Curve Development</a></li>
+  <li><a href="#rating-curves" id="toc-rating-curves" class="nav-link active" data-scroll-target="#rating-curves">Rating Curves</a></li>
+  <li><a href="#rating-curve-development" id="toc-rating-curve-development" class="nav-link" data-scroll-target="#rating-curve-development">Rating Curve Development</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/CAWaterBoardDataCenter/StreamGage-Manual/edit/main/ratings/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/StreamGage-Manual/blob/main/ratings/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/StreamGage-Manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
 
+<section id="rating-curves" class="level1">
+<h1>Rating Curves</h1>
+<p>A rating curve is a site-specific relationship between the stream stage and discharge measurements. They are developed by collecting discharge measurements at a range of stages from low flow to flood stage over a period of time. The rating curve is different for every stream gage as the stage-discharge relationship depends on the stream channel’s size, shape, slope, and roughness at the gage of interest.</p>
+<p>To keep a rating curve accurate, each stream gage should be visited once every few weeks (USGS visits about every 6 weeks) to make a discharge measurement. This is necessary as stream channels change due to factors such as sedimentation, growth of aquatic vegetation, debris accumulation, scouring, etc, and will cause a rating curves to vary overtime.</p>
+</section>
 <section id="rating-curve-development" class="level1">
 <h1>Rating Curve Development</h1>
+<p>Stage and discharge are plotted against each other so that a line/curve can be drawn through the points to describe the relationship. As discharge measurements are only taken at a gage every few weeks, it takes time to develop a rating curve. The line describing the relationship is drawn only once a sufficient number of stage-discharge pairs are plotted (from low flows to flood stage).</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/rating_curve_example.jpeg" class="img-fluid figure-img"></p>
+<figcaption>Figure 1: Rating curve example</figcaption>
+</figure>
+</div>
+<p>As more data is collected and stage-discharge points are plotted, the rating curve may change as it more accurately reflects the relationship over a wider range of conditions and flows.</p>
 
 
 </section>
@@ -546,8 +560,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -658,7 +670,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
