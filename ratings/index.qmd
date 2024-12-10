@@ -13,10 +13,7 @@ Stage and discharge are plotted against each other so that a line/curve can be d
 #| fig-cap: "Figure 1: Rating Curve example"
 #| warning: false
 
-#library(quarto)
-#quarto_render("document.qmd") # all formats
 library(tidyverse)
-#library(knitr)
 library(rmarkdown)
 q<-c(0, 1, 2, 2.3, 3, 0.5, 1.6, 2.7, 0.8, 1.4)
 z<-c(0, 1, 1.5, 1.7, 2, 0.3, 1.6, 1.4, 0.5, 1.2)
