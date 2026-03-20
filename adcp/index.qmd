@@ -17,3 +17,7 @@ The [Sontek M9](https://www.ysi.com/sontek-m9) works to a depth of \~40 m (130 f
 There is a set of 4 3.0 MHz and 4 1.0 MHz transducers for velocity profiling, and one 0.5 MHz vertical beam for maximum depth. The different frequencies allow for high precision and adequate depth coverage.
 
 ![](../images/sontek-hydrosurveyor-m9-with-annotations.jpg){width="600"}
+
+Add more TEXT HERE
+
+![](../images/rQPODthrusters.png){width="600"}
